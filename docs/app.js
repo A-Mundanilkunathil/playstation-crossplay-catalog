@@ -1,7 +1,8 @@
-const state = { games: [], search: "", genre: "", strict: false };
+const state = { games: [], search: "", genre: "", view: "", strict: false };
 
 const $search = document.getElementById("search");
 const $genre = document.getElementById("genre");
+const $view = document.getElementById("view");
 const $toggleLabels = document.getElementById("toggle-labels");
 const $strict = document.getElementById("toggle-strict");
 const $count = document.getElementById("count");
@@ -18,6 +19,7 @@ async function init() {
     return;
   }
   populateGenres();
+  populateViews();
   render();
 }
 
@@ -32,10 +34,33 @@ function populateGenres() {
   }
 }
 
+function populateViews() {
+  // Fixed order that matches the user-facing taxonomy (FPS / TPS / Top-Down /
+  // Side-Scroller / Fixed Camera / VR), only showing options present in data.
+  const ORDER = [
+    "First-Person",
+    "Third-Person",
+    "Top-Down/Isometric",
+    "Side-Scroller/2D",
+    "Fixed Camera",
+    "VR",
+  ];
+  const present = new Set();
+  for (const g of state.games) for (const v of g.view_types || []) present.add(v);
+  for (const name of ORDER) {
+    if (!present.has(name)) continue;
+    const opt = document.createElement("option");
+    opt.value = name;
+    opt.textContent = name;
+    $view.appendChild(opt);
+  }
+}
+
 function passesFilters(g) {
   if (state.strict && g.confidence !== "high") return false;
   if (state.search && !g.title.toLowerCase().includes(state.search)) return false;
   if (state.genre && !(g.genres || []).includes(state.genre)) return false;
+  if (state.view && !(g.view_types || []).includes(state.view)) return false;
   return true;
 }
 
@@ -94,6 +119,7 @@ function card(g) {
   if (g.online_coop) labels.appendChild(badge("online", "Online co-op"));
   if (g.splitscreen) labels.appendChild(badge("splitscr", "Splitscreen"));
   for (const p of g.crossplay_platforms || []) labels.appendChild(badge("plat", p));
+  for (const v of g.view_types || []) labels.appendChild(badge("view", v));
   for (const genre of (g.genres || []).slice(0, 5)) labels.appendChild(badge("genre", genre));
   body.appendChild(labels);
 
@@ -133,6 +159,10 @@ $search.addEventListener("input", e => {
 });
 $genre.addEventListener("change", e => {
   state.genre = e.target.value;
+  render();
+});
+$view.addEventListener("change", e => {
+  state.view = e.target.value;
   render();
 });
 $toggleLabels.addEventListener("change", e => {

@@ -63,7 +63,8 @@
     "background_image": "https://media.rawg.io/media/games/bb8/bb8a1de04cf151b55bcb9b5a38ba9a0b.jpg",
     "release_year": null,
     "sources": [
-      "wikipedia"
+      "wikipedia",
+      "crossplaygames"
     ],
     "confidence": "high",
     "crossplay_platforms": [
@@ -73,7 +74,39 @@
       "XBO",
       "XBSX"
     ],
-    "in_extra": false
+    "in_extra": false,
+    "view_types": [
+      "Third-Person"
+    ]
+  },
+  {
+    "title": "All Elite Wrestling (AEW): Fight Forever",
+    "genres": [
+      "Sports"
+    ],
+    "tags": [],
+    "platforms": [
+      "Android"
+    ],
+    "splitscreen": false,
+    "online_coop": false,
+    "players": null,
+    "rawg_id": 47902,
+    "rawg_slug": "wrassling-wacky-wrestling",
+    "background_image": "https://media.rawg.io/media/screenshots/548/5486081eff635474491448d7bb33cb79.jpg",
+    "release_year": null,
+    "sources": [
+      "crossplaygames"
+    ],
+    "confidence": "high",
+    "crossplay_platforms": [
+      "PS4",
+      "PS5",
+      "XBO",
+      "XBSX"
+    ],
+    "in_extra": false,
+    "view_types": []
   },
   {
     "title": "Among Us",
@@ -143,7 +176,10 @@
       "XBO",
       "XBSX"
     ],
-    "in_extra": false
+    "in_extra": false,
+    "view_types": [
+      "Side-Scroller/2D"
+    ]
   },
   {
     "title": "Apex Legends",
@@ -221,7 +257,90 @@
       "XBO",
       "XBSX"
     ],
-    "in_extra": false
+    "in_extra": false,
+    "view_types": [
+      "First-Person"
+    ]
+  },
+  {
+    "title": "Apico",
+    "genres": [
+      "Indie",
+      "Simulation"
+    ],
+    "tags": [
+      "singleplayer",
+      "steam-achievements",
+      "indi-2",
+      "multiplayer",
+      "steam-cloud",
+      "co-op",
+      "otkrytyi-mir",
+      "open-world",
+      "kazualnaia-igra",
+      "2d",
+      "partial-controller-support",
+      "simuliator",
+      "online-co-op",
+      "exploration",
+      "sandbox",
+      "pesochnitsa",
+      "pikselnaia-grafika",
+      "pixel-graphics",
+      "cross-platform-multiplayer",
+      "dlia-vsei-semi",
+      "milaia",
+      "tsvetastaia",
+      "family-friendly",
+      "cute",
+      "colorful",
+      "stroitelstvo",
+      "building",
+      "rasslabliaiushchaia",
+      "vid-sverkhu",
+      "menedzhment",
+      "top-down",
+      "management",
+      "relaxing",
+      "issledovaniia",
+      "education",
+      "immersive-sim-2",
+      "setevoi-kooperativ",
+      "nature",
+      "immersivnyi-simuliator",
+      "selskoe-khoziaistvo",
+      "priroda",
+      "agriculture",
+      "obrazovanie"
+    ],
+    "platforms": [
+      "PC",
+      "macOS",
+      "Linux"
+    ],
+    "splitscreen": false,
+    "online_coop": true,
+    "players": null,
+    "rawg_id": 789936,
+    "rawg_slug": "apico",
+    "background_image": "https://media.rawg.io/media/screenshots/3b2/3b2d3cab4923bce0aba1c79a875cf2c8.jpg",
+    "release_year": null,
+    "sources": [
+      "crossplaygames"
+    ],
+    "confidence": "high",
+    "crossplay_platforms": [
+      "PC",
+      "PS4",
+      "PS5",
+      "Switch",
+      "XBO"
+    ],
+    "in_extra": false,
+    "view_types": [
+      "Top-Down/Isometric",
+      "Side-Scroller/2D"
+    ]
   },
   {
     "title": "ARC Raiders",
@@ -299,7 +418,85 @@
       "PS5",
       "XBSX"
     ],
-    "in_extra": false
+    "in_extra": false,
+    "view_types": [
+      "Third-Person"
+    ]
+  },
+  {
+    "title": "Arcadegeddon",
+    "genres": [
+      "Shooter",
+      "Adventure",
+      "Action"
+    ],
+    "tags": [
+      "singleplayer",
+      "dlia-odnogo-igroka",
+      "ekshen",
+      "prikliuchenie",
+      "steam-achievements",
+      "indi-2",
+      "multiplayer",
+      "full-controller-support",
+      "dlia-neskolkikh-igrokov",
+      "co-op",
+      "shuter",
+      "online-co-op",
+      "retro-2",
+      "shuter-ot-tretego-litsa",
+      "third-person-shooter",
+      "stats",
+      "arkada",
+      "retro",
+      "pvp",
+      "cross-platform-multiplayer",
+      "igrok-protiv-igroka",
+      "reigrabelnost",
+      "in-app-purchases",
+      "tsvetastaia",
+      "replay-value",
+      "colorful",
+      "futuristic",
+      "budushchee",
+      "kiberpank",
+      "cyberpunk",
+      "online-pvp",
+      "uproshchionnyi-rogalik",
+      "steam-trading-cards-2",
+      "roguelite",
+      "pve",
+      "setevoi-kooperativ",
+      "action-roguelike-2",
+      "ekshen-rogalik",
+      "igrok-protiv-ii",
+      "looter-shooter",
+      "luter-shuter",
+      "party-game-2",
+      "komandnaia-igra"
+    ],
+    "platforms": [
+      "PC",
+      "PlayStation 5"
+    ],
+    "splitscreen": false,
+    "online_coop": true,
+    "players": null,
+    "rawg_id": 633391,
+    "rawg_slug": "arcadegeddon",
+    "background_image": "https://media.rawg.io/media/games/7d6/7d6d45da85b0fdf567343258124ede1e.jpg",
+    "release_year": null,
+    "sources": [
+      "crossplaygames"
+    ],
+    "confidence": "high",
+    "crossplay_platforms": [
+      "PC",
+      "PS4",
+      "PS5"
+    ],
+    "in_extra": false,
+    "view_types": []
   },
   {
     "title": "Ark: Survival Ascended",
@@ -373,7 +570,8 @@
     "background_image": "https://media.rawg.io/media/screenshots/c12/c122154db00ae6e3701c1520aec516f6.jpg",
     "release_year": null,
     "sources": [
-      "wikipedia"
+      "wikipedia",
+      "crossplaygames"
     ],
     "confidence": "high",
     "crossplay_platforms": [
@@ -381,7 +579,8 @@
       "PS5",
       "XBSX"
     ],
-    "in_extra": false
+    "in_extra": false,
+    "view_types": []
   },
   {
     "title": "Armello",
@@ -467,7 +666,72 @@
       "XBO",
       "XBSX"
     ],
-    "in_extra": false
+    "in_extra": false,
+    "view_types": []
+  },
+  {
+    "title": "Avatar: Frontiers of Pandora",
+    "genres": [
+      "Adventure",
+      "Action"
+    ],
+    "tags": [
+      "singleplayer",
+      "dlia-odnogo-igroka",
+      "ekshen",
+      "prikliuchenie",
+      "steam-achievements",
+      "multiplayer",
+      "atmospheric",
+      "glubokii-siuzhet",
+      "co-op",
+      "story-rich",
+      "otkrytyi-mir",
+      "open-world",
+      "shuter",
+      "ot-pervogo-litsa",
+      "first-person",
+      "nauchnaia-fantastika",
+      "sci-fi",
+      "partial-controller-support",
+      "online-co-op",
+      "exploration",
+      "kastomizatsiia-personazha",
+      "in-app-purchases",
+      "character-customization",
+      "3d",
+      "atmosfernaia",
+      "issledovaniia",
+      "family-sharing",
+      "immersive-sim-2",
+      "setevoi-kooperativ",
+      "immersivnyi-simuliator"
+    ],
+    "platforms": [
+      "PC",
+      "PlayStation 5",
+      "Xbox Series S/X"
+    ],
+    "splitscreen": false,
+    "online_coop": true,
+    "players": null,
+    "rawg_id": 616677,
+    "rawg_slug": "avatar-frontiers-of-pandora",
+    "background_image": "https://media.rawg.io/media/games/983/9837c2e9a13a92c55c47327dfc22a81f.jpeg",
+    "release_year": null,
+    "sources": [
+      "crossplaygames"
+    ],
+    "confidence": "high",
+    "crossplay_platforms": [
+      "PC",
+      "PS5",
+      "XBSX"
+    ],
+    "in_extra": false,
+    "view_types": [
+      "First-Person"
+    ]
   },
   {
     "title": "Back 4 Blood",
@@ -554,7 +818,100 @@
       "XBO",
       "XBSX"
     ],
-    "in_extra": true
+    "in_extra": true,
+    "view_types": [
+      "First-Person"
+    ]
+  },
+  {
+    "title": "Battlefield 2042",
+    "genres": [
+      "Casual",
+      "Shooter",
+      "Adventure",
+      "Action"
+    ],
+    "tags": [
+      "ekshen",
+      "prikliuchenie",
+      "steam-achievements",
+      "multiplayer",
+      "full-controller-support",
+      "dlia-neskolkikh-igrokov",
+      "co-op",
+      "shuter",
+      "kazualnaia-igra",
+      "ot-pervogo-litsa",
+      "first-person",
+      "fps",
+      "shuter-ot-pervogo-litsa",
+      "online-co-op",
+      "action-rpg",
+      "rolevoi-ekshen",
+      "pvp",
+      "igrok-protiv-igroka",
+      "war",
+      "in-app-purchases",
+      "voina",
+      "fizika",
+      "physics",
+      "cinematic",
+      "combat",
+      "futuristic",
+      "team-based",
+      "komandnaia",
+      "voennye-deistviia",
+      "budushchee",
+      "military",
+      "online-pvp",
+      "kinematografichnaia",
+      "online",
+      "boi-2",
+      "destruction",
+      "razrusheniia",
+      "console",
+      "offline",
+      "modern",
+      "sovremennost",
+      "future",
+      "hero-shooter-2",
+      "vehicular-combat-2",
+      "geroiskii-shuter",
+      "gonki-na-vyzhivanie",
+      "beta",
+      "melee",
+      "vehicle"
+    ],
+    "platforms": [
+      "PC",
+      "PlayStation 5",
+      "Xbox One",
+      "PlayStation 4",
+      "Xbox Series S/X"
+    ],
+    "splitscreen": false,
+    "online_coop": true,
+    "players": null,
+    "rawg_id": 614954,
+    "rawg_slug": "battlefield-6",
+    "background_image": "https://media.rawg.io/media/games/af2/af2b640fa820e8a8135948a4cd399539.jpg",
+    "release_year": null,
+    "sources": [
+      "wikipedia",
+      "crossplaygames"
+    ],
+    "confidence": "high",
+    "crossplay_platforms": [
+      "PC",
+      "PS4",
+      "PS5",
+      "XBO",
+      "XBSX"
+    ],
+    "in_extra": false,
+    "view_types": [
+      "First-Person"
+    ]
   },
   {
     "title": "Battlefield 6",
@@ -641,7 +998,10 @@
       "PS5",
       "XBSX"
     ],
-    "in_extra": false
+    "in_extra": false,
+    "view_types": [
+      "First-Person"
+    ]
   },
   {
     "title": "BlazBlue: Chrono Phantasma",
@@ -673,7 +1033,8 @@
       "PS4",
       "PS5"
     ],
-    "in_extra": false
+    "in_extra": false,
+    "view_types": []
   },
   {
     "title": "Blood Bowl 3",
@@ -754,7 +1115,10 @@
       "XBO",
       "XBSX"
     ],
-    "in_extra": true
+    "in_extra": true,
+    "view_types": [
+      "Top-Down/Isometric"
+    ]
   },
   {
     "title": "Borderlands 3",
@@ -845,7 +1209,8 @@
     "background_image": "https://media.rawg.io/media/games/9f1/9f1891779cb20f44de93cef33b067e50.jpg",
     "release_year": null,
     "sources": [
-      "wikipedia"
+      "wikipedia",
+      "crossplaygames"
     ],
     "confidence": "high",
     "crossplay_platforms": [
@@ -855,7 +1220,10 @@
       "XBO",
       "XBSX"
     ],
-    "in_extra": false
+    "in_extra": false,
+    "view_types": [
+      "First-Person"
+    ]
   },
   {
     "title": "Boundless",
@@ -942,7 +1310,11 @@
       "PS4",
       "PS5"
     ],
-    "in_extra": false
+    "in_extra": false,
+    "view_types": [
+      "First-Person",
+      "Side-Scroller/2D"
+    ]
   },
   {
     "title": "Brawlhalla",
@@ -1019,7 +1391,10 @@
       "XBO",
       "XBSX"
     ],
-    "in_extra": false
+    "in_extra": false,
+    "view_types": [
+      "Side-Scroller/2D"
+    ]
   },
   {
     "title": "Breakers Collection",
@@ -1092,7 +1467,10 @@
       "XBO",
       "XBSX"
     ],
-    "in_extra": false
+    "in_extra": false,
+    "view_types": [
+      "Side-Scroller/2D"
+    ]
   },
   {
     "title": "Call of Duty: Black Ops Cold War",
@@ -1159,7 +1537,8 @@
     "background_image": "https://media.rawg.io/media/games/6b1/6b14dc4cc1785e396580c69165e55d2d.jpg",
     "release_year": null,
     "sources": [
-      "wikipedia"
+      "wikipedia",
+      "crossplaygames"
     ],
     "confidence": "high",
     "crossplay_platforms": [
@@ -1169,7 +1548,89 @@
       "XBO",
       "XBSX"
     ],
-    "in_extra": false
+    "in_extra": false,
+    "view_types": [
+      "First-Person"
+    ]
+  },
+  {
+    "title": "Call of Duty: Black Ops III",
+    "genres": [
+      "Shooter",
+      "Action"
+    ],
+    "tags": [
+      "singleplayer",
+      "dlia-odnogo-igroka",
+      "ekshen",
+      "steam-achievements",
+      "multiplayer",
+      "full-controller-support",
+      "atmospheric",
+      "dlia-neskolkikh-igrokov",
+      "atmosfera",
+      "otlichnyi-saundtrek",
+      "great-soundtrack",
+      "glubokii-siuzhet",
+      "co-op",
+      "story-rich",
+      "otkrytyi-mir",
+      "open-world",
+      "cooperative",
+      "shuter",
+      "ot-pervogo-litsa",
+      "first-person",
+      "nauchnaia-fantastika",
+      "sci-fi",
+      "fps",
+      "shuter-ot-pervogo-litsa",
+      "simuliator",
+      "miaso",
+      "gore",
+      "steam-leaderboards",
+      "steam-workshop",
+      "zombies",
+      "zombi-2",
+      "futuristic",
+      "parkur-2",
+      "budushchee",
+      "parkour",
+      "valve-anti-cheat-enabled",
+      "robots",
+      "roboty",
+      "battle",
+      "illuminati",
+      "quick-time-events",
+      "illiuminaty"
+    ],
+    "platforms": [
+      "PC",
+      "Xbox One",
+      "PlayStation 4",
+      "Xbox 360",
+      "PlayStation 3"
+    ],
+    "splitscreen": false,
+    "online_coop": true,
+    "players": null,
+    "rawg_id": 906,
+    "rawg_slug": "cod-black-ops-iii",
+    "background_image": "https://media.rawg.io/media/games/fd6/fd6a1eecd3ec0f875f1924f3656b7dd9.jpg",
+    "release_year": null,
+    "sources": [
+      "crossplaygames"
+    ],
+    "confidence": "high",
+    "crossplay_platforms": [
+      "PS4",
+      "PS5",
+      "XBO",
+      "XBSX"
+    ],
+    "in_extra": false,
+    "view_types": [
+      "First-Person"
+    ]
   },
   {
     "title": "Call of Duty: Modern Warfare II",
@@ -1245,7 +1706,8 @@
     "background_image": "https://media.rawg.io/media/games/1af/1af8edc7491c6d9d0776fc423d93548d.jpg",
     "release_year": null,
     "sources": [
-      "wikipedia"
+      "wikipedia",
+      "crossplaygames"
     ],
     "confidence": "high",
     "crossplay_platforms": [
@@ -1255,7 +1717,11 @@
       "XBO",
       "XBSX"
     ],
-    "in_extra": false
+    "in_extra": false,
+    "view_types": [
+      "First-Person",
+      "Third-Person"
+    ]
   },
   {
     "title": "Call of Duty: Modern Warfare III",
@@ -1335,7 +1801,10 @@
       "XBO",
       "XBSX"
     ],
-    "in_extra": false
+    "in_extra": false,
+    "view_types": [
+      "First-Person"
+    ]
   },
   {
     "title": "Call of Duty: Vanguard",
@@ -1394,7 +1863,8 @@
     "background_image": "https://media.rawg.io/media/games/fa8/fa870a46d5e3e8cb1fa0a5e4f798ff2a.jpg",
     "release_year": null,
     "sources": [
-      "wikipedia"
+      "wikipedia",
+      "crossplaygames"
     ],
     "confidence": "high",
     "crossplay_platforms": [
@@ -1404,7 +1874,133 @@
       "XBO",
       "XBSX"
     ],
-    "in_extra": false
+    "in_extra": false,
+    "view_types": [
+      "First-Person"
+    ]
+  },
+  {
+    "title": "Call of Duty: Warzone",
+    "genres": [
+      "Shooter"
+    ],
+    "tags": [
+      "multiplayer",
+      "military",
+      "modern",
+      "battle-royale-2",
+      "politics"
+    ],
+    "platforms": [
+      "PC",
+      "Xbox One",
+      "PlayStation 4"
+    ],
+    "splitscreen": false,
+    "online_coop": true,
+    "players": null,
+    "rawg_id": 418467,
+    "rawg_slug": "call-of-duty-warzone",
+    "background_image": "https://media.rawg.io/media/games/7e3/7e327a055bedb9b6d1be86593bef473d.jpg",
+    "release_year": null,
+    "sources": [
+      "wikipedia",
+      "crossplaygames"
+    ],
+    "confidence": "high",
+    "crossplay_platforms": [
+      "PC",
+      "PS4",
+      "PS5",
+      "XBO",
+      "XBSX"
+    ],
+    "in_extra": false,
+    "view_types": []
+  },
+  {
+    "title": "Chivalry 2",
+    "genres": [
+      "Indie",
+      "Action"
+    ],
+    "tags": [
+      "ekshen",
+      "steam-achievements",
+      "indi-2",
+      "multiplayer",
+      "full-controller-support",
+      "atmospheric",
+      "dlia-neskolkikh-igrokov",
+      "atmosfera",
+      "steam-trading-cards",
+      "co-op",
+      "cooperative",
+      "ot-pervogo-litsa",
+      "first-person",
+      "ot-tretego-litsa",
+      "third-person",
+      "fps",
+      "shuter-ot-pervogo-litsa",
+      "simuliator",
+      "slozhnaia",
+      "miaso",
+      "gore",
+      "difficult",
+      "nasilie",
+      "violent",
+      "steam-workshop",
+      "pvp",
+      "slesher",
+      "igrok-protiv-igroka",
+      "includes-level-editor",
+      "hack-and-slash",
+      "historical",
+      "istoriia",
+      "team-based",
+      "komandnaia",
+      "sorevnovatelnaia",
+      "srednevekove",
+      "medieval",
+      "competitive",
+      "valve-anti-cheat-enabled",
+      "srazheniia-na-mechakh",
+      "class-based",
+      "razdelenie-na-klassy",
+      "swordplay"
+    ],
+    "platforms": [
+      "PC",
+      "PlayStation 4",
+      "Xbox One",
+      "macOS",
+      "Linux",
+      "Xbox 360",
+      "PlayStation 3"
+    ],
+    "splitscreen": false,
+    "online_coop": true,
+    "players": null,
+    "rawg_id": 3015,
+    "rawg_slug": "chivalry-medieval-warfare",
+    "background_image": "https://media.rawg.io/media/games/7f0/7f021d4a3577ac9d591a628a431fc2e5.jpg",
+    "release_year": null,
+    "sources": [
+      "crossplaygames"
+    ],
+    "confidence": "high",
+    "crossplay_platforms": [
+      "PC",
+      "PS4",
+      "PS5",
+      "XBO",
+      "XBSX"
+    ],
+    "in_extra": false,
+    "view_types": [
+      "First-Person",
+      "Third-Person"
+    ]
   },
   {
     "title": "Crash Drive 3",
@@ -1480,7 +2076,8 @@
     "background_image": "https://media.rawg.io/media/screenshots/3cc/3cc9bbe40fdc699317d6ef148ef239d7.jpg",
     "release_year": null,
     "sources": [
-      "wikipedia"
+      "wikipedia",
+      "crossplaygames"
     ],
     "confidence": "high",
     "crossplay_platforms": [
@@ -1491,7 +2088,8 @@
       "XBO",
       "XBSX"
     ],
-    "in_extra": false
+    "in_extra": false,
+    "view_types": []
   },
   {
     "title": "Curses 'N Chaos",
@@ -1543,7 +2141,10 @@
       "PS4",
       "PS5"
     ],
-    "in_extra": false
+    "in_extra": false,
+    "view_types": [
+      "Side-Scroller/2D"
+    ]
   },
   {
     "title": "Dauntless",
@@ -1626,7 +2227,10 @@
       "XBO",
       "XBSX"
     ],
-    "in_extra": false
+    "in_extra": false,
+    "view_types": [
+      "Third-Person"
+    ]
   },
   {
     "title": "DC Universe Online",
@@ -1699,7 +2303,10 @@
       "PS4",
       "PS5"
     ],
-    "in_extra": false
+    "in_extra": false,
+    "view_types": [
+      "Third-Person"
+    ]
   },
   {
     "title": "Dead by Daylight",
@@ -1764,7 +2371,88 @@
       "XBO",
       "XBSX"
     ],
-    "in_extra": false
+    "in_extra": false,
+    "view_types": [
+      "First-Person",
+      "Third-Person"
+    ]
+  },
+  {
+    "title": "DEATHLOOP",
+    "genres": [
+      "Action",
+      "RPG"
+    ],
+    "tags": [
+      "singleplayer",
+      "dlia-odnogo-igroka",
+      "ekshen",
+      "prikliuchenie",
+      "steam-achievements",
+      "multiplayer",
+      "full-controller-support",
+      "dlia-neskolkikh-igrokov",
+      "glubokii-siuzhet",
+      "story-rich",
+      "shuter",
+      "ot-pervogo-litsa",
+      "first-person",
+      "fps",
+      "shuter-ot-pervogo-litsa",
+      "miaso",
+      "gore",
+      "nasilie",
+      "violent",
+      "stealth",
+      "stels",
+      "action-adventure",
+      "taktika",
+      "tactical",
+      "pvp",
+      "igrok-protiv-igroka",
+      "prikliuchencheskii-ekshen",
+      "exclusive",
+      "seksualnyi-kontent",
+      "parkur-2",
+      "parkour",
+      "sexual-content",
+      "online-pvp",
+      "uproshchionnyi-rogalik",
+      "roguelite",
+      "assassin",
+      "assassiny",
+      "immersive-sim-2",
+      "kontrol-vremeni",
+      "time-manipulation",
+      "island",
+      "immersivnyi-simuliator",
+      "hunt"
+    ],
+    "platforms": [
+      "PC",
+      "PlayStation 5",
+      "Xbox Series S/X"
+    ],
+    "splitscreen": false,
+    "online_coop": true,
+    "players": null,
+    "rawg_id": 326251,
+    "rawg_slug": "deathloop-2",
+    "background_image": "https://media.rawg.io/media/games/018/01857c5ff9579c48fa8bd76b4d83a946.jpg",
+    "release_year": null,
+    "sources": [
+      "crossplaygames"
+    ],
+    "confidence": "high",
+    "crossplay_platforms": [
+      "PC",
+      "PS5",
+      "XBSX"
+    ],
+    "in_extra": false,
+    "view_types": [
+      "First-Person"
+    ]
   },
   {
     "title": "Deceive Inc",
@@ -1811,7 +2499,10 @@
       "PS5",
       "XBSX"
     ],
-    "in_extra": true
+    "in_extra": true,
+    "view_types": [
+      "First-Person"
+    ]
   },
   {
     "title": "Destiny 2",
@@ -1899,6 +2590,7 @@
     "release_year": 2017,
     "sources": [
       "wikipedia",
+      "crossplaygames",
       "rawg_platforms"
     ],
     "confidence": "high",
@@ -1909,7 +2601,10 @@
       "XBO",
       "XBSX"
     ],
-    "in_extra": true
+    "in_extra": true,
+    "view_types": [
+      "First-Person"
+    ]
   },
   {
     "title": "Diablo IV",
@@ -1988,7 +2683,11 @@
       "XBO",
       "XBSX"
     ],
-    "in_extra": false
+    "in_extra": false,
+    "view_types": [
+      "Third-Person",
+      "Top-Down/Isometric"
+    ]
   },
   {
     "title": "Dick Wilde 2",
@@ -2021,7 +2720,8 @@
     "background_image": "https://media.rawg.io/media/screenshots/34d/34dcaa8e82e8b2197bc3be7fd37969f4.jpg",
     "release_year": null,
     "sources": [
-      "wikipedia"
+      "wikipedia",
+      "crossplaygames"
     ],
     "confidence": "high",
     "crossplay_platforms": [
@@ -2029,7 +2729,10 @@
       "PS4",
       "PS5"
     ],
-    "in_extra": false
+    "in_extra": false,
+    "view_types": [
+      "VR"
+    ]
   },
   {
     "title": "Digimon Story: Cyber Sleuth",
@@ -2055,14 +2758,16 @@
     "background_image": "https://media.rawg.io/media/games/d8f/d8f2a9a7af2cfd5f422fda2d7dca0325.jpg",
     "release_year": null,
     "sources": [
-      "wikipedia"
+      "wikipedia",
+      "crossplaygames"
     ],
     "confidence": "high",
     "crossplay_platforms": [
       "PS4",
       "PS5"
     ],
-    "in_extra": false
+    "in_extra": false,
+    "view_types": []
   },
   {
     "title": "Digimon Story: Cyber Sleuth \u2013 Hacker's Memory",
@@ -2095,7 +2800,8 @@
       "PS4",
       "PS5"
     ],
-    "in_extra": false
+    "in_extra": false,
+    "view_types": []
   },
   {
     "title": "Dirt 5",
@@ -2172,7 +2878,8 @@
     "background_image": "https://media.rawg.io/media/games/9c7/9c7dd09596246993169b356d7c1facf0.jpg",
     "release_year": null,
     "sources": [
-      "wikipedia"
+      "wikipedia",
+      "crossplaygames"
     ],
     "confidence": "high",
     "crossplay_platforms": [
@@ -2182,7 +2889,10 @@
       "XBO",
       "XBSX"
     ],
-    "in_extra": false
+    "in_extra": false,
+    "view_types": [
+      "First-Person"
+    ]
   },
   {
     "title": "Disc Jam",
@@ -2231,7 +2941,8 @@
       "PS5",
       "Switch"
     ],
-    "in_extra": false
+    "in_extra": false,
+    "view_types": []
   },
   {
     "title": "Disney Speedstorm",
@@ -2311,7 +3022,10 @@
       "XBO",
       "XBSX"
     ],
-    "in_extra": false
+    "in_extra": false,
+    "view_types": [
+      "Third-Person"
+    ]
   },
   {
     "title": "Divekick",
@@ -2377,7 +3091,50 @@
       "PS4",
       "PS5"
     ],
-    "in_extra": false
+    "in_extra": false,
+    "view_types": [
+      "Side-Scroller/2D"
+    ]
+  },
+  {
+    "title": "DKO: Divine Knockout",
+    "genres": [
+      "Action",
+      "Fighting"
+    ],
+    "tags": [
+      "multiplayer",
+      "pvp",
+      "competitive",
+      "hero-shooter-2",
+      "3d-fighter-2"
+    ],
+    "platforms": [
+      "PC",
+      "PlayStation 5",
+      "Xbox One",
+      "PlayStation 4",
+      "Xbox Series S/X"
+    ],
+    "splitscreen": false,
+    "online_coop": true,
+    "players": null,
+    "rawg_id": 415172,
+    "rawg_slug": "divine-knockout",
+    "background_image": "https://media.rawg.io/media/screenshots/7e1/7e1954126e809394866148ecd9363314.jpg",
+    "release_year": null,
+    "sources": [
+      "crossplaygames"
+    ],
+    "confidence": "high",
+    "crossplay_platforms": [
+      "PC",
+      "PS4",
+      "PS5",
+      "XBSX"
+    ],
+    "in_extra": false,
+    "view_types": []
   },
   {
     "title": "DOOM + DOOM II",
@@ -2429,7 +3186,10 @@
       "XBO",
       "XBSX"
     ],
-    "in_extra": false
+    "in_extra": false,
+    "view_types": [
+      "First-Person"
+    ]
   },
   {
     "title": "Dragon Quest Heroes II",
@@ -2487,7 +3247,8 @@
       "PS4",
       "PS5"
     ],
-    "in_extra": false
+    "in_extra": false,
+    "view_types": []
   },
   {
     "title": "Dragon's Crown",
@@ -2530,7 +3291,8 @@
       "PS4",
       "PS5"
     ],
-    "in_extra": false
+    "in_extra": false,
+    "view_types": []
   },
   {
     "title": "Dragon's Dogma Online",
@@ -2563,7 +3325,8 @@
       "PS4",
       "PS5"
     ],
-    "in_extra": false
+    "in_extra": false,
+    "view_types": []
   },
   {
     "title": "Dreii",
@@ -2609,7 +3372,91 @@
       "PS4",
       "PS5"
     ],
-    "in_extra": false
+    "in_extra": false,
+    "view_types": []
+  },
+  {
+    "title": "Dying Light 2: Stay Human",
+    "genres": [
+      "Adventure",
+      "Action",
+      "RPG"
+    ],
+    "tags": [
+      "singleplayer",
+      "dlia-odnogo-igroka",
+      "ekshen",
+      "prikliuchenie",
+      "multiplayer",
+      "full-controller-support",
+      "atmospheric",
+      "dlia-neskolkikh-igrokov",
+      "glubokii-siuzhet",
+      "rpg",
+      "co-op",
+      "rolevaia-igra",
+      "otkrytyi-mir",
+      "open-world",
+      "cooperative",
+      "ot-pervogo-litsa",
+      "first-person",
+      "shedevr",
+      "horror",
+      "shuter-ot-pervogo-litsa",
+      "miaso",
+      "gore",
+      "vyzhivanie",
+      "nasilie",
+      "violent",
+      "stealth",
+      "action-adventure",
+      "dark",
+      "zombies",
+      "zombi-2",
+      "resheniia-s-posledstviiami",
+      "combat",
+      "parkur-2",
+      "parkour",
+      "online",
+      "city",
+      "friends",
+      "weapons",
+      "secrets",
+      "monsters",
+      "night",
+      "balance",
+      "traps",
+      "virus"
+    ],
+    "platforms": [
+      "PC",
+      "PlayStation 5",
+      "Xbox One",
+      "PlayStation 4",
+      "Xbox Series S/X",
+      "Nintendo Switch"
+    ],
+    "splitscreen": false,
+    "online_coop": true,
+    "players": null,
+    "rawg_id": 58758,
+    "rawg_slug": "dying-light-2",
+    "background_image": "https://media.rawg.io/media/games/73d/73db43df633477d4604c7248292f34b2.jpg",
+    "release_year": null,
+    "sources": [
+      "crossplaygames"
+    ],
+    "confidence": "high",
+    "crossplay_platforms": [
+      "PS4",
+      "PS5",
+      "XBO",
+      "XBSX"
+    ],
+    "in_extra": false,
+    "view_types": [
+      "First-Person"
+    ]
   },
   {
     "title": "Dynasty Warriors 8",
@@ -2639,7 +3486,8 @@
       "PS4",
       "PS5"
     ],
-    "in_extra": false
+    "in_extra": false,
+    "view_types": []
   },
   {
     "title": "Eagle Flight",
@@ -2683,7 +3531,151 @@
       "PS4",
       "PS5"
     ],
-    "in_extra": true
+    "in_extra": true,
+    "view_types": [
+      "VR"
+    ]
+  },
+  {
+    "title": "Elden Ring",
+    "genres": [
+      "Action",
+      "RPG"
+    ],
+    "tags": [
+      "singleplayer",
+      "dlia-odnogo-igroka",
+      "ekshen",
+      "steam-achievements",
+      "multiplayer",
+      "full-controller-support",
+      "atmospheric",
+      "dlia-neskolkikh-igrokov",
+      "otlichnyi-saundtrek",
+      "great-soundtrack",
+      "rpg",
+      "co-op",
+      "rolevaia-igra",
+      "otkrytyi-mir",
+      "open-world",
+      "cooperative",
+      "ot-tretego-litsa",
+      "third-person",
+      "online-co-op",
+      "fentezi",
+      "slozhnaia",
+      "fantasy",
+      "difficult",
+      "nasilie",
+      "violent",
+      "action-rpg",
+      "rolevoi-ekshen",
+      "pvp",
+      "igrok-protiv-igroka",
+      "tiomnoe-fentezi",
+      "3d",
+      "dark-fantasy",
+      "simuliator-khodby",
+      "rasslabliaiushchaia",
+      "online-pvp",
+      "steam-trading-cards-2",
+      "atmosfernaia",
+      "pokhozha-na-dark-souls",
+      "epic",
+      "souls-like",
+      "setevoi-kooperativ",
+      "history"
+    ],
+    "platforms": [
+      "PC",
+      "PlayStation 5",
+      "Xbox One",
+      "PlayStation 4",
+      "Xbox Series S/X"
+    ],
+    "splitscreen": false,
+    "online_coop": true,
+    "players": null,
+    "rawg_id": 326243,
+    "rawg_slug": "elden-ring",
+    "background_image": "https://media.rawg.io/media/games/b29/b294fdd866dcdb643e7bab370a552855.jpg",
+    "release_year": null,
+    "sources": [
+      "crossplaygames"
+    ],
+    "confidence": "high",
+    "crossplay_platforms": [
+      "PS4",
+      "PS5",
+      "XBO",
+      "XBSX"
+    ],
+    "in_extra": false,
+    "view_types": [
+      "Third-Person"
+    ]
+  },
+  {
+    "title": "Elemental War 2",
+    "genres": [
+      "Strategy",
+      "Indie"
+    ],
+    "tags": [
+      "singleplayer",
+      "dlia-odnogo-igroka",
+      "indi-2",
+      "steam-cloud",
+      "dlia-neskolkikh-igrokov",
+      "strategiia",
+      "partial-controller-support",
+      "fentezi",
+      "fantasy",
+      "vyzhivanie",
+      "stats",
+      "reigrabelnost",
+      "early-access",
+      "igrok-protiv-igroka",
+      "strategiia-v-realnom-vremeni",
+      "rogalik",
+      "srednevekove",
+      "medieval",
+      "magic",
+      "magiia",
+      "steampunk",
+      "stimpank",
+      "uproshchionnyi-rogalik",
+      "roguelite",
+      "bashennaia-zashchita",
+      "tower-defense",
+      "redaktor-urovnei"
+    ],
+    "platforms": [
+      "PC",
+      "PlayStation 4",
+      "macOS",
+      "Linux"
+    ],
+    "splitscreen": false,
+    "online_coop": false,
+    "players": null,
+    "rawg_id": 241166,
+    "rawg_slug": "elemental-war",
+    "background_image": "https://media.rawg.io/media/screenshots/7b0/7b08e1c7872d9dbff30ca60983b8684d.jpg",
+    "release_year": null,
+    "sources": [
+      "crossplaygames"
+    ],
+    "confidence": "high",
+    "crossplay_platforms": [
+      "PC",
+      "PS4",
+      "PS5",
+      "XBO",
+      "XBSX"
+    ],
+    "in_extra": false,
+    "view_types": []
   },
   {
     "title": "Embr",
@@ -2730,7 +3722,10 @@
       "XBO",
       "XBSX"
     ],
-    "in_extra": true
+    "in_extra": true,
+    "view_types": [
+      "First-Person"
+    ]
   },
   {
     "title": "Enlisted",
@@ -2772,7 +3767,8 @@
       "XBO",
       "XBSX"
     ],
-    "in_extra": false
+    "in_extra": false,
+    "view_types": []
   },
   {
     "title": "Eve: Valkyrie",
@@ -2801,7 +3797,8 @@
     "background_image": "https://media.rawg.io/media/games/9c2/9c23143b6d7174686bcee74c60db454d.jpg",
     "release_year": null,
     "sources": [
-      "wikipedia"
+      "wikipedia",
+      "crossplaygames"
     ],
     "confidence": "high",
     "crossplay_platforms": [
@@ -2809,7 +3806,212 @@
       "PS4",
       "PS5"
     ],
-    "in_extra": false
+    "in_extra": false,
+    "view_types": [
+      "VR"
+    ]
+  },
+  {
+    "title": "Evil Dead: The Game",
+    "genres": [
+      "Action"
+    ],
+    "tags": [
+      "ekshen",
+      "steam-achievements",
+      "multiplayer",
+      "full-controller-support",
+      "steam-cloud",
+      "atmospheric",
+      "dlia-neskolkikh-igrokov",
+      "co-op",
+      "cooperative",
+      "ot-tretego-litsa",
+      "third-person",
+      "horror",
+      "online-co-op",
+      "miaso",
+      "gore",
+      "mrachnaia",
+      "dark",
+      "pvp",
+      "cross-platform-multiplayer",
+      "igrok-protiv-igroka",
+      "kastomizatsiia-personazha",
+      "character-customization",
+      "khorror-na-vyzhivanie",
+      "survival-horror",
+      "taina",
+      "mystery",
+      "realizm",
+      "realistic",
+      "team-based",
+      "komandnaia",
+      "online-pvp",
+      "steam-trading-cards-2",
+      "atmosfernaia",
+      "oldskul",
+      "chiornyi-iumor",
+      "dark-humor",
+      "demons",
+      "america",
+      "demony",
+      "triller",
+      "supernatural",
+      "sverkhestestvennoe",
+      "thriller",
+      "amerika",
+      "old-school"
+    ],
+    "platforms": [
+      "PC",
+      "PlayStation 5",
+      "Xbox One",
+      "PlayStation 4",
+      "Xbox Series S/X",
+      "Nintendo Switch"
+    ],
+    "splitscreen": false,
+    "online_coop": true,
+    "players": null,
+    "rawg_id": 532167,
+    "rawg_slug": "evil-dead-the-game",
+    "background_image": "https://media.rawg.io/media/games/2ea/2eaa2999318c5bb1f46e70032d272dab.jpg",
+    "release_year": null,
+    "sources": [
+      "crossplaygames"
+    ],
+    "confidence": "high",
+    "crossplay_platforms": [
+      "PC",
+      "PS4",
+      "PS5",
+      "Switch",
+      "XBO",
+      "XBSX"
+    ],
+    "in_extra": false,
+    "view_types": [
+      "Third-Person"
+    ]
+  },
+  {
+    "title": "Exoprimal",
+    "genres": [
+      "Shooter",
+      "Action"
+    ],
+    "tags": [
+      "ekshen",
+      "steam-achievements",
+      "multiplayer",
+      "full-controller-support",
+      "steam-cloud",
+      "dlia-neskolkikh-igrokov",
+      "co-op",
+      "shuter",
+      "ot-tretego-litsa",
+      "third-person",
+      "sci-fi",
+      "nauchnaia-fantastika",
+      "fps",
+      "shuter-ot-pervogo-litsa",
+      "online-co-op",
+      "vyzhivanie",
+      "survival",
+      "taktika",
+      "tactical",
+      "shuter-ot-tretego-litsa",
+      "third-person-shooter",
+      "pvp",
+      "igrok-protiv-igroka",
+      "kastomizatsiia-personazha",
+      "character-customization",
+      "3d",
+      "futuristic",
+      "team-based",
+      "komandnaia",
+      "budushchee",
+      "online-pvp",
+      "steam-trading-cards-2",
+      "pve",
+      "destruction",
+      "razrusheniia",
+      "setevoi-kooperativ",
+      "mechs",
+      "mekhi",
+      "dinosaurs",
+      "dinozavry",
+      "igrok-protiv-ii"
+    ],
+    "platforms": [
+      "PC",
+      "PlayStation 5",
+      "Xbox One",
+      "PlayStation 4",
+      "Xbox Series S/X"
+    ],
+    "splitscreen": false,
+    "online_coop": true,
+    "players": null,
+    "rawg_id": 751912,
+    "rawg_slug": "exoprimal",
+    "background_image": "https://media.rawg.io/media/games/b3d/b3da1cdfe373f5f84148a24464c8ce29.jpg",
+    "release_year": null,
+    "sources": [
+      "crossplaygames"
+    ],
+    "confidence": "high",
+    "crossplay_platforms": [
+      "PC",
+      "PS4",
+      "PS5",
+      "XBO",
+      "XBSX"
+    ],
+    "in_extra": false,
+    "view_types": [
+      "First-Person",
+      "Third-Person"
+    ]
+  },
+  {
+    "title": "F1 22",
+    "genres": [
+      "Racing",
+      "Sports"
+    ],
+    "tags": [
+      "singleplayer"
+    ],
+    "platforms": [
+      "PC",
+      "Commodore / Amiga",
+      "Atari ST",
+      "Genesis",
+      "SEGA Master System",
+      "Game Gear"
+    ],
+    "splitscreen": false,
+    "online_coop": false,
+    "players": null,
+    "rawg_id": 32224,
+    "rawg_slug": "f1",
+    "background_image": "https://media.rawg.io/media/games/7dd/7dda1bf8152b4fbba280c8e3c6648ec5.jpg",
+    "release_year": null,
+    "sources": [
+      "crossplaygames"
+    ],
+    "confidence": "high",
+    "crossplay_platforms": [
+      "PC",
+      "PS4",
+      "PS5",
+      "XBO",
+      "XBSX"
+    ],
+    "in_extra": false,
+    "view_types": []
   },
   {
     "title": "Faeria",
@@ -2886,7 +4088,8 @@
       "XBO",
       "XBSX"
     ],
-    "in_extra": false
+    "in_extra": false,
+    "view_types": []
   },
   {
     "title": "Fall Guys: Ultimate Knockout",
@@ -2926,7 +4129,8 @@
     "background_image": "https://media.rawg.io/media/games/5eb/5eb49eb2fa0738fdb5bacea557b1bc57.jpg",
     "release_year": null,
     "sources": [
-      "wikipedia"
+      "wikipedia",
+      "crossplaygames"
     ],
     "confidence": "high",
     "crossplay_platforms": [
@@ -2937,7 +4141,8 @@
       "XBO",
       "XBSX"
     ],
-    "in_extra": false
+    "in_extra": false,
+    "view_types": []
   },
   {
     "title": "Fantasy Strike",
@@ -2986,7 +4191,118 @@
       "PS5",
       "Switch"
     ],
-    "in_extra": false
+    "in_extra": false,
+    "view_types": []
+  },
+  {
+    "title": "Far Cry 6",
+    "genres": [
+      "Shooter",
+      "Action"
+    ],
+    "tags": [
+      "singleplayer",
+      "dlia-odnogo-igroka",
+      "ekshen",
+      "prikliuchenie",
+      "multiplayer",
+      "atmospheric",
+      "dlia-neskolkikh-igrokov",
+      "atmosfera",
+      "otlichnyi-saundtrek",
+      "great-soundtrack",
+      "glubokii-siuzhet",
+      "story-rich",
+      "otkrytyi-mir",
+      "open-world",
+      "cooperative",
+      "shuter",
+      "ot-pervogo-litsa",
+      "first-person",
+      "shedevr",
+      "nauchnaia-fantastika",
+      "sci-fi",
+      "horror",
+      "fps",
+      "shuter-ot-pervogo-litsa",
+      "slozhnaia",
+      "klassika",
+      "difficult",
+      "classic",
+      "sandbox",
+      "survival",
+      "pesochnitsa",
+      "stealth",
+      "stels",
+      "zombi-2",
+      "overlay"
+    ],
+    "platforms": [
+      "PC",
+      "Xbox 360",
+      "Xbox",
+      "PlayStation 3",
+      "PlayStation 2",
+      "Wii"
+    ],
+    "splitscreen": false,
+    "online_coop": true,
+    "players": null,
+    "rawg_id": 19560,
+    "rawg_slug": "far-cry",
+    "background_image": "https://media.rawg.io/media/games/2ee/2eef5ed5e82c28d1299ecc2a0e60f2cb.jpg",
+    "release_year": null,
+    "sources": [
+      "crossplaygames"
+    ],
+    "confidence": "high",
+    "crossplay_platforms": [
+      "PS4",
+      "PS5",
+      "XBO",
+      "XBSX"
+    ],
+    "in_extra": false,
+    "view_types": [
+      "First-Person"
+    ]
+  },
+  {
+    "title": "Farming Simulator 22",
+    "genres": [
+      "RPG",
+      "Simulation"
+    ],
+    "tags": [
+      "2d",
+      "pixel-graphics",
+      "farming"
+    ],
+    "platforms": [
+      "Web"
+    ],
+    "splitscreen": false,
+    "online_coop": false,
+    "players": null,
+    "rawg_id": 913006,
+    "rawg_slug": "farming-simulator-2",
+    "background_image": "https://media.rawg.io/media/screenshots/3c1/3c1953603a3834372486599184da0e8d.jpg",
+    "release_year": null,
+    "sources": [
+      "crossplaygames"
+    ],
+    "confidence": "high",
+    "crossplay_platforms": [
+      "PC",
+      "PS4",
+      "PS5",
+      "XBO",
+      "XBSX"
+    ],
+    "in_extra": false,
+    "view_types": [
+      "Side-Scroller/2D"
+    ]
   },
   {
     "title": "FBC: Firebreak",
@@ -3064,7 +4380,81 @@
       "PS5",
       "XBSX"
     ],
-    "in_extra": true
+    "in_extra": true,
+    "view_types": [
+      "First-Person"
+    ]
+  },
+  {
+    "title": "FIFA 22",
+    "genres": [
+      "Simulation",
+      "Sports"
+    ],
+    "tags": [
+      "multiplayer",
+      "controller",
+      "football",
+      "unique"
+    ],
+    "platforms": [
+      "Nintendo Switch"
+    ],
+    "splitscreen": false,
+    "online_coop": true,
+    "players": null,
+    "rawg_id": 28027,
+    "rawg_slug": "fifa",
+    "background_image": "https://media.rawg.io/media/screenshots/7c2/7c2ebe2cd5d1bc74f89a6f6f4c91d90c.jpg",
+    "release_year": null,
+    "sources": [
+      "crossplaygames"
+    ],
+    "confidence": "high",
+    "crossplay_platforms": [
+      "PS4",
+      "PS5",
+      "XBO",
+      "XBSX"
+    ],
+    "in_extra": false,
+    "view_types": []
+  },
+  {
+    "title": "FIFA 23",
+    "genres": [
+      "Simulation",
+      "Sports"
+    ],
+    "tags": [
+      "multiplayer",
+      "controller",
+      "football",
+      "unique"
+    ],
+    "platforms": [
+      "Nintendo Switch"
+    ],
+    "splitscreen": false,
+    "online_coop": true,
+    "players": null,
+    "rawg_id": 28027,
+    "rawg_slug": "fifa",
+    "background_image": "https://media.rawg.io/media/screenshots/7c2/7c2ebe2cd5d1bc74f89a6f6f4c91d90c.jpg",
+    "release_year": null,
+    "sources": [
+      "crossplaygames"
+    ],
+    "confidence": "high",
+    "crossplay_platforms": [
+      "PC",
+      "PS4",
+      "PS5",
+      "XBO",
+      "XBSX"
+    ],
+    "in_extra": false,
+    "view_types": []
   },
   {
     "title": "Final Fantasy XIV: A Realm Reborn",
@@ -3137,7 +4527,8 @@
       "PS5",
       "XBSX"
     ],
-    "in_extra": false
+    "in_extra": false,
+    "view_types": []
   },
   {
     "title": "Final Fantasy: Crystal Chronicles",
@@ -3165,7 +4556,154 @@
       "PS5",
       "Switch"
     ],
-    "in_extra": false
+    "in_extra": false,
+    "view_types": []
+  },
+  {
+    "title": "First Class Trouble",
+    "genres": [
+      "Indie"
+    ],
+    "tags": [
+      "steam-achievements",
+      "indi-2",
+      "multiplayer",
+      "full-controller-support",
+      "co-op",
+      "online-co-op",
+      "online-multiplayer",
+      "cross-platform-multiplayer"
+    ],
+    "platforms": [
+      "PC",
+      "PlayStation 5"
+    ],
+    "splitscreen": false,
+    "online_coop": true,
+    "players": null,
+    "rawg_id": 366110,
+    "rawg_slug": "first-class-trouble",
+    "background_image": "https://media.rawg.io/media/screenshots/510/51044509a3c55f107763f0593a89cb22.jpg",
+    "release_year": null,
+    "sources": [
+      "crossplaygames"
+    ],
+    "confidence": "high",
+    "crossplay_platforms": [
+      "PC",
+      "PS4",
+      "PS5"
+    ],
+    "in_extra": false,
+    "view_types": []
+  },
+  {
+    "title": "For Honor",
+    "genres": [
+      "Massively Multiplayer",
+      "Action"
+    ],
+    "tags": [
+      "singleplayer",
+      "dlia-odnogo-igroka",
+      "ekshen",
+      "multiplayer",
+      "atmospheric",
+      "dlia-neskolkikh-igrokov",
+      "atmosfera",
+      "steam-trading-cards",
+      "glubokii-siuzhet",
+      "rpg",
+      "co-op",
+      "rolevaia-igra",
+      "story-rich",
+      "strategiia",
+      "cooperative",
+      "ot-tretego-litsa",
+      "third-person",
+      "partial-controller-support",
+      "online-co-op",
+      "fentezi",
+      "fantasy",
+      "miaso",
+      "gore",
+      "sovmestnaia-igra-po-seti",
+      "online-multiplayer",
+      "pvp",
+      "slesher",
+      "igrok-protiv-igroka",
+      "hack-and-slash",
+      "war",
+      "voina",
+      "realizm",
+      "realistic",
+      "srednevekove",
+      "medieval",
+      "faiting",
+      "moba",
+      "srazheniia-na-mechakh",
+      "swordplay"
+    ],
+    "platforms": [
+      "PC",
+      "Xbox One",
+      "PlayStation 4"
+    ],
+    "splitscreen": false,
+    "online_coop": true,
+    "players": null,
+    "rawg_id": 362,
+    "rawg_slug": "for-honor",
+    "background_image": "https://media.rawg.io/media/games/4e0/4e0e7b6d6906a131307c94266e5c9a1c.jpg",
+    "release_year": null,
+    "sources": [
+      "crossplaygames"
+    ],
+    "confidence": "high",
+    "crossplay_platforms": [
+      "PC",
+      "PS4",
+      "PS5",
+      "XBO",
+      "XBSX"
+    ],
+    "in_extra": false,
+    "view_types": [
+      "Third-Person"
+    ]
+  },
+  {
+    "title": "Fortnite",
+    "genres": [],
+    "tags": [
+      "combat",
+      "epic",
+      "mars"
+    ],
+    "platforms": [
+      "Android"
+    ],
+    "splitscreen": false,
+    "online_coop": false,
+    "players": null,
+    "rawg_id": 583859,
+    "rawg_slug": "fortnite-3",
+    "background_image": "https://media.rawg.io/media/screenshots/5cc/5cc1a3f085356345aa902a38af82345a.jpg",
+    "release_year": null,
+    "sources": [
+      "crossplaygames"
+    ],
+    "confidence": "high",
+    "crossplay_platforms": [
+      "PC",
+      "PS4",
+      "PS5",
+      "Switch",
+      "XBO",
+      "XBSX"
+    ],
+    "in_extra": false,
+    "view_types": []
   },
   {
     "title": "Fortnite Battle Royale",
@@ -3217,7 +4755,8 @@
       "XBO",
       "XBSX"
     ],
-    "in_extra": false
+    "in_extra": false,
+    "view_types": []
   },
   {
     "title": "Games of Glory",
@@ -3264,7 +4803,8 @@
       "PS4",
       "PS5"
     ],
-    "in_extra": false
+    "in_extra": false,
+    "view_types": []
   },
   {
     "title": "Garou: Mark of the Wolves",
@@ -3309,14 +4849,16 @@
     "background_image": "https://media.rawg.io/media/screenshots/4cc/4ccee6c3e367f4dd94d19d4857dfc1c9.jpeg",
     "release_year": null,
     "sources": [
-      "wikipedia"
+      "wikipedia",
+      "crossplaygames"
     ],
     "confidence": "high",
     "crossplay_platforms": [
       "PS4",
       "PS5"
     ],
-    "in_extra": false
+    "in_extra": false,
+    "view_types": []
   },
   {
     "title": "Genesis",
@@ -3383,8 +4925,7 @@
     "background_image": "https://media.rawg.io/media/screenshots/f86/f86cbaae8be0dcb467346038e23a9810.jpg",
     "release_year": null,
     "sources": [
-      "wikipedia",
-      "crossplaygames"
+      "wikipedia"
     ],
     "confidence": "high",
     "crossplay_platforms": [
@@ -3392,7 +4933,10 @@
       "PS4",
       "PS5"
     ],
-    "in_extra": false
+    "in_extra": false,
+    "view_types": [
+      "First-Person"
+    ]
   },
   {
     "title": "Genshin Impact",
@@ -3437,7 +4981,42 @@
       "PS5",
       "XBSX"
     ],
-    "in_extra": false
+    "in_extra": false,
+    "view_types": []
+  },
+  {
+    "title": "Ghostbusters: Spirits Unleashed",
+    "genres": [
+      "Action"
+    ],
+    "tags": [],
+    "platforms": [
+      "PC",
+      "PlayStation 5",
+      "Xbox One",
+      "PlayStation 4",
+      "Xbox Series S/X"
+    ],
+    "splitscreen": false,
+    "online_coop": false,
+    "players": null,
+    "rawg_id": 758458,
+    "rawg_slug": "ghostbusters-spirits-unleashed",
+    "background_image": "https://media.rawg.io/media/games/351/351b4c4c88e51e461e63d1b6f2080fb2.jpg",
+    "release_year": null,
+    "sources": [
+      "crossplaygames"
+    ],
+    "confidence": "high",
+    "crossplay_platforms": [
+      "PC",
+      "PS4",
+      "PS5",
+      "XBO",
+      "XBSX"
+    ],
+    "in_extra": false,
+    "view_types": []
   },
   {
     "title": "Gloomhaven",
@@ -3493,7 +5072,10 @@
       "XBO",
       "XBSX"
     ],
-    "in_extra": true
+    "in_extra": true,
+    "view_types": [
+      "Top-Down/Isometric"
+    ]
   },
   {
     "title": "God Eater 2 Rage Burst",
@@ -3578,7 +5160,10 @@
       "PS4",
       "PS5"
     ],
-    "in_extra": false
+    "in_extra": false,
+    "view_types": [
+      "Third-Person"
+    ]
   },
   {
     "title": "God Eater Resurrection",
@@ -3610,7 +5195,8 @@
       "PS4",
       "PS5"
     ],
-    "in_extra": false
+    "in_extra": false,
+    "view_types": []
   },
   {
     "title": "Granblue Fantasy Versus: Rising",
@@ -3664,7 +5250,10 @@
       "PS4",
       "PS5"
     ],
-    "in_extra": true
+    "in_extra": true,
+    "view_types": [
+      "Side-Scroller/2D"
+    ]
   },
   {
     "title": "Grand Kingdom",
@@ -3700,7 +5289,8 @@
       "PS4",
       "PS5"
     ],
-    "in_extra": false
+    "in_extra": false,
+    "view_types": []
   },
   {
     "title": "Grid Legends",
@@ -3777,7 +5367,10 @@
       "XBO",
       "XBSX"
     ],
-    "in_extra": false
+    "in_extra": false,
+    "view_types": [
+      "Third-Person"
+    ]
   },
   {
     "title": "Guilty Gear Strive",
@@ -3862,7 +5455,10 @@
       "XBO",
       "XBSX"
     ],
-    "in_extra": false
+    "in_extra": false,
+    "view_types": [
+      "Side-Scroller/2D"
+    ]
   },
   {
     "title": "Guilty Gear Xrd: Revelator",
@@ -3925,14 +5521,18 @@
     "background_image": "https://media.rawg.io/media/screenshots/d8c/d8cd8eba6f989fa822ea05fbde564d35.jpg",
     "release_year": null,
     "sources": [
-      "wikipedia"
+      "wikipedia",
+      "crossplaygames"
     ],
     "confidence": "high",
     "crossplay_platforms": [
       "PS4",
       "PS5"
     ],
-    "in_extra": false
+    "in_extra": false,
+    "view_types": [
+      "Side-Scroller/2D"
+    ]
   },
   {
     "title": "Guilty Gear Xrd: Sign",
@@ -3987,14 +5587,16 @@
     "background_image": "https://media.rawg.io/media/screenshots/ef7/ef7aff4685592b1784995bc251d4e47d.jpg",
     "release_year": null,
     "sources": [
-      "wikipedia"
+      "wikipedia",
+      "crossplaygames"
     ],
     "confidence": "high",
     "crossplay_platforms": [
       "PS4",
       "PS5"
     ],
-    "in_extra": false
+    "in_extra": false,
+    "view_types": []
   },
   {
     "title": "Guns of Icarus: Alliance",
@@ -4043,7 +5645,8 @@
     "background_image": "https://media.rawg.io/media/games/57f/57fc2051dd27c9947d12cdf63790d122.jpg",
     "release_year": null,
     "sources": [
-      "wikipedia"
+      "wikipedia",
+      "crossplaygames"
     ],
     "confidence": "high",
     "crossplay_platforms": [
@@ -4051,7 +5654,8 @@
       "PS4",
       "PS5"
     ],
-    "in_extra": false
+    "in_extra": false,
+    "view_types": []
   },
   {
     "title": "Gwent: The Witcher Card Game",
@@ -4106,15 +5710,18 @@
     "background_image": "https://media.rawg.io/media/games/742/7424c1f7d0a8da9ae29cd866f985698b.jpg",
     "release_year": null,
     "sources": [
-      "wikipedia"
+      "wikipedia",
+      "crossplaygames"
     ],
     "confidence": "high",
     "crossplay_platforms": [
       "PC",
       "PS4",
-      "PS5"
+      "PS5",
+      "XBO"
     ],
-    "in_extra": false
+    "in_extra": false,
+    "view_types": []
   },
   {
     "title": "Heavy Metal Machines",
@@ -4184,7 +5791,8 @@
       "XBO",
       "XBSX"
     ],
-    "in_extra": false
+    "in_extra": false,
+    "view_types": []
   },
   {
     "title": "Helldivers",
@@ -4257,7 +5865,10 @@
       "PS4",
       "PS5"
     ],
-    "in_extra": false
+    "in_extra": false,
+    "view_types": [
+      "Top-Down/Isometric"
+    ]
   },
   {
     "title": "Helldivers 2",
@@ -4316,7 +5927,10 @@
       "PS5",
       "XBSX"
     ],
-    "in_extra": false
+    "in_extra": false,
+    "view_types": [
+      "Third-Person"
+    ]
   },
   {
     "title": "Hex",
@@ -4390,7 +6004,101 @@
       "PS4",
       "PS5"
     ],
-    "in_extra": false
+    "in_extra": false,
+    "view_types": [
+      "Top-Down/Isometric"
+    ]
+  },
+  {
+    "title": "Hood: Outlaws &#038; Legends",
+    "genres": [
+      "Massively Multiplayer",
+      "Adventure",
+      "Action",
+      "RPG"
+    ],
+    "tags": [
+      "ekshen",
+      "prikliuchenie",
+      "steam-achievements",
+      "multiplayer",
+      "full-controller-support",
+      "steam-cloud",
+      "dlia-neskolkikh-igrokov",
+      "rpg",
+      "co-op",
+      "rolevaia-igra",
+      "cooperative",
+      "ot-pervogo-litsa",
+      "first-person",
+      "fps",
+      "shuter-ot-pervogo-litsa",
+      "online-co-op",
+      "fentezi",
+      "fantasy",
+      "nasilie",
+      "violent",
+      "sovmestnaia-igra-po-seti",
+      "stealth",
+      "stels",
+      "action-adventure",
+      "action-rpg",
+      "rolevoi-ekshen",
+      "mrachnaia",
+      "dark",
+      "pvp",
+      "cross-platform-multiplayer",
+      "igrok-protiv-igroka",
+      "prikliuchencheskii-ekshen",
+      "mmo-2",
+      "3d",
+      "combat",
+      "srednevekove",
+      "medieval",
+      "online-pvp",
+      "steam-trading-cards-2",
+      "online",
+      "blood",
+      "battle",
+      "loot",
+      "character",
+      "heist",
+      "console",
+      "ogrableniia",
+      "offline",
+      "weapons",
+      "hero",
+      "gold"
+    ],
+    "platforms": [
+      "PC",
+      "PlayStation 5",
+      "Xbox One",
+      "PlayStation 4",
+      "Xbox Series S/X"
+    ],
+    "splitscreen": false,
+    "online_coop": true,
+    "players": null,
+    "rawg_id": 479670,
+    "rawg_slug": "hood-outlaws-legends",
+    "background_image": "https://media.rawg.io/media/games/220/220eb5b32d6ce6baf040568e502b0183.jpg",
+    "release_year": null,
+    "sources": [
+      "crossplaygames"
+    ],
+    "confidence": "high",
+    "crossplay_platforms": [
+      "PC",
+      "PS4",
+      "PS5",
+      "XBO",
+      "XBSX"
+    ],
+    "in_extra": false,
+    "view_types": [
+      "First-Person"
+    ]
   },
   {
     "title": "Hunt: Showdown",
@@ -4437,7 +6145,8 @@
     "background_image": "https://media.rawg.io/media/games/929/929a78693f607a3332ecb89fe7ffaf06.jpg",
     "release_year": null,
     "sources": [
-      "wikipedia"
+      "wikipedia",
+      "crossplaygames"
     ],
     "confidence": "high",
     "crossplay_platforms": [
@@ -4446,7 +6155,114 @@
       "XBO",
       "XBSX"
     ],
-    "in_extra": false
+    "in_extra": false,
+    "view_types": []
+  },
+  {
+    "title": "Hunter&#8217;s Arena: Legends",
+    "genres": [
+      "Adventure",
+      "Action",
+      "RPG",
+      "Strategy",
+      "Massively Multiplayer"
+    ],
+    "tags": [
+      "singleplayer",
+      "dlia-odnogo-igroka",
+      "ekshen",
+      "prikliuchenie",
+      "multiplayer",
+      "dlia-neskolkikh-igrokov",
+      "rpg",
+      "co-op",
+      "rolevaia-igra",
+      "strategiia",
+      "cooperative",
+      "online-co-op",
+      "vyzhivanie",
+      "survival",
+      "nasilie",
+      "violent",
+      "online-multiplayer",
+      "action-rpg",
+      "rolevoi-ekshen",
+      "pvp",
+      "slesher",
+      "igrok-protiv-igroka",
+      "hack-and-slash",
+      "team-based",
+      "komandnaia",
+      "mmo",
+      "faiting",
+      "loot",
+      "lut",
+      "v-realnom-vremeni",
+      "real-time",
+      "korolevskaia-bitva",
+      "battle-royale-2"
+    ],
+    "platforms": [
+      "PC",
+      "PlayStation 5",
+      "PlayStation 4"
+    ],
+    "splitscreen": false,
+    "online_coop": true,
+    "players": null,
+    "rawg_id": 362901,
+    "rawg_slug": "hunters-arena-legends",
+    "background_image": "https://media.rawg.io/media/screenshots/da6/da6e4c390c9787801ce746348c053756.jpg",
+    "release_year": null,
+    "sources": [
+      "crossplaygames"
+    ],
+    "confidence": "high",
+    "crossplay_platforms": [
+      "PC",
+      "PS4",
+      "PS5"
+    ],
+    "in_extra": false,
+    "view_types": []
+  },
+  {
+    "title": "Hyper Scape",
+    "genres": [
+      "Shooter",
+      "Action"
+    ],
+    "tags": [
+      "multiplayer",
+      "pvp",
+      "battle-royale-2",
+      "futurism"
+    ],
+    "platforms": [
+      "PC",
+      "Xbox One",
+      "PlayStation 4"
+    ],
+    "splitscreen": false,
+    "online_coop": true,
+    "players": null,
+    "rawg_id": 461649,
+    "rawg_slug": "hyper-scape",
+    "background_image": "https://media.rawg.io/media/games/47c/47c4398d9f910210ecb2114f1f82a2bf.jpg",
+    "release_year": null,
+    "sources": [
+      "crossplaygames"
+    ],
+    "confidence": "high",
+    "crossplay_platforms": [
+      "PC",
+      "PS4",
+      "PS5",
+      "XBO",
+      "XBSX"
+    ],
+    "in_extra": false,
+    "view_types": []
   },
   {
     "title": "Insurgency: Sandstorm",
@@ -4515,6 +6331,7 @@
     "release_year": 2018,
     "sources": [
       "wikipedia",
+      "crossplaygames",
       "rawg_platforms"
     ],
     "confidence": "high",
@@ -4525,7 +6342,10 @@
       "XBO",
       "XBSX"
     ],
-    "in_extra": true
+    "in_extra": true,
+    "view_types": [
+      "First-Person"
+    ]
   },
   {
     "title": "Invokers Tournament",
@@ -4561,7 +6381,98 @@
       "PS4",
       "PS5"
     ],
-    "in_extra": false
+    "in_extra": false,
+    "view_types": []
+  },
+  {
+    "title": "It Takes Two",
+    "genres": [
+      "Platformer",
+      "Adventure",
+      "Action"
+    ],
+    "tags": [
+      "ekshen",
+      "prikliuchenie",
+      "steam-achievements",
+      "multiplayer",
+      "full-controller-support",
+      "dlia-neskolkikh-igrokov",
+      "glubokii-siuzhet",
+      "co-op",
+      "story-rich",
+      "cooperative",
+      "online-co-op",
+      "exploration",
+      "female-protagonist",
+      "sovmestnaia-igra-po-seti",
+      "issledovanie",
+      "split-screen",
+      "lokalnyi-multipleer",
+      "local-co-op",
+      "action-adventure",
+      "action-rpg",
+      "rolevoi-ekshen",
+      "prikliuchencheskii-ekshen",
+      "magic",
+      "story",
+      "steam-trading-cards-2",
+      "3d-platformer-2",
+      "online",
+      "emotsionalnaia",
+      "3d-platformer",
+      "razdelenie-ekrana",
+      "character",
+      "emotional",
+      "console",
+      "protagonistka",
+      "remote-play-together",
+      "sharedsplit-screen-co-op",
+      "offline",
+      "sovmestnaia-kampaniia",
+      "co-op-campaign",
+      "work",
+      "night",
+      "journey",
+      "mini-igry",
+      "minigames",
+      "love",
+      "light",
+      "mining",
+      "shakhty",
+      "treasure",
+      "relationship",
+      "learn",
+      "obstacles",
+      "delivery"
+    ],
+    "platforms": [
+      "PC",
+      "PlayStation 5",
+      "Xbox One",
+      "PlayStation 4",
+      "Xbox Series S/X",
+      "Nintendo Switch"
+    ],
+    "splitscreen": true,
+    "online_coop": true,
+    "players": null,
+    "rawg_id": 455597,
+    "rawg_slug": "it-takes-two-2",
+    "background_image": "https://media.rawg.io/media/games/d47/d479582ed0a46496ad34f65c7099d7e5.jpg",
+    "release_year": null,
+    "sources": [
+      "crossplaygames"
+    ],
+    "confidence": "high",
+    "crossplay_platforms": [
+      "PS4",
+      "PS5",
+      "XBO",
+      "XBSX"
+    ],
+    "in_extra": false,
+    "view_types": []
   },
   {
     "title": "Just Dance",
@@ -4585,7 +6496,41 @@
     "background_image": "https://media.rawg.io/media/screenshots/661/661b29cca25b13edf5c569942c37dad3.jpg",
     "release_year": null,
     "sources": [
-      "wikipedia",
+      "wikipedia"
+    ],
+    "confidence": "high",
+    "crossplay_platforms": [
+      "PS4",
+      "PS5",
+      "Switch",
+      "XBO",
+      "XBSX"
+    ],
+    "in_extra": false,
+    "view_types": []
+  },
+  {
+    "title": "Just Dance 2021",
+    "genres": [
+      "Arcade"
+    ],
+    "tags": [
+      "exclusive",
+      "true-exclusive",
+      "music",
+      "rhythm"
+    ],
+    "platforms": [
+      "Wii"
+    ],
+    "splitscreen": false,
+    "online_coop": false,
+    "players": null,
+    "rawg_id": 26193,
+    "rawg_slug": "just-dance",
+    "background_image": "https://media.rawg.io/media/screenshots/661/661b29cca25b13edf5c569942c37dad3.jpg",
+    "release_year": null,
+    "sources": [
       "crossplaygames"
     ],
     "confidence": "high",
@@ -4596,7 +6541,8 @@
       "XBO",
       "XBSX"
     ],
-    "in_extra": false
+    "in_extra": false,
+    "view_types": []
   },
   {
     "title": "Kabounce",
@@ -4652,7 +6598,8 @@
       "PS4",
       "PS5"
     ],
-    "in_extra": false
+    "in_extra": false,
+    "view_types": []
   },
   {
     "title": "Knockout City",
@@ -4724,7 +6671,10 @@
       "XBO",
       "XBSX"
     ],
-    "in_extra": false
+    "in_extra": false,
+    "view_types": [
+      "Third-Person"
+    ]
   },
   {
     "title": "Lego Party",
@@ -4760,7 +6710,76 @@
       "XBO",
       "XBSX"
     ],
-    "in_extra": false
+    "in_extra": false,
+    "view_types": []
+  },
+  {
+    "title": "Madden NFL 22",
+    "genres": [
+      "Sports"
+    ],
+    "tags": [
+      "realistic",
+      "football"
+    ],
+    "platforms": [
+      "Game Boy",
+      "Commodore / Amiga",
+      "Genesis"
+    ],
+    "splitscreen": false,
+    "online_coop": false,
+    "players": null,
+    "rawg_id": 55281,
+    "rawg_slug": "madden-nfl",
+    "background_image": null,
+    "release_year": null,
+    "sources": [
+      "crossplaygames"
+    ],
+    "confidence": "high",
+    "crossplay_platforms": [
+      "PS4",
+      "PS5",
+      "XBO",
+      "XBSX"
+    ],
+    "in_extra": false,
+    "view_types": []
+  },
+  {
+    "title": "Madden NFL 23",
+    "genres": [
+      "Sports"
+    ],
+    "tags": [
+      "realistic",
+      "football"
+    ],
+    "platforms": [
+      "Game Boy",
+      "Commodore / Amiga",
+      "Genesis"
+    ],
+    "splitscreen": false,
+    "online_coop": false,
+    "players": null,
+    "rawg_id": 55281,
+    "rawg_slug": "madden-nfl",
+    "background_image": null,
+    "release_year": null,
+    "sources": [
+      "crossplaygames"
+    ],
+    "confidence": "high",
+    "crossplay_platforms": [
+      "PS4",
+      "PS5",
+      "XBO",
+      "XBSX"
+    ],
+    "in_extra": false,
+    "view_types": []
   },
   {
     "title": "Madden NFL 24",
@@ -4811,7 +6830,8 @@
     "background_image": "https://media.rawg.io/media/games/5ec/5ecee9f44d6736412b15f0b01b0619a9.jpg",
     "release_year": null,
     "sources": [
-      "wikipedia"
+      "wikipedia",
+      "crossplaygames"
     ],
     "confidence": "high",
     "crossplay_platforms": [
@@ -4819,7 +6839,8 @@
       "PS5",
       "XBSX"
     ],
-    "in_extra": false
+    "in_extra": false,
+    "view_types": []
   },
   {
     "title": "Mantis Burn Racing",
@@ -4869,7 +6890,77 @@
       "Switch",
       "XBO"
     ],
-    "in_extra": false
+    "in_extra": false,
+    "view_types": []
+  },
+  {
+    "title": "Marvel Rivals",
+    "genres": [
+      "Action"
+    ],
+    "tags": [
+      "ekshen",
+      "steam-achievements",
+      "multiplayer",
+      "full-controller-support",
+      "dlia-neskolkikh-igrokov",
+      "co-op",
+      "strategiia",
+      "cooperative",
+      "shuter",
+      "ot-tretego-litsa",
+      "third-person",
+      "nauchnaia-fantastika",
+      "sci-fi",
+      "online-co-op",
+      "free-to-play",
+      "besplatnaia-igra",
+      "shuter-ot-tretego-litsa",
+      "third-person-shooter",
+      "pvp",
+      "cross-platform-multiplayer",
+      "igrok-protiv-igroka",
+      "in-app-purchases",
+      "3d",
+      "team-based",
+      "komandnaia",
+      "sorevnovatelnaia",
+      "competitive",
+      "kiberpank",
+      "cyberpunk",
+      "online-pvp",
+      "superhero",
+      "supergeroi",
+      "setevoi-kooperativ",
+      "moba",
+      "hero-shooter-2",
+      "geroiskii-shuter"
+    ],
+    "platforms": [
+      "PC",
+      "PlayStation 5",
+      "Xbox Series S/X"
+    ],
+    "splitscreen": false,
+    "online_coop": true,
+    "players": null,
+    "rawg_id": 993875,
+    "rawg_slug": "marvel-rivals",
+    "background_image": "https://media.rawg.io/media/screenshots/3f0/3f0fdfc7c71655366aa83ab80ecab9b8.jpg",
+    "release_year": null,
+    "sources": [
+      "wikipedia"
+    ],
+    "confidence": "high",
+    "crossplay_platforms": [
+      "PC",
+      "PS5",
+      "XBSX"
+    ],
+    "in_extra": false,
+    "view_types": [
+      "Third-Person"
+    ]
   },
   {
     "title": "Matchpoint: Tennis Championships",
@@ -4933,7 +7024,8 @@
     "background_image": "https://media.rawg.io/media/games/de6/de6973bcbb9afb5c5a67ecec1236ecec.jpg",
     "release_year": null,
     "sources": [
-      "wikipedia"
+      "wikipedia",
+      "crossplaygames"
     ],
     "confidence": "high",
     "crossplay_platforms": [
@@ -4944,7 +7036,10 @@
       "XBO",
       "XBSX"
     ],
-    "in_extra": false
+    "in_extra": false,
+    "view_types": [
+      "Third-Person"
+    ]
   },
   {
     "title": "Metal Slug 3",
@@ -5019,14 +7114,18 @@
     "background_image": "https://media.rawg.io/media/screenshots/df1/df1a27300bf1e4696734b437d81b0fcf.jpg",
     "release_year": null,
     "sources": [
-      "wikipedia"
+      "wikipedia",
+      "crossplaygames"
     ],
     "confidence": "high",
     "crossplay_platforms": [
       "PS4",
       "PS5"
     ],
-    "in_extra": false
+    "in_extra": false,
+    "view_types": [
+      "Side-Scroller/2D"
+    ]
   },
   {
     "title": "Minecraft Dungeons",
@@ -5069,7 +7168,8 @@
       "XBO",
       "XBSX"
     ],
-    "in_extra": false
+    "in_extra": false,
+    "view_types": []
   },
   {
     "title": "Minecraft: Bedrock Edition",
@@ -5110,7 +7210,159 @@
       "XBO",
       "XBSX"
     ],
-    "in_extra": false
+    "in_extra": false,
+    "view_types": []
+  },
+  {
+    "title": "MLB The Show 21",
+    "genres": [
+      "Sports"
+    ],
+    "tags": [
+      "singleplayer",
+      "multiplayer",
+      "exclusive",
+      "true-exclusive"
+    ],
+    "platforms": [
+      "PlayStation 4"
+    ],
+    "splitscreen": false,
+    "online_coop": true,
+    "players": null,
+    "rawg_id": 72,
+    "rawg_slug": "mlb-the-show-17",
+    "background_image": "https://media.rawg.io/media/games/1fc/1fc8d7634c3ac9f439dfce10b47def38.jpg",
+    "release_year": null,
+    "sources": [
+      "crossplaygames"
+    ],
+    "confidence": "high",
+    "crossplay_platforms": [
+      "PS4",
+      "PS5",
+      "XBO",
+      "XBSX"
+    ],
+    "in_extra": false,
+    "view_types": []
+  },
+  {
+    "title": "MLB The Show 23",
+    "genres": [
+      "Sports"
+    ],
+    "tags": [
+      "singleplayer",
+      "multiplayer",
+      "exclusive",
+      "true-exclusive"
+    ],
+    "platforms": [
+      "PlayStation 4"
+    ],
+    "splitscreen": false,
+    "online_coop": true,
+    "players": null,
+    "rawg_id": 72,
+    "rawg_slug": "mlb-the-show-17",
+    "background_image": "https://media.rawg.io/media/games/1fc/1fc8d7634c3ac9f439dfce10b47def38.jpg",
+    "release_year": null,
+    "sources": [
+      "crossplaygames"
+    ],
+    "confidence": "high",
+    "crossplay_platforms": [
+      "PS4",
+      "PS5",
+      "Switch",
+      "XBO",
+      "XBSX"
+    ],
+    "in_extra": false,
+    "view_types": []
+  },
+  {
+    "title": "Monster Hunter Rise",
+    "genres": [
+      "Action",
+      "RPG"
+    ],
+    "tags": [
+      "singleplayer",
+      "dlia-odnogo-igroka",
+      "ekshen",
+      "steam-achievements",
+      "multiplayer",
+      "full-controller-support",
+      "steam-cloud",
+      "atmospheric",
+      "dlia-neskolkikh-igrokov",
+      "glubokii-siuzhet",
+      "rpg",
+      "co-op",
+      "rolevaia-igra",
+      "story-rich",
+      "cooperative",
+      "ot-tretego-litsa",
+      "third-person",
+      "online-co-op",
+      "fentezi",
+      "fantasy",
+      "action-rpg",
+      "rolevoi-ekshen",
+      "anime-2",
+      "anime",
+      "kastomizatsiia-personazha",
+      "character-customization",
+      "3d",
+      "steam-trading-cards-2",
+      "atmosfernaia",
+      "pve",
+      "igra-protiv-ii",
+      "dragons",
+      "drakony",
+      "nindzia",
+      "ninja",
+      "nature",
+      "hunting",
+      "investigation",
+      "okhota",
+      "priroda",
+      "besedy",
+      "conversation",
+      "rassledovaniia"
+    ],
+    "platforms": [
+      "PC",
+      "PlayStation 5",
+      "Xbox One",
+      "PlayStation 4",
+      "Xbox Series S/X",
+      "Nintendo Switch"
+    ],
+    "splitscreen": false,
+    "online_coop": true,
+    "players": null,
+    "rawg_id": 494393,
+    "rawg_slug": "monster-hunter-rise",
+    "background_image": "https://media.rawg.io/media/games/dbb/dbba6100aae179b5f24052c9141d426d.jpg",
+    "release_year": null,
+    "sources": [
+      "crossplaygames"
+    ],
+    "confidence": "high",
+    "crossplay_platforms": [
+      "PC",
+      "PS4",
+      "PS5",
+      "XBO",
+      "XBSX"
+    ],
+    "in_extra": false,
+    "view_types": [
+      "Third-Person"
+    ]
   },
   {
     "title": "Monster Truck Championship",
@@ -5177,7 +7429,11 @@
       "PS5",
       "XBO"
     ],
-    "in_extra": true
+    "in_extra": true,
+    "view_types": [
+      "First-Person",
+      "Third-Person"
+    ]
   },
   {
     "title": "Mortal Kombat 1",
@@ -5254,7 +7510,10 @@
       "PS5",
       "XBSX"
     ],
-    "in_extra": true
+    "in_extra": true,
+    "view_types": [
+      "Side-Scroller/2D"
+    ]
   },
   {
     "title": "Mortal Kombat 11",
@@ -5307,8 +7566,8 @@
     "background_image": "https://media.rawg.io/media/games/eb5/eb514db62d397c64288160d5bd8fd67a.jpg",
     "release_year": null,
     "sources": [
-      "wikipedia",
-      "crossplaygames"
+      "crossplaygames",
+      "wikipedia"
     ],
     "confidence": "high",
     "crossplay_platforms": [
@@ -5318,7 +7577,8 @@
       "XBO",
       "XBSX"
     ],
-    "in_extra": false
+    "in_extra": false,
+    "view_types": []
   },
   {
     "title": "MultiVersus",
@@ -5398,7 +7658,80 @@
       "XBO",
       "XBSX"
     ],
-    "in_extra": false
+    "in_extra": false,
+    "view_types": [
+      "Side-Scroller/2D"
+    ]
+  },
+  {
+    "title": "Naraka: Bladepoint",
+    "genres": [
+      "Massively Multiplayer",
+      "Adventure",
+      "Action",
+      "RPG"
+    ],
+    "tags": [
+      "ekshen",
+      "prikliuchenie",
+      "multiplayer",
+      "dlia-neskolkikh-igrokov",
+      "ot-tretego-litsa",
+      "third-person",
+      "miaso",
+      "female-protagonist",
+      "vyzhivanie",
+      "survival",
+      "nasilie",
+      "violent",
+      "free-to-play",
+      "besplatnaia-igra",
+      "pvp",
+      "anime-2",
+      "anime",
+      "slesher",
+      "igrok-protiv-igroka",
+      "hack-and-slash",
+      "kastomizatsiia-personazha",
+      "mmo-2",
+      "character-customization",
+      "seksualnyi-kontent",
+      "parkur-2",
+      "online-pvp",
+      "faiting",
+      "protagonistka",
+      "srazheniia-na-mechakh",
+      "korolevskaia-bitva",
+      "swordplay",
+      "battle-royale-2",
+      "boevye-iskusstva",
+      "martial-arts"
+    ],
+    "platforms": [
+      "PC",
+      "PlayStation 5",
+      "Xbox Series S/X"
+    ],
+    "splitscreen": false,
+    "online_coop": true,
+    "players": null,
+    "rawg_id": 398412,
+    "rawg_slug": "naraka-bladepoint",
+    "background_image": "https://media.rawg.io/media/games/75e/75e95dc8d5b290f6875062af6b35fb59.jpg",
+    "release_year": null,
+    "sources": [
+      "wikipedia"
+    ],
+    "confidence": "high",
+    "crossplay_platforms": [
+      "PC",
+      "PS5",
+      "XBSX"
+    ],
+    "in_extra": false,
+    "view_types": [
+      "Third-Person"
+    ]
   },
   {
     "title": "Natural Doctrine",
@@ -5431,7 +7764,8 @@
       "PS4",
       "PS5"
     ],
-    "in_extra": false
+    "in_extra": false,
+    "view_types": []
   },
   {
     "title": "Need for Speed Heat",
@@ -5503,7 +7837,11 @@
       "XBO",
       "XBSX"
     ],
-    "in_extra": false
+    "in_extra": false,
+    "view_types": [
+      "First-Person",
+      "Third-Person"
+    ]
   },
   {
     "title": "Need for Speed: Hot Pursuit Remastered",
@@ -5575,7 +7913,8 @@
     "background_image": "https://media.rawg.io/media/games/b6b/b6b3811ed0d2488c20d027e9f53d5b8f.jpg",
     "release_year": null,
     "sources": [
-      "wikipedia"
+      "wikipedia",
+      "crossplaygames"
     ],
     "confidence": "high",
     "crossplay_platforms": [
@@ -5586,7 +7925,181 @@
       "XBO",
       "XBSX"
     ],
-    "in_extra": false
+    "in_extra": false,
+    "view_types": [
+      "Third-Person"
+    ]
+  },
+  {
+    "title": "Need for Speed: Unbound",
+    "genres": [
+      "Racing",
+      "Arcade"
+    ],
+    "tags": [
+      "singleplayer",
+      "dlia-odnogo-igroka",
+      "ekshen",
+      "prikliuchenie",
+      "steam-achievements",
+      "multiplayer",
+      "full-controller-support",
+      "atmospheric",
+      "dlia-neskolkikh-igrokov",
+      "otkrytyi-mir",
+      "open-world",
+      "kazualnaia-igra",
+      "simuliator",
+      "online-co-op",
+      "split-screen",
+      "kontroller",
+      "controller",
+      "arkada",
+      "pvp",
+      "anime-2",
+      "anime",
+      "cross-platform-multiplayer",
+      "kastomizatsiia-personazha",
+      "character-customization",
+      "gonki",
+      "sportivnaia-igra",
+      "atmosfernaia",
+      "driving",
+      "vozhdenie",
+      "music",
+      "muzyka",
+      "razdelenie-ekrana",
+      "setevoi-kooperativ",
+      "immersive",
+      "immersivnaia-igra",
+      "boevye-gonki"
+    ],
+    "platforms": [
+      "PC",
+      "PlayStation 5",
+      "Xbox Series S/X"
+    ],
+    "splitscreen": true,
+    "online_coop": true,
+    "players": null,
+    "rawg_id": 861287,
+    "rawg_slug": "need-for-speed-unbound",
+    "background_image": "https://media.rawg.io/media/games/d7b/d7b45d416ca18bf86f9f1638ee331efa.jpg",
+    "release_year": null,
+    "sources": [
+      "crossplaygames"
+    ],
+    "confidence": "high",
+    "crossplay_platforms": [
+      "PC",
+      "PS5",
+      "XBSX"
+    ],
+    "in_extra": false,
+    "view_types": []
+  },
+  {
+    "title": "Nerf Legends",
+    "genres": [
+      "Action"
+    ],
+    "tags": [
+      "singleplayer",
+      "dlia-odnogo-igroka",
+      "ekshen",
+      "steam-achievements",
+      "multiplayer",
+      "dlia-neskolkikh-igrokov",
+      "shuter",
+      "ot-pervogo-litsa",
+      "first-person",
+      "sci-fi",
+      "nauchnaia-fantastika",
+      "partial-controller-support",
+      "fps",
+      "shuter-ot-pervogo-litsa",
+      "fentezi",
+      "fantasy",
+      "kontroller",
+      "controller",
+      "pvp",
+      "igrok-protiv-igroka",
+      "kastomizatsiia-personazha",
+      "character-customization",
+      "futuristic",
+      "combat",
+      "budushchee",
+      "online-pvp",
+      "robots",
+      "roboty",
+      "boi-2",
+      "immersive",
+      "immersivnaia-igra"
+    ],
+    "platforms": [
+      "PC",
+      "PlayStation 5",
+      "Xbox One",
+      "PlayStation 4",
+      "Xbox Series S/X",
+      "Nintendo Switch"
+    ],
+    "splitscreen": false,
+    "online_coop": true,
+    "players": null,
+    "rawg_id": 684912,
+    "rawg_slug": "nerf-legends",
+    "background_image": "https://media.rawg.io/media/screenshots/958/958b7529437d3daf8b3a23567fd5da58.jpg",
+    "release_year": null,
+    "sources": [
+      "crossplaygames"
+    ],
+    "confidence": "high",
+    "crossplay_platforms": [
+      "PC",
+      "PS4",
+      "PS5",
+      "XBO",
+      "XBSX"
+    ],
+    "in_extra": false,
+    "view_types": [
+      "First-Person"
+    ]
+  },
+  {
+    "title": "NHL 23",
+    "genres": [
+      "Sports"
+    ],
+    "tags": [
+      "multiplayer",
+      "online",
+      "offline"
+    ],
+    "platforms": [
+      "Xbox One",
+      "PlayStation 4"
+    ],
+    "splitscreen": false,
+    "online_coop": true,
+    "players": null,
+    "rawg_id": 471033,
+    "rawg_slug": "nhl-21",
+    "background_image": "https://media.rawg.io/media/games/576/5764a182aafe5b5fddc25fdfd15170d6.jpg",
+    "release_year": null,
+    "sources": [
+      "crossplaygames"
+    ],
+    "confidence": "high",
+    "crossplay_platforms": [
+      "PS4",
+      "PS5",
+      "XBO",
+      "XBSX"
+    ],
+    "in_extra": false,
+    "view_types": []
   },
   {
     "title": "Nickelodeon All-Star Brawl 2",
@@ -5659,7 +8172,10 @@
       "XBO",
       "XBSX"
     ],
-    "in_extra": false
+    "in_extra": false,
+    "view_types": [
+      "Side-Scroller/2D"
+    ]
   },
   {
     "title": "Nidhogg",
@@ -5729,7 +8245,10 @@
       "PS4",
       "PS5"
     ],
-    "in_extra": false
+    "in_extra": false,
+    "view_types": [
+      "Side-Scroller/2D"
+    ]
   },
   {
     "title": "Nitroplus Blasterz: Heroines Infinite Duel",
@@ -5782,14 +8301,16 @@
     "background_image": "https://media.rawg.io/media/screenshots/f39/f39de7a61bd3770ad25fd9988cd47faf.jpg",
     "release_year": null,
     "sources": [
-      "wikipedia"
+      "wikipedia",
+      "crossplaygames"
     ],
     "confidence": "high",
     "crossplay_platforms": [
       "PS4",
       "PS5"
     ],
-    "in_extra": false
+    "in_extra": false,
+    "view_types": []
   },
   {
     "title": "No Man's Sky",
@@ -5889,7 +8410,10 @@
       "XBO",
       "XBSX"
     ],
-    "in_extra": false
+    "in_extra": false,
+    "view_types": [
+      "First-Person"
+    ]
   },
   {
     "title": "Operation: Tango",
@@ -5955,7 +8479,8 @@
     "background_image": "https://media.rawg.io/media/games/d40/d40a1ce414000d1d1f47800ffe70fb0a.jpg",
     "release_year": null,
     "sources": [
-      "wikipedia"
+      "wikipedia",
+      "crossplaygames"
     ],
     "confidence": "high",
     "crossplay_platforms": [
@@ -5965,7 +8490,82 @@
       "XBO",
       "XBSX"
     ],
-    "in_extra": false
+    "in_extra": false,
+    "view_types": [
+      "First-Person"
+    ]
+  },
+  {
+    "title": "Outriders",
+    "genres": [
+      "Shooter",
+      "Adventure",
+      "Action",
+      "RPG"
+    ],
+    "tags": [
+      "singleplayer",
+      "ekshen",
+      "prikliuchenie",
+      "steam-achievements",
+      "multiplayer",
+      "full-controller-support",
+      "atmospheric",
+      "rpg",
+      "co-op",
+      "rolevaia-igra",
+      "cooperative",
+      "sci-fi",
+      "online-co-op",
+      "miaso",
+      "gore",
+      "nasilie",
+      "violent",
+      "shuter-ot-tretego-litsa",
+      "third-person-shooter",
+      "dark",
+      "war",
+      "aliens",
+      "steam-trading-cards-2",
+      "3rd-person-perspective",
+      "online",
+      "loot",
+      "city",
+      "console",
+      "offline",
+      "role-playing-game",
+      "journey",
+      "planet",
+      "fly",
+      "square"
+    ],
+    "platforms": [
+      "PC",
+      "PlayStation 5",
+      "Xbox One",
+      "PlayStation 4",
+      "Xbox Series S/X"
+    ],
+    "splitscreen": false,
+    "online_coop": true,
+    "players": null,
+    "rawg_id": 327227,
+    "rawg_slug": "outriders",
+    "background_image": "https://media.rawg.io/media/games/faa/faa6a4a7a2e57faf2960329630aee211.jpg",
+    "release_year": null,
+    "sources": [
+      "crossplaygames"
+    ],
+    "confidence": "high",
+    "crossplay_platforms": [
+      "PC",
+      "PS4",
+      "PS5",
+      "XBO",
+      "XBSX"
+    ],
+    "in_extra": false,
+    "view_types": []
   },
   {
     "title": "Overcooked: All You Can Eat",
@@ -6047,6 +8647,7 @@
     "release_year": 2020,
     "sources": [
       "wikipedia",
+      "crossplaygames",
       "rawg_tag"
     ],
     "confidence": "high",
@@ -6058,7 +8659,62 @@
       "XBO",
       "XBSX"
     ],
-    "in_extra": true
+    "in_extra": true,
+    "view_types": [
+      "Top-Down/Isometric"
+    ]
+  },
+  {
+    "title": "Overwatch",
+    "genres": [
+      "Casual",
+      "Shooter",
+      "Massively Multiplayer",
+      "Action"
+    ],
+    "tags": [
+      "multiplayer",
+      "first-person",
+      "sci-fi",
+      "fps",
+      "funny",
+      "pvp",
+      "3d",
+      "team-based",
+      "online",
+      "hero",
+      "hero-shooter-2",
+      "team"
+    ],
+    "platforms": [
+      "PC",
+      "Xbox One",
+      "PlayStation 4",
+      "Nintendo Switch"
+    ],
+    "splitscreen": false,
+    "online_coop": true,
+    "players": null,
+    "rawg_id": 22508,
+    "rawg_slug": "overwatch",
+    "background_image": "https://media.rawg.io/media/games/4ea/4ea507ceebeabb43edbc09468f5aaac6.jpg",
+    "release_year": null,
+    "sources": [
+      "crossplaygames"
+    ],
+    "confidence": "high",
+    "crossplay_platforms": [
+      "PC",
+      "PS4",
+      "PS5",
+      "Switch",
+      "XBO",
+      "XBSX"
+    ],
+    "in_extra": false,
+    "view_types": [
+      "First-Person"
+    ]
   },
   {
     "title": "Overwatch 2",
@@ -6127,7 +8783,8 @@
     "background_image": "https://media.rawg.io/media/games/95a/95a10817d1fc648cff1153f3fa8ef6c5.jpg",
     "release_year": null,
     "sources": [
-      "wikipedia"
+      "wikipedia",
+      "crossplaygames"
     ],
     "confidence": "high",
     "crossplay_platforms": [
@@ -6138,7 +8795,10 @@
       "XBO",
       "XBSX"
     ],
-    "in_extra": false
+    "in_extra": false,
+    "view_types": [
+      "First-Person"
+    ]
   },
   {
     "title": "Paladins",
@@ -6214,7 +8874,10 @@
       "XBO",
       "XBSX"
     ],
-    "in_extra": false
+    "in_extra": false,
+    "view_types": [
+      "First-Person"
+    ]
   },
   {
     "title": "Pavlov VR",
@@ -6264,7 +8927,137 @@
       "PC",
       "PS5"
     ],
-    "in_extra": false
+    "in_extra": false,
+    "view_types": [
+      "First-Person",
+      "VR"
+    ]
+  },
+  {
+    "title": "PAYDAY 2",
+    "genres": [],
+    "tags": [
+      "ludum-dare-48"
+    ],
+    "platforms": [
+      "PC"
+    ],
+    "splitscreen": false,
+    "online_coop": false,
+    "players": null,
+    "rawg_id": 594609,
+    "rawg_slug": "payday",
+    "background_image": "https://media.rawg.io/media/screenshots/c19/c19310c1724ecb6d8713b28505b1eeac.jpg",
+    "release_year": null,
+    "sources": [
+      "crossplaygames"
+    ],
+    "confidence": "high",
+    "crossplay_platforms": [
+      "PC",
+      "PS4",
+      "PS5",
+      "XBO",
+      "XBSX"
+    ],
+    "in_extra": false,
+    "view_types": []
+  },
+  {
+    "title": "Payday 3",
+    "genres": [],
+    "tags": [
+      "ludum-dare-48"
+    ],
+    "platforms": [
+      "PC"
+    ],
+    "splitscreen": false,
+    "online_coop": false,
+    "players": null,
+    "rawg_id": 594609,
+    "rawg_slug": "payday",
+    "background_image": "https://media.rawg.io/media/screenshots/c19/c19310c1724ecb6d8713b28505b1eeac.jpg",
+    "release_year": null,
+    "sources": [
+      "crossplaygames"
+    ],
+    "confidence": "high",
+    "crossplay_platforms": [
+      "PC",
+      "PS5",
+      "XBSX"
+    ],
+    "in_extra": false,
+    "view_types": []
+  },
+  {
+    "title": "PGA Tour 2K23",
+    "genres": [
+      "Simulation",
+      "Sports"
+    ],
+    "tags": [
+      "singleplayer",
+      "dlia-odnogo-igroka",
+      "steam-achievements",
+      "multiplayer",
+      "full-controller-support",
+      "rpg",
+      "co-op",
+      "rolevaia-igra",
+      "ot-tretego-litsa",
+      "third-person",
+      "simuliator",
+      "online-co-op",
+      "split-screen",
+      "lokalnyi-multipleer",
+      "local-co-op",
+      "kontroller",
+      "controller",
+      "local-multiplayer",
+      "pvp",
+      "igrok-protiv-igroka",
+      "in-app-purchases",
+      "sportivnaia-igra",
+      "online-pvp",
+      "lokalnaia-igra-na-chetverykh",
+      "4-player-local",
+      "sharedsplit-screen-co-op",
+      "sharedsplit-screen-pvp",
+      "lokalnyi-kooperativ",
+      "golf",
+      "golf-2"
+    ],
+    "platforms": [
+      "PC",
+      "PlayStation 5",
+      "Xbox One",
+      "PlayStation 4",
+      "Xbox Series S/X"
+    ],
+    "splitscreen": true,
+    "online_coop": true,
+    "players": null,
+    "rawg_id": 865079,
+    "rawg_slug": "pga-tour-2k23",
+    "background_image": "https://media.rawg.io/media/screenshots/e3f/e3f2052b2e5cd51e9a9d1e27dd40b283.jpg",
+    "release_year": null,
+    "sources": [
+      "crossplaygames"
+    ],
+    "confidence": "high",
+    "crossplay_platforms": [
+      "PC",
+      "PS4",
+      "PS5",
+      "XBO",
+      "XBSX"
+    ],
+    "in_extra": false,
+    "view_types": [
+      "Third-Person"
+    ]
   },
   {
     "title": "Phantasy Star Online 2",
@@ -6331,7 +9124,8 @@
     "background_image": "https://media.rawg.io/media/screenshots/296/2960740723535b92b150d7c528b6c661.jpg",
     "release_year": null,
     "sources": [
-      "wikipedia"
+      "wikipedia",
+      "crossplaygames"
     ],
     "confidence": "high",
     "crossplay_platforms": [
@@ -6342,7 +9136,8 @@
       "XBO",
       "XBSX"
     ],
-    "in_extra": false
+    "in_extra": false,
+    "view_types": []
   },
   {
     "title": "Pinball FX 3",
@@ -6418,7 +9213,11 @@
       "PS4",
       "PS5"
     ],
-    "in_extra": false
+    "in_extra": false,
+    "view_types": [
+      "Top-Down/Isometric",
+      "VR"
+    ]
   },
   {
     "title": "PixelJunk Shooter Ultimate",
@@ -6466,7 +9265,79 @@
       "PS4",
       "PS5"
     ],
-    "in_extra": false
+    "in_extra": false,
+    "view_types": [
+      "Side-Scroller/2D"
+    ]
+  },
+  {
+    "title": "PlayerUnknown&#8217;s Battlegrounds",
+    "genres": [
+      "Shooter",
+      "Massively Multiplayer",
+      "Action"
+    ],
+    "tags": [
+      "ekshen",
+      "multiplayer",
+      "dlia-neskolkikh-igrokov",
+      "co-op",
+      "open-world",
+      "strategiia",
+      "cooperative",
+      "shuter",
+      "ot-pervogo-litsa",
+      "first-person",
+      "ot-tretego-litsa",
+      "fps",
+      "shuter-ot-pervogo-litsa",
+      "simuliator",
+      "online-co-op",
+      "slozhnaia",
+      "vyzhivanie",
+      "survival",
+      "violent",
+      "sovmestnaia-igra-po-seti",
+      "online-multiplayer",
+      "stels",
+      "rannii-dostup",
+      "taktika",
+      "shuter-ot-tretego-litsa",
+      "tactical",
+      "third-person-shooter",
+      "pvp",
+      "igrok-protiv-igroka",
+      "komandnaia",
+      "sorevnovatelnaia",
+      "korolevskaia-bitva",
+      "battle-royale-2"
+    ],
+    "platforms": [
+      "PC",
+      "Xbox One",
+      "PlayStation 4"
+    ],
+    "splitscreen": false,
+    "online_coop": true,
+    "players": null,
+    "rawg_id": 10142,
+    "rawg_slug": "playerunknowns-battlegrounds",
+    "background_image": "https://media.rawg.io/media/games/1bd/1bd2657b81eb0c99338120ad444b24ff.jpg",
+    "release_year": null,
+    "sources": [
+      "crossplaygames"
+    ],
+    "confidence": "high",
+    "crossplay_platforms": [
+      "PS4",
+      "PS5",
+      "XBO",
+      "XBSX"
+    ],
+    "in_extra": false,
+    "view_types": [
+      "First-Person"
+    ]
   },
   {
     "title": "Poker Club",
@@ -6545,7 +9416,10 @@
       "XBO",
       "XBSX"
     ],
-    "in_extra": true
+    "in_extra": true,
+    "view_types": [
+      "First-Person"
+    ]
   },
   {
     "title": "Power Rangers: Battle for the Grid",
@@ -6580,7 +9454,8 @@
     "background_image": "https://media.rawg.io/media/games/7f5/7f5972ab99f48b84b770dea1edd2f5c5.jpg",
     "release_year": 2019,
     "sources": [
-      "wikipedia"
+      "wikipedia",
+      "crossplaygames"
     ],
     "confidence": "high",
     "crossplay_platforms": [
@@ -6591,7 +9466,10 @@
       "XBO",
       "XBSX"
     ],
-    "in_extra": true
+    "in_extra": true,
+    "view_types": [
+      "Side-Scroller/2D"
+    ]
   },
   {
     "title": "Pox Nora",
@@ -6646,7 +9524,8 @@
       "PS4",
       "PS5"
     ],
-    "in_extra": false
+    "in_extra": false,
+    "view_types": []
   },
   {
     "title": "Project Winter",
@@ -6703,7 +9582,8 @@
       "XBO",
       "XBSX"
     ],
-    "in_extra": false
+    "in_extra": false,
+    "view_types": []
   },
   {
     "title": "PUBG: Battlegrounds",
@@ -6769,7 +9649,10 @@
       "XBO",
       "XBSX"
     ],
-    "in_extra": false
+    "in_extra": false,
+    "view_types": [
+      "First-Person"
+    ]
   },
   {
     "title": "Quake",
@@ -6849,7 +9732,10 @@
       "XBO",
       "XBSX"
     ],
-    "in_extra": false
+    "in_extra": false,
+    "view_types": [
+      "First-Person"
+    ]
   },
   {
     "title": "Quake II",
@@ -6906,7 +9792,64 @@
       "XBO",
       "XBSX"
     ],
-    "in_extra": false
+    "in_extra": false,
+    "view_types": [
+      "First-Person"
+    ]
+  },
+  {
+    "title": "Rainbow Six Siege",
+    "genres": [
+      "Shooter",
+      "Action"
+    ],
+    "tags": [
+      "singleplayer",
+      "multiplayer",
+      "atmospheric",
+      "steam-trading-cards",
+      "co-op",
+      "first-person",
+      "partial-controller-support",
+      "fps",
+      "online-co-op",
+      "female-protagonist",
+      "tactical",
+      "realistic",
+      "physics",
+      "team-based",
+      "competitive",
+      "destruction"
+    ],
+    "platforms": [
+      "PC",
+      "PlayStation 5",
+      "Xbox One",
+      "PlayStation 4",
+      "Xbox Series S/X"
+    ],
+    "splitscreen": false,
+    "online_coop": true,
+    "players": null,
+    "rawg_id": 8488,
+    "rawg_slug": "tom-clancys-rainbow-six-siege-2",
+    "background_image": "https://media.rawg.io/media/games/b34/b3419c2706f8f8dbe40d08e23642ad06.jpg",
+    "release_year": null,
+    "sources": [
+      "crossplaygames"
+    ],
+    "confidence": "high",
+    "crossplay_platforms": [
+      "PC",
+      "PS4",
+      "PS5",
+      "XBO",
+      "XBSX"
+    ],
+    "in_extra": false,
+    "view_types": [
+      "First-Person"
+    ]
   },
   {
     "title": "ReadySet Heroes",
@@ -6940,7 +9883,10 @@
       "PS4",
       "PS5"
     ],
-    "in_extra": true
+    "in_extra": true,
+    "view_types": [
+      "Top-Down/Isometric"
+    ]
   },
   {
     "title": "Realm Royale",
@@ -7013,7 +9959,11 @@
       "XBO",
       "XBSX"
     ],
-    "in_extra": false
+    "in_extra": false,
+    "view_types": [
+      "First-Person",
+      "Third-Person"
+    ]
   },
   {
     "title": "Rec Room",
@@ -7083,7 +10033,11 @@
       "XBO",
       "XBSX"
     ],
-    "in_extra": false
+    "in_extra": false,
+    "view_types": [
+      "First-Person",
+      "VR"
+    ]
   },
   {
     "title": "Remnant 2",
@@ -7116,7 +10070,90 @@
       "XBO",
       "XBSX"
     ],
-    "in_extra": false
+    "in_extra": false,
+    "view_types": []
+  },
+  {
+    "title": "Riders Republic",
+    "genres": [
+      "Massively Multiplayer",
+      "Action",
+      "Sports"
+    ],
+    "tags": [
+      "singleplayer",
+      "dlia-odnogo-igroka",
+      "multiplayer",
+      "dlia-neskolkikh-igrokov",
+      "co-op",
+      "open-world",
+      "cooperative",
+      "ot-pervogo-litsa",
+      "first-person",
+      "ot-tretego-litsa",
+      "third-person",
+      "partial-controller-support",
+      "online-co-op",
+      "exploration",
+      "pvp",
+      "cross-platform-multiplayer",
+      "igrok-protiv-igroka",
+      "mmo-2",
+      "in-app-purchases",
+      "character-customization",
+      "gonki",
+      "sportivnaia-igra",
+      "online-pvp",
+      "online",
+      "battle",
+      "character",
+      "console",
+      "setevoi-kooperativ",
+      "offline",
+      "fight",
+      "race",
+      "winter",
+      "snowboarding",
+      "competition",
+      "skiing",
+      "bike",
+      "snoubording",
+      "lyzhi",
+      "snowboard",
+      "wingsuit",
+      "winter-sports",
+      "biking"
+    ],
+    "platforms": [
+      "PC",
+      "PlayStation 5",
+      "Xbox One",
+      "PlayStation 4",
+      "Xbox Series S/X"
+    ],
+    "splitscreen": false,
+    "online_coop": true,
+    "players": null,
+    "rawg_id": 490752,
+    "rawg_slug": "riders-republic",
+    "background_image": "https://media.rawg.io/media/games/7b7/7b7f740c7f21ca6028cfc420c3f79a76.jpg",
+    "release_year": null,
+    "sources": [
+      "crossplaygames"
+    ],
+    "confidence": "high",
+    "crossplay_platforms": [
+      "PC",
+      "PS4",
+      "PS5",
+      "XBO",
+      "XBSX"
+    ],
+    "in_extra": false,
+    "view_types": [
+      "First-Person",
+      "Third-Person"
+    ]
   },
   {
     "title": "Risk of Rain",
@@ -7194,7 +10231,77 @@
       "PS4",
       "PS5"
     ],
-    "in_extra": false
+    "in_extra": false,
+    "view_types": [
+      "Side-Scroller/2D"
+    ]
+  },
+  {
+    "title": "Risk of Rain 2",
+    "genres": [
+      "Shooter",
+      "Arcade",
+      "Action"
+    ],
+    "tags": [
+      "singleplayer",
+      "dlia-odnogo-igroka",
+      "ekshen",
+      "steam-achievements",
+      "indi-2",
+      "multiplayer",
+      "full-controller-support",
+      "steam-cloud",
+      "dlia-neskolkikh-igrokov",
+      "otlichnyi-saundtrek",
+      "cooperative",
+      "ot-tretego-litsa",
+      "nauchnaia-fantastika",
+      "online-co-op",
+      "slozhnaia",
+      "steam-leaderboards",
+      "vyzhivanie",
+      "sovmestnaia-igra-po-seti",
+      "online-multiplayer",
+      "split-screen",
+      "lokalnyi-multipleer",
+      "local-co-op",
+      "rannii-dostup",
+      "shuter-ot-tretego-litsa",
+      "local-multiplayer",
+      "early-access",
+      "3d",
+      "rogalik",
+      "uproshchionnyi-rogalik",
+      "lut",
+      "skroll-shuter"
+    ],
+    "platforms": [
+      "PC",
+      "Xbox One",
+      "PlayStation 4",
+      "Nintendo Switch"
+    ],
+    "splitscreen": true,
+    "online_coop": true,
+    "players": null,
+    "rawg_id": 263590,
+    "rawg_slug": "risk-of-rain-2",
+    "background_image": "https://media.rawg.io/media/games/238/238e2b2b24c9838626700c69cacf1e3a.jpg",
+    "release_year": 2020,
+    "sources": [
+      "crossplaygames"
+    ],
+    "confidence": "high",
+    "crossplay_platforms": [
+      "PC",
+      "PS4",
+      "PS5"
+    ],
+    "in_extra": true,
+    "view_types": [
+      "Third-Person"
+    ]
   },
   {
     "title": "Roblox",
@@ -7257,7 +10364,8 @@
       "XBO",
       "XBSX"
     ],
-    "in_extra": false
+    "in_extra": false,
+    "view_types": []
   },
   {
     "title": "Rocket Arena",
@@ -7320,7 +10428,10 @@
       "XBO",
       "XBSX"
     ],
-    "in_extra": false
+    "in_extra": false,
+    "view_types": [
+      "Third-Person"
+    ]
   },
   {
     "title": "Rocket League",
@@ -7402,7 +10513,8 @@
       "XBO",
       "XBSX"
     ],
-    "in_extra": false
+    "in_extra": false,
+    "view_types": []
   },
   {
     "title": "Rogue Company",
@@ -7474,7 +10586,184 @@
       "XBO",
       "XBSX"
     ],
-    "in_extra": false
+    "in_extra": false,
+    "view_types": [
+      "Third-Person"
+    ]
+  },
+  {
+    "title": "Roller Champions",
+    "genres": [
+      "Racing",
+      "Action",
+      "Sports"
+    ],
+    "tags": [
+      "multiplayer",
+      "dlia-neskolkikh-igrokov",
+      "co-op",
+      "ot-tretego-litsa",
+      "third-person",
+      "partial-controller-support",
+      "online-co-op",
+      "free-to-play",
+      "besplatnaia-igra",
+      "arkada",
+      "pvp",
+      "cross-platform-multiplayer",
+      "igrok-protiv-igroka",
+      "kastomizatsiia-personazha",
+      "in-app-purchases",
+      "character-customization",
+      "tsvetastaia",
+      "3d",
+      "colorful",
+      "team-based",
+      "komandnaia",
+      "sportivnaia-igra",
+      "online-pvp",
+      "kibersport",
+      "esports",
+      "skating",
+      "katanie"
+    ],
+    "platforms": [
+      "PC",
+      "PlayStation 5",
+      "Xbox One",
+      "PlayStation 4",
+      "Xbox Series S/X"
+    ],
+    "splitscreen": false,
+    "online_coop": true,
+    "players": null,
+    "rawg_id": 327216,
+    "rawg_slug": "roller-champions",
+    "background_image": "https://media.rawg.io/media/games/049/049282a6d9dc2fbf830af7c1bfccd915.jpg",
+    "release_year": null,
+    "sources": [
+      "crossplaygames"
+    ],
+    "confidence": "high",
+    "crossplay_platforms": [
+      "PC",
+      "PS4",
+      "PS5",
+      "Switch",
+      "XBO",
+      "XBSX"
+    ],
+    "in_extra": false,
+    "view_types": [
+      "Third-Person"
+    ]
+  },
+  {
+    "title": "Rubber Bandits",
+    "genres": [
+      "Casual",
+      "Indie",
+      "Action"
+    ],
+    "tags": [
+      "singleplayer",
+      "dlia-odnogo-igroka",
+      "ekshen",
+      "steam-achievements",
+      "multiplayer",
+      "full-controller-support",
+      "steam-cloud",
+      "dlia-neskolkikh-igrokov",
+      "co-op",
+      "cooperative",
+      "kazualnaia-igra",
+      "smeshnaia",
+      "online-co-op",
+      "funny",
+      "iumor",
+      "comedy",
+      "split-screen",
+      "lokalnyi-multipleer",
+      "local-co-op",
+      "local-multiplayer",
+      "arkada",
+      "pvp",
+      "dlia-vsei-semi",
+      "igrok-protiv-igroka",
+      "family-friendly",
+      "fizika",
+      "physics",
+      "beat-em-up",
+      "online-pvp",
+      "faiting",
+      "multiplikatsiia",
+      "lokalnaia-igra-na-chetverykh",
+      "destruction",
+      "cartoony",
+      "razrusheniia",
+      "4-player-local",
+      "heist",
+      "ogrableniia",
+      "setevoi-kooperativ",
+      "remote-play-together",
+      "sharedsplit-screen-co-op",
+      "sharedsplit-screen-pvp",
+      "lokalnyi-kooperativ"
+    ],
+    "platforms": [
+      "PC"
+    ],
+    "splitscreen": true,
+    "online_coop": true,
+    "players": null,
+    "rawg_id": 702386,
+    "rawg_slug": "rubber-bandits",
+    "background_image": "https://media.rawg.io/media/games/146/146b12e9098b450d607a979033eca64d.jpg",
+    "release_year": null,
+    "sources": [
+      "crossplaygames"
+    ],
+    "confidence": "high",
+    "crossplay_platforms": [
+      "PC",
+      "PS4",
+      "PS5",
+      "XBO",
+      "XBSX"
+    ],
+    "in_extra": false,
+    "view_types": []
+  },
+  {
+    "title": "Rust: Console Edition",
+    "genres": [
+      "Adventure",
+      "Action"
+    ],
+    "tags": [],
+    "platforms": [
+      "Xbox One",
+      "PlayStation 4"
+    ],
+    "splitscreen": false,
+    "online_coop": false,
+    "players": null,
+    "rawg_id": 593229,
+    "rawg_slug": "rust-console-edition",
+    "background_image": "https://media.rawg.io/media/screenshots/ca3/ca39f046d446ed27bff68287d12aa95c.jpg",
+    "release_year": null,
+    "sources": [
+      "crossplaygames"
+    ],
+    "confidence": "high",
+    "crossplay_platforms": [
+      "PS4",
+      "PS5",
+      "XBO",
+      "XBSX"
+    ],
+    "in_extra": false,
+    "view_types": []
   },
   {
     "title": "Ry\u016b ga Gotoku Ishin!",
@@ -7504,7 +10793,8 @@
       "PS4",
       "PS5"
     ],
-    "in_extra": false
+    "in_extra": false,
+    "view_types": []
   },
   {
     "title": "Sackboy: A Big Adventure",
@@ -7557,15 +10847,20 @@
     "background_image": "https://media.rawg.io/media/games/2ec/2ec8d2b5d990b9407e20dc81d271300d.jpg",
     "release_year": 2020,
     "sources": [
+      "crossplaygames",
       "rawg_platforms"
     ],
-    "confidence": "medium",
+    "confidence": "high",
     "crossplay_platforms": [
       "PC",
       "PS4",
       "PS5"
     ],
-    "in_extra": true
+    "in_extra": true,
+    "view_types": [
+      "Top-Down/Isometric",
+      "Side-Scroller/2D"
+    ]
   },
   {
     "title": "Salt and Sacrifice",
@@ -7647,7 +10942,10 @@
       "PS4",
       "PS5"
     ],
-    "in_extra": true
+    "in_extra": true,
+    "view_types": [
+      "Side-Scroller/2D"
+    ]
   },
   {
     "title": "Samurai Shodown V Special",
@@ -7698,7 +10996,92 @@
       "PS4",
       "PS5"
     ],
-    "in_extra": false
+    "in_extra": false,
+    "view_types": [
+      "Side-Scroller/2D"
+    ]
+  },
+  {
+    "title": "SD Gundam Battle Alliance",
+    "genres": [
+      "Action",
+      "RPG",
+      "Fighting"
+    ],
+    "tags": [
+      "singleplayer",
+      "dlia-odnogo-igroka",
+      "ekshen",
+      "steam-achievements",
+      "multiplayer",
+      "full-controller-support",
+      "steam-cloud",
+      "dlia-neskolkikh-igrokov",
+      "rpg",
+      "co-op",
+      "rolevaia-igra",
+      "cooperative",
+      "ot-tretego-litsa",
+      "third-person",
+      "nauchnaia-fantastika",
+      "sci-fi",
+      "online-co-op",
+      "action-rpg",
+      "rolevoi-ekshen",
+      "anime-2",
+      "anime",
+      "space",
+      "slesher",
+      "kosmos-2",
+      "hack-and-slash",
+      "combat",
+      "beat-em-up",
+      "steam-trading-cards-2",
+      "robots",
+      "roboty",
+      "pve",
+      "boi-2",
+      "igra-protiv-ii",
+      "lore-rich",
+      "prorabotannaia-vselennaia",
+      "alternativnaia-istoriia",
+      "alternate-history",
+      "setevoi-kooperativ",
+      "mechs",
+      "mekhi",
+      "animation-modeling",
+      "animatsiia-i-modelirovanie"
+    ],
+    "platforms": [
+      "PC",
+      "PlayStation 5",
+      "Xbox One",
+      "PlayStation 4",
+      "Xbox Series S/X",
+      "Nintendo Switch"
+    ],
+    "splitscreen": false,
+    "online_coop": true,
+    "players": null,
+    "rawg_id": 736277,
+    "rawg_slug": "sd-gundam-battle-alliance",
+    "background_image": "https://media.rawg.io/media/screenshots/0b4/0b466151fef4974a6e57f4e38101fdf6.jpg",
+    "release_year": null,
+    "sources": [
+      "crossplaygames"
+    ],
+    "confidence": "high",
+    "crossplay_platforms": [
+      "PC",
+      "PS4",
+      "PS5",
+      "XBO",
+      "XBSX"
+    ],
+    "in_extra": false,
+    "view_types": [
+      "Third-Person"
+    ]
   },
   {
     "title": "Sea of Thieves",
@@ -7763,7 +11146,10 @@
       "XBO",
       "XBSX"
     ],
-    "in_extra": false
+    "in_extra": false,
+    "view_types": [
+      "First-Person"
+    ]
   },
   {
     "title": "Secret Neighbor",
@@ -7820,7 +11206,10 @@
       "Switch",
       "XBO"
     ],
-    "in_extra": true
+    "in_extra": true,
+    "view_types": [
+      "First-Person"
+    ]
   },
   {
     "title": "Siegecraft Commander",
@@ -7881,7 +11270,10 @@
       "Switch",
       "XBO"
     ],
-    "in_extra": false
+    "in_extra": false,
+    "view_types": [
+      "VR"
+    ]
   },
   {
     "title": "Skull and Bones",
@@ -7961,7 +11353,11 @@
       "PS5",
       "XBSX"
     ],
-    "in_extra": true
+    "in_extra": true,
+    "view_types": [
+      "First-Person",
+      "Third-Person"
+    ]
   },
   {
     "title": "Skullgirls: 2nd Encore",
@@ -7993,14 +11389,16 @@
     "background_image": "https://media.rawg.io/media/games/436/436649e2ed892ba234fca14baf856890.jpg",
     "release_year": null,
     "sources": [
-      "wikipedia"
+      "wikipedia",
+      "crossplaygames"
     ],
     "confidence": "high",
     "crossplay_platforms": [
       "PS4",
       "PS5"
     ],
-    "in_extra": false
+    "in_extra": false,
+    "view_types": []
   },
   {
     "title": "SkullPirates",
@@ -8058,7 +11456,37 @@
       "PS4",
       "PS5"
     ],
-    "in_extra": false
+    "in_extra": false,
+    "view_types": []
+  },
+  {
+    "title": "Skyclimbers",
+    "genres": [
+      "RPG"
+    ],
+    "tags": [],
+    "platforms": [],
+    "splitscreen": false,
+    "online_coop": false,
+    "players": null,
+    "rawg_id": 549603,
+    "rawg_slug": "skyclimbers",
+    "background_image": "https://media.rawg.io/media/screenshots/fe1/fe1687456395a947c7e24da323d8f416.jpg",
+    "release_year": null,
+    "sources": [
+      "crossplaygames"
+    ],
+    "confidence": "high",
+    "crossplay_platforms": [
+      "PC",
+      "PS4",
+      "PS5",
+      "Switch",
+      "XBO",
+      "XBSX"
+    ],
+    "in_extra": false,
+    "view_types": []
   },
   {
     "title": "Smite",
@@ -8129,7 +11557,73 @@
       "XBO",
       "XBSX"
     ],
-    "in_extra": false
+    "in_extra": false,
+    "view_types": [
+      "Third-Person"
+    ]
+  },
+  {
+    "title": "Sniper Elite 5",
+    "genres": [
+      "Action"
+    ],
+    "tags": [
+      "singleplayer",
+      "dlia-odnogo-igroka",
+      "ekshen",
+      "multiplayer",
+      "dlia-neskolkikh-igrokov",
+      "steam-trading-cards",
+      "co-op",
+      "cooperative",
+      "shuter",
+      "shedevr",
+      "ot-tretego-litsa",
+      "third-person",
+      "fps",
+      "shuter-ot-pervogo-litsa",
+      "klassika",
+      "classic",
+      "stealth",
+      "stels",
+      "taktika",
+      "shuter-ot-tretego-litsa",
+      "third-person-shooter",
+      "war",
+      "voina",
+      "vtoraia-mirovaia-voina",
+      "world-war-ii",
+      "sniper",
+      "snaiper"
+    ],
+    "platforms": [
+      "PC",
+      "PlayStation 2",
+      "Wii"
+    ],
+    "splitscreen": false,
+    "online_coop": true,
+    "players": null,
+    "rawg_id": 14237,
+    "rawg_slug": "sniper-elite",
+    "background_image": "https://media.rawg.io/media/screenshots/a8a/a8adfa5d6c07c7ee2afbb9535dafec48.jpg",
+    "release_year": null,
+    "sources": [
+      "crossplaygames"
+    ],
+    "confidence": "high",
+    "crossplay_platforms": [
+      "PC",
+      "PS4",
+      "PS5",
+      "XBO",
+      "XBSX"
+    ],
+    "in_extra": false,
+    "view_types": [
+      "First-Person",
+      "Third-Person"
+    ]
   },
   {
     "title": "Sonic Racing: CrossWorlds",
@@ -8213,7 +11707,8 @@
       "Switch",
       "XBSX"
     ],
-    "in_extra": false
+    "in_extra": false,
+    "view_types": []
   },
   {
     "title": "Spacelords",
@@ -8293,7 +11788,10 @@
       "XBO",
       "XBSX"
     ],
-    "in_extra": false
+    "in_extra": false,
+    "view_types": [
+      "Third-Person"
+    ]
   },
   {
     "title": "Spellbreak",
@@ -8374,7 +11872,10 @@
       "XBO",
       "XBSX"
     ],
-    "in_extra": false
+    "in_extra": false,
+    "view_types": [
+      "Third-Person"
+    ]
   },
   {
     "title": "Spelunky 2",
@@ -8446,7 +11947,8 @@
     "background_image": "https://media.rawg.io/media/games/686/68625f8bef120a2a6074c394baf27f77.jpg",
     "release_year": null,
     "sources": [
-      "wikipedia"
+      "wikipedia",
+      "crossplaygames"
     ],
     "confidence": "high",
     "crossplay_platforms": [
@@ -8457,7 +11959,10 @@
       "XBO",
       "XBSX"
     ],
-    "in_extra": false
+    "in_extra": false,
+    "view_types": [
+      "Side-Scroller/2D"
+    ]
   },
   {
     "title": "Splitgate",
@@ -8535,7 +12040,10 @@
       "XBO",
       "XBSX"
     ],
-    "in_extra": false
+    "in_extra": false,
+    "view_types": [
+      "First-Person"
+    ]
   },
   {
     "title": "Sports Bar VR",
@@ -8589,7 +12097,10 @@
       "PS4",
       "PS5"
     ],
-    "in_extra": false
+    "in_extra": false,
+    "view_types": [
+      "VR"
+    ]
   },
   {
     "title": "Square Heroes",
@@ -8641,7 +12152,8 @@
       "PS4",
       "PS5"
     ],
-    "in_extra": false
+    "in_extra": false,
+    "view_types": []
   },
   {
     "title": "Star Trek: Bridge Crew",
@@ -8682,7 +12194,8 @@
     "background_image": "https://media.rawg.io/media/games/1cb/1cb96e6a87291248ab22193e40ab3071.jpg",
     "release_year": null,
     "sources": [
-      "wikipedia"
+      "wikipedia",
+      "crossplaygames"
     ],
     "confidence": "high",
     "crossplay_platforms": [
@@ -8690,7 +12203,10 @@
       "PS4",
       "PS5"
     ],
-    "in_extra": false
+    "in_extra": false,
+    "view_types": [
+      "VR"
+    ]
   },
   {
     "title": "Star Wars: Squadrons",
@@ -8739,7 +12255,8 @@
     "background_image": "https://media.rawg.io/media/games/b19/b191ff2b8ccb646d1d2d9297ed5c7e89.jpg",
     "release_year": null,
     "sources": [
-      "wikipedia"
+      "wikipedia",
+      "crossplaygames"
     ],
     "confidence": "high",
     "crossplay_platforms": [
@@ -8749,7 +12266,11 @@
       "XBO",
       "XBSX"
     ],
-    "in_extra": false
+    "in_extra": false,
+    "view_types": [
+      "First-Person",
+      "VR"
+    ]
   },
   {
     "title": "Street Fighter 6",
@@ -8816,7 +12337,8 @@
     "background_image": "https://media.rawg.io/media/games/ce2/ce2463db40cec363f360c29ddcc56884.jpg",
     "release_year": null,
     "sources": [
-      "wikipedia"
+      "wikipedia",
+      "crossplaygames"
     ],
     "confidence": "high",
     "crossplay_platforms": [
@@ -8825,7 +12347,8 @@
       "PS5",
       "XBSX"
     ],
-    "in_extra": false
+    "in_extra": false,
+    "view_types": []
   },
   {
     "title": "Street Fighter V",
@@ -8895,7 +12418,85 @@
       "PS4",
       "PS5"
     ],
-    "in_extra": false
+    "in_extra": false,
+    "view_types": [
+      "Side-Scroller/2D"
+    ]
+  },
+  {
+    "title": "Suicide Squad: Kill the Justice League",
+    "genres": [
+      "Action"
+    ],
+    "tags": [
+      "singleplayer",
+      "dlia-odnogo-igroka",
+      "ekshen",
+      "prikliuchenie",
+      "steam-achievements",
+      "multiplayer",
+      "full-controller-support",
+      "dlia-neskolkikh-igrokov",
+      "glubokii-siuzhet",
+      "co-op",
+      "story-rich",
+      "otkrytyi-mir",
+      "open-world",
+      "shuter",
+      "kazualnaia-igra",
+      "ot-tretego-litsa",
+      "third-person",
+      "online-co-op",
+      "miaso",
+      "gore",
+      "iumor",
+      "comedy",
+      "nasilie",
+      "violent",
+      "shuter-ot-tretego-litsa",
+      "third-person-shooter",
+      "cross-platform-multiplayer",
+      "in-app-purchases",
+      "pve",
+      "comic-book",
+      "po-komiksu",
+      "superhero",
+      "supergeroi",
+      "setevoi-kooperativ",
+      "zlodei-protagonist",
+      "villain-protagonist",
+      "igrok-protiv-ii",
+      "kapitalizm",
+      "looter-shooter",
+      "capitalism",
+      "hdr-available",
+      "luter-shuter"
+    ],
+    "platforms": [
+      "PC",
+      "PlayStation 5",
+      "Xbox Series S/X"
+    ],
+    "splitscreen": false,
+    "online_coop": true,
+    "players": null,
+    "rawg_id": 457728,
+    "rawg_slug": "suicide-squad-kill-the-justice-league",
+    "background_image": "https://media.rawg.io/media/games/eac/eac17db790a988f47e5700d176497694.jpg",
+    "release_year": null,
+    "sources": [
+      "crossplaygames"
+    ],
+    "confidence": "high",
+    "crossplay_platforms": [
+      "PC",
+      "PS5",
+      "XBSX"
+    ],
+    "in_extra": false,
+    "view_types": [
+      "Third-Person"
+    ]
   },
   {
     "title": "Super Animal Royale",
@@ -8954,7 +12555,10 @@
       "XBO",
       "XBSX"
     ],
-    "in_extra": false
+    "in_extra": false,
+    "view_types": [
+      "Side-Scroller/2D"
+    ]
   },
   {
     "title": "Super Bomberman R Online",
@@ -9021,7 +12625,8 @@
       "XBO",
       "XBSX"
     ],
-    "in_extra": false
+    "in_extra": false,
+    "view_types": []
   },
   {
     "title": "Super Dungeon Bros",
@@ -9079,7 +12684,8 @@
       "PS5",
       "XBO"
     ],
-    "in_extra": false
+    "in_extra": false,
+    "view_types": []
   },
   {
     "title": "Super Exploding Zoo",
@@ -9110,7 +12716,8 @@
       "PS4",
       "PS5"
     ],
-    "in_extra": false
+    "in_extra": false,
+    "view_types": []
   },
   {
     "title": "Super Mega Baseball 2",
@@ -9158,7 +12765,8 @@
     "background_image": "https://media.rawg.io/media/screenshots/86a/86acab2c5c5d3c71c51198c8a913c7c9.jpg",
     "release_year": null,
     "sources": [
-      "wikipedia"
+      "wikipedia",
+      "crossplaygames"
     ],
     "confidence": "high",
     "crossplay_platforms": [
@@ -9169,7 +12777,8 @@
       "XBO",
       "XBSX"
     ],
-    "in_extra": false
+    "in_extra": false,
+    "view_types": []
   },
   {
     "title": "Switch Galaxy Ultra",
@@ -9212,7 +12821,8 @@
       "PS4",
       "PS5"
     ],
-    "in_extra": false
+    "in_extra": false,
+    "view_types": []
   },
   {
     "title": "Sword Art Online: Fractured Daydream",
@@ -9288,7 +12898,10 @@
       "Switch",
       "XBSX"
     ],
-    "in_extra": true
+    "in_extra": true,
+    "view_types": [
+      "Third-Person"
+    ]
   },
   {
     "title": "Tannenberg",
@@ -9357,7 +12970,10 @@
       "XBO",
       "XBSX"
     ],
-    "in_extra": false
+    "in_extra": false,
+    "view_types": [
+      "First-Person"
+    ]
   },
   {
     "title": "Tekken 8",
@@ -9417,7 +13033,8 @@
     "background_image": "https://media.rawg.io/media/games/ed3/ed3a5e9fab79022979de9ef420137f73.jpg",
     "release_year": null,
     "sources": [
-      "wikipedia"
+      "wikipedia",
+      "crossplaygames"
     ],
     "confidence": "high",
     "crossplay_platforms": [
@@ -9425,7 +13042,8 @@
       "PS5",
       "XBSX"
     ],
-    "in_extra": false
+    "in_extra": false,
+    "view_types": []
   },
   {
     "title": "Tetris Effect",
@@ -9464,7 +13082,8 @@
       "XBO",
       "XBSX"
     ],
-    "in_extra": false
+    "in_extra": false,
+    "view_types": []
   },
   {
     "title": "The Crew Motorfest",
@@ -9528,7 +13147,209 @@
       "XBO",
       "XBSX"
     ],
-    "in_extra": true
+    "in_extra": true,
+    "view_types": [
+      "First-Person",
+      "Third-Person"
+    ]
+  },
+  {
+    "title": "The Elder Scrolls Online",
+    "genres": [
+      "Massively Multiplayer",
+      "RPG"
+    ],
+    "tags": [
+      "multiplayer",
+      "story",
+      "online",
+      "friends",
+      "explore"
+    ],
+    "platforms": [
+      "PC",
+      "macOS"
+    ],
+    "splitscreen": false,
+    "online_coop": true,
+    "players": null,
+    "rawg_id": 41458,
+    "rawg_slug": "the-elder-scrolls-online",
+    "background_image": "https://media.rawg.io/media/games/1af/1af8786543bcd0ec61a509604902a41f.jpg",
+    "release_year": null,
+    "sources": [
+      "crossplaygames"
+    ],
+    "confidence": "high",
+    "crossplay_platforms": [
+      "PC",
+      "PS4",
+      "PS5",
+      "XBO",
+      "XBSX"
+    ],
+    "in_extra": false,
+    "view_types": []
+  },
+  {
+    "title": "The Finals",
+    "genres": [
+      "Shooter",
+      "Action"
+    ],
+    "tags": [
+      "ekshen",
+      "steam-achievements",
+      "multiplayer",
+      "dlia-neskolkikh-igrokov",
+      "shuter",
+      "ot-pervogo-litsa",
+      "first-person",
+      "partial-controller-support",
+      "fps",
+      "shuter-ot-pervogo-litsa",
+      "free-to-play",
+      "besplatnaia-igra",
+      "taktika",
+      "tactical",
+      "pvp",
+      "cross-platform-multiplayer",
+      "igrok-protiv-igroka",
+      "kastomizatsiia-personazha",
+      "resheniia-s-posledstviiami",
+      "in-app-purchases",
+      "character-customization",
+      "realizm",
+      "choices-matter",
+      "realistic",
+      "crafting",
+      "combat",
+      "krafting",
+      "team-based",
+      "komandnaia",
+      "online-pvp",
+      "boi-2",
+      "destruction",
+      "loot",
+      "lut",
+      "razrusheniia",
+      "class-based",
+      "razdelenie-na-klassy",
+      "korolevskaia-bitva",
+      "kastomizatsiia-oruzhiia",
+      "gun-customization",
+      "kapitalizm",
+      "capitalism",
+      "arena-based"
+    ],
+    "platforms": [
+      "PC",
+      "PlayStation 5",
+      "Xbox Series S/X"
+    ],
+    "splitscreen": false,
+    "online_coop": true,
+    "players": null,
+    "rawg_id": 840788,
+    "rawg_slug": "the-finals",
+    "background_image": "https://media.rawg.io/media/games/fa2/fa28280bb6f7bec50b94bc821d412795.jpg",
+    "release_year": null,
+    "sources": [
+      "crossplaygames"
+    ],
+    "confidence": "high",
+    "crossplay_platforms": [
+      "PC",
+      "PS5",
+      "XBSX"
+    ],
+    "in_extra": false,
+    "view_types": [
+      "First-Person"
+    ]
+  },
+  {
+    "title": "The First Descendant",
+    "genres": [
+      "Adventure",
+      "Action",
+      "RPG"
+    ],
+    "tags": [
+      "singleplayer",
+      "dlia-odnogo-igroka",
+      "ekshen",
+      "prikliuchenie",
+      "multiplayer",
+      "dlia-neskolkikh-igrokov",
+      "glubokii-siuzhet",
+      "rpg",
+      "co-op",
+      "rolevaia-igra",
+      "story-rich",
+      "cooperative",
+      "shuter",
+      "ot-tretego-litsa",
+      "third-person",
+      "nauchnaia-fantastika",
+      "sci-fi",
+      "partial-controller-support",
+      "online-co-op",
+      "nasilie",
+      "violent",
+      "free-to-play",
+      "besplatnaia-igra",
+      "action-rpg",
+      "rolevoi-ekshen",
+      "shuter-ot-tretego-litsa",
+      "third-person-shooter",
+      "cross-platform-multiplayer",
+      "kastomizatsiia-personazha",
+      "in-app-purchases",
+      "character-customization",
+      "seksualnyi-kontent",
+      "combat",
+      "sexual-content",
+      "pve",
+      "boi-2",
+      "setevoi-kooperativ",
+      "igrok-protiv-ii",
+      "looter-shooter",
+      "3rd-person",
+      "luter-shuter",
+      "sci-fi-shooter",
+      "shooters",
+      "loot-crate"
+    ],
+    "platforms": [
+      "PC",
+      "PlayStation 5",
+      "Xbox One",
+      "PlayStation 4",
+      "Xbox Series S/X"
+    ],
+    "splitscreen": false,
+    "online_coop": true,
+    "players": null,
+    "rawg_id": 816311,
+    "rawg_slug": "the-first-descendant",
+    "background_image": "https://media.rawg.io/media/screenshots/7a7/7a7ea9668c41b7c9cc7c1f5d188a2571.jpg",
+    "release_year": null,
+    "sources": [
+      "crossplaygames"
+    ],
+    "confidence": "high",
+    "crossplay_platforms": [
+      "PC",
+      "PS4",
+      "PS5",
+      "XBO",
+      "XBSX"
+    ],
+    "in_extra": false,
+    "view_types": [
+      "Third-Person"
+    ]
   },
   {
     "title": "The King of Fighters '97 Global Match",
@@ -9570,7 +13391,8 @@
       "PS4",
       "PS5"
     ],
-    "in_extra": false
+    "in_extra": false,
+    "view_types": []
   },
   {
     "title": "The King of Fighters XV",
@@ -9631,7 +13453,8 @@
       "XBO",
       "XBSX"
     ],
-    "in_extra": false
+    "in_extra": false,
+    "view_types": []
   },
   {
     "title": "The Last Blade 2",
@@ -9670,90 +13493,242 @@
     "background_image": "https://media.rawg.io/media/games/5c9/5c9d21b8de81ec72c1717a52d2951319.jpg",
     "release_year": null,
     "sources": [
-      "wikipedia"
+      "wikipedia",
+      "crossplaygames"
     ],
     "confidence": "high",
     "crossplay_platforms": [
       "PS4",
       "PS5"
     ],
-    "in_extra": false
+    "in_extra": false,
+    "view_types": []
   },
   {
-    "title": "The Lord of the Rings: Return to Moria",
+    "title": "The Outlast Trials",
     "genres": [
+      "Indie",
       "Adventure",
       "Action"
     ],
     "tags": [
       "singleplayer",
-      "dlia-odnogo-igroka",
+      "ekshen",
       "prikliuchenie",
-      "steam-achievements",
       "multiplayer",
       "full-controller-support",
-      "steam-cloud",
-      "dlia-neskolkikh-igrokov",
-      "glubokii-siuzhet",
-      "co-op",
-      "story-rich",
-      "otkrytyi-mir",
-      "open-world",
-      "ot-tretego-litsa",
-      "third-person",
-      "online-co-op",
-      "fentezi",
-      "fantasy",
-      "exploration",
-      "sandbox",
+      "atmospheric",
+      "atmosfera",
+      "ot-pervogo-litsa",
+      "first-person",
+      "horror",
       "vyzhivanie",
       "survival",
-      "pesochnitsa",
+      "stealth",
+      "stels",
+      "action-adventure",
+      "mrachnaia",
+      "dark",
       "cross-platform-multiplayer",
       "kastomizatsiia-personazha",
+      "prikliuchencheskii-ekshen",
       "character-customization",
-      "crafting",
-      "cinematic",
-      "combat",
-      "krafting",
-      "stroitelstvo",
-      "building",
-      "kinematografichnaia",
-      "stroitelstvo-bazy",
-      "protsedurnaia-generatsiia",
-      "issledovaniia",
-      "base-building",
-      "boi-2",
-      "procedural-generation",
-      "family-sharing",
-      "setevoi-kooperativ",
-      "open-world-survival-craft",
-      "dwarf",
-      "simuliator-vyzhivaniia-i-kraftinga-v-otkrytom-mire",
-      "dvorfy"
+      "khorror-na-vyzhivanie",
+      "survival-horror",
+      "realizm",
+      "realistic",
+      "menedzhment",
+      "management",
+      "chiornyi-iumor",
+      "dark-humor",
+      "pve",
+      "igra-protiv-ii",
+      "alternativnaia-istoriia",
+      "alternate-history",
+      "science",
+      "conspiracy",
+      "nauka",
+      "inventory-management",
+      "zagovor",
+      "iacheechnyi-inventar"
     ],
     "platforms": [
       "PC",
       "PlayStation 5",
+      "Xbox One",
+      "PlayStation 4",
       "Xbox Series S/X"
     ],
     "splitscreen": false,
     "online_coop": true,
     "players": null,
-    "rawg_id": 865101,
-    "rawg_slug": "the-lord-of-the-rings-return-to-moria",
-    "background_image": "https://media.rawg.io/media/screenshots/d08/d084117899a164fecbdd7ece86e57c6d.jpg",
-    "release_year": 2023,
+    "rawg_id": 485138,
+    "rawg_slug": "the-outlast-trials",
+    "background_image": "https://media.rawg.io/media/games/cb7/cb79272fea3ffdba3fd48d44cc78d132.jpg",
+    "release_year": null,
     "sources": [
-      "rawg_tag"
+      "crossplaygames"
     ],
     "confidence": "high",
     "crossplay_platforms": [
       "PC",
+      "PS4",
       "PS5",
+      "XBO",
       "XBSX"
     ],
-    "in_extra": true
+    "in_extra": false,
+    "view_types": [
+      "First-Person"
+    ]
+  },
+  {
+    "title": "Tiny Tina&#8217;s Wonderlands",
+    "genres": [
+      "Shooter",
+      "Adventure",
+      "Action",
+      "RPG"
+    ],
+    "tags": [
+      "singleplayer",
+      "dlia-odnogo-igroka",
+      "ekshen",
+      "prikliuchenie",
+      "steam-achievements",
+      "multiplayer",
+      "full-controller-support",
+      "dlia-neskolkikh-igrokov",
+      "rpg",
+      "co-op",
+      "rolevaia-igra",
+      "cooperative",
+      "shuter",
+      "fps",
+      "shuter-ot-pervogo-litsa",
+      "online-co-op",
+      "fentezi",
+      "fantasy",
+      "iumor",
+      "comedy",
+      "local-co-op",
+      "kastomizatsiia-personazha",
+      "character-customization",
+      "3d",
+      "stilizatsiia",
+      "stylized",
+      "pve",
+      "loot",
+      "igra-protiv-ii",
+      "lut",
+      "narration",
+      "setevoi-kooperativ",
+      "class-based",
+      "razdelenie-na-klassy",
+      "povestvovatelnaia",
+      "looter-shooter",
+      "lokalnyi-kooperativ",
+      "luter-shuter",
+      "lan-co-op"
+    ],
+    "platforms": [
+      "PC",
+      "PlayStation 5",
+      "Xbox One",
+      "PlayStation 4",
+      "Xbox Series S/X"
+    ],
+    "splitscreen": true,
+    "online_coop": true,
+    "players": null,
+    "rawg_id": 614962,
+    "rawg_slug": "tiny-tinas-wonderlands",
+    "background_image": "https://media.rawg.io/media/games/13b/13b029c381614a8e557f442cff488bb3.jpg",
+    "release_year": null,
+    "sources": [
+      "crossplaygames"
+    ],
+    "confidence": "high",
+    "crossplay_platforms": [
+      "PC",
+      "PS4",
+      "PS5",
+      "XBO",
+      "XBSX"
+    ],
+    "in_extra": false,
+    "view_types": [
+      "First-Person"
+    ]
+  },
+  {
+    "title": "Tom Clancy&#8217;s Ghost Recon: Frontline",
+    "genres": [
+      "Shooter",
+      "Action"
+    ],
+    "tags": [],
+    "platforms": [
+      "PC",
+      "PlayStation 5",
+      "Xbox One",
+      "PlayStation 4",
+      "Xbox Series S/X"
+    ],
+    "splitscreen": false,
+    "online_coop": false,
+    "players": null,
+    "rawg_id": 674192,
+    "rawg_slug": "tom-clancys-ghost-recon-frontline",
+    "background_image": "https://media.rawg.io/media/games/0b1/0b17fbcc0e7b076fd5d87f7972de62fc.jpg",
+    "release_year": null,
+    "sources": [
+      "crossplaygames"
+    ],
+    "confidence": "high",
+    "crossplay_platforms": [
+      "PC",
+      "PS4",
+      "PS5",
+      "XBO",
+      "XBSX"
+    ],
+    "in_extra": false,
+    "view_types": []
+  },
+  {
+    "title": "Tom Clancy&#8217;s XDefiant",
+    "genres": [
+      "Shooter"
+    ],
+    "tags": [],
+    "platforms": [
+      "PC",
+      "PlayStation 5",
+      "Xbox One",
+      "PlayStation 4",
+      "Xbox Series S/X"
+    ],
+    "splitscreen": false,
+    "online_coop": false,
+    "players": null,
+    "rawg_id": 638641,
+    "rawg_slug": "tom-clancys-xdefiant",
+    "background_image": "https://media.rawg.io/media/games/8bb/8bbdc8ce68442f6ff1724a7807592101.jpg",
+    "release_year": null,
+    "sources": [
+      "crossplaygames"
+    ],
+    "confidence": "high",
+    "crossplay_platforms": [
+      "PC",
+      "PS4",
+      "PS5",
+      "XBO",
+      "XBSX"
+    ],
+    "in_extra": false,
+    "view_types": []
   },
   {
     "title": "Tom Clancy's Rainbow Six: Siege",
@@ -9804,7 +13779,91 @@
       "XBO",
       "XBSX"
     ],
-    "in_extra": true
+    "in_extra": true,
+    "view_types": [
+      "First-Person"
+    ]
+  },
+  {
+    "title": "Tom Clancy\\u2019s Rainbow Six Extraction",
+    "genres": [
+      "Shooter",
+      "Action"
+    ],
+    "tags": [
+      "singleplayer",
+      "dlia-odnogo-igroka",
+      "ekshen",
+      "multiplayer",
+      "dlia-neskolkikh-igrokov",
+      "co-op",
+      "cooperative",
+      "shuter",
+      "ot-pervogo-litsa",
+      "first-person",
+      "nauchnaia-fantastika",
+      "sci-fi",
+      "fps",
+      "shuter-ot-pervogo-litsa",
+      "online-co-op",
+      "nasilie",
+      "violent",
+      "stealth",
+      "stels",
+      "cross-platform-multiplayer",
+      "in-app-purchases",
+      "realizm",
+      "realistic",
+      "team-based",
+      "komandnaia",
+      "aliens",
+      "voennye-deistviia",
+      "military",
+      "inoplanetiane",
+      "online",
+      "pve",
+      "demons",
+      "demony",
+      "console",
+      "setevoi-kooperativ",
+      "offline",
+      "weapons",
+      "kastomizatsiia-oruzhiia",
+      "gun-customization",
+      "igrok-protiv-ii",
+      "pack",
+      "bundle",
+      "rainbow"
+    ],
+    "platforms": [
+      "PC",
+      "PlayStation 5",
+      "Xbox One",
+      "PlayStation 4",
+      "Xbox Series S/X"
+    ],
+    "splitscreen": false,
+    "online_coop": true,
+    "players": null,
+    "rawg_id": 616762,
+    "rawg_slug": "tom-clancys-rainbow-six-quarantine",
+    "background_image": "https://media.rawg.io/media/games/641/6410d62faa02aa2794a323b752dc9084.jpg",
+    "release_year": null,
+    "sources": [
+      "crossplaygames"
+    ],
+    "confidence": "high",
+    "crossplay_platforms": [
+      "PC",
+      "PS4",
+      "PS5",
+      "XBO",
+      "XBSX"
+    ],
+    "in_extra": false,
+    "view_types": [
+      "First-Person"
+    ]
   },
   {
     "title": "Tooth and Tail",
@@ -9877,7 +13936,10 @@
       "PS4",
       "PS5"
     ],
-    "in_extra": false
+    "in_extra": false,
+    "view_types": [
+      "Side-Scroller/2D"
+    ]
   },
   {
     "title": "Toukiden 2",
@@ -9928,14 +13990,18 @@
     "background_image": "https://media.rawg.io/media/screenshots/134/134ea39817a9ab765cd17ec091c1ac24.jpg",
     "release_year": 2017,
     "sources": [
-      "wikipedia"
+      "wikipedia",
+      "crossplaygames"
     ],
     "confidence": "high",
     "crossplay_platforms": [
       "PS4",
       "PS5"
     ],
-    "in_extra": true
+    "in_extra": true,
+    "view_types": [
+      "Third-Person"
+    ]
   },
   {
     "title": "Toukiden: Kiwami",
@@ -9989,14 +14055,18 @@
     "background_image": "https://media.rawg.io/media/screenshots/84f/84fe73fa5ab5b72a066d9e0d5530c3a5.jpg",
     "release_year": null,
     "sources": [
-      "wikipedia"
+      "wikipedia",
+      "crossplaygames"
     ],
     "confidence": "high",
     "crossplay_platforms": [
       "PS4",
       "PS5"
     ],
-    "in_extra": false
+    "in_extra": false,
+    "view_types": [
+      "Third-Person"
+    ]
   },
   {
     "title": "Touring Karts",
@@ -10043,7 +14113,8 @@
       "PS5",
       "Switch"
     ],
-    "in_extra": false
+    "in_extra": false,
+    "view_types": []
   },
   {
     "title": "Trailblazers",
@@ -10110,7 +14181,52 @@
       "Switch",
       "XBO"
     ],
-    "in_extra": false
+    "in_extra": false,
+    "view_types": []
+  },
+  {
+    "title": "Tribes of Midgard",
+    "genres": [
+      "Indie",
+      "Adventure",
+      "Action"
+    ],
+    "tags": [
+      "ekshen",
+      "prikliuchenie",
+      "indi-2",
+      "multiplayer",
+      "co-op",
+      "partial-controller-support",
+      "online-co-op",
+      "online-multiplayer",
+      "exclusive"
+    ],
+    "platforms": [
+      "PC",
+      "PlayStation 5",
+      "PlayStation 4"
+    ],
+    "splitscreen": false,
+    "online_coop": true,
+    "players": null,
+    "rawg_id": 350505,
+    "rawg_slug": "tribes-of-midgard",
+    "background_image": "https://media.rawg.io/media/games/e71/e712a5b2e9fc0e7a7789baa42636af67.jpg",
+    "release_year": null,
+    "sources": [
+      "crossplaygames"
+    ],
+    "confidence": "high",
+    "crossplay_platforms": [
+      "PC",
+      "PS4",
+      "PS5",
+      "XBO",
+      "XBSX"
+    ],
+    "in_extra": false,
+    "view_types": []
   },
   {
     "title": "Ultimate Chicken Horse",
@@ -10195,7 +14311,10 @@
       "XBO",
       "XBSX"
     ],
-    "in_extra": false
+    "in_extra": false,
+    "view_types": [
+      "Side-Scroller/2D"
+    ]
   },
   {
     "title": "Under Night In-Birth EXE:Late",
@@ -10255,7 +14374,10 @@
       "PS4",
       "PS5"
     ],
-    "in_extra": false
+    "in_extra": false,
+    "view_types": [
+      "Side-Scroller/2D"
+    ]
   },
   {
     "title": "Unrailed!",
@@ -10329,7 +14451,80 @@
       "XBO",
       "XBSX"
     ],
-    "in_extra": false
+    "in_extra": false,
+    "view_types": [
+      "Top-Down/Isometric"
+    ]
+  },
+  {
+    "title": "Vampire: The Masquerade &#8211; Bloodhunt",
+    "genres": [
+      "Action"
+    ],
+    "tags": [
+      "ekshen",
+      "multiplayer",
+      "shuter",
+      "ot-tretego-litsa",
+      "third-person",
+      "vyzhivanie",
+      "survival",
+      "rannii-dostup",
+      "taktika",
+      "shuter-ot-tretego-litsa",
+      "tactical",
+      "mrachnaia",
+      "third-person-shooter",
+      "early-access",
+      "dark",
+      "pvp",
+      "igrok-protiv-igroka",
+      "kastomizatsiia-personazha",
+      "character-customization",
+      "realizm",
+      "3d",
+      "realistic",
+      "parkur-2",
+      "parkour",
+      "online-pvp",
+      "stilizatsiia",
+      "stylized",
+      "triller",
+      "supernatural",
+      "sverkhestestvennoe",
+      "gotika",
+      "gothic",
+      "thriller",
+      "korolevskaia-bitva",
+      "vampire",
+      "vampiry",
+      "battle-royale-2",
+      "looter-shooter",
+      "luter-shuter"
+    ],
+    "platforms": [
+      "PC",
+      "PlayStation 5"
+    ],
+    "splitscreen": false,
+    "online_coop": true,
+    "players": null,
+    "rawg_id": 662357,
+    "rawg_slug": "bloodhunt",
+    "background_image": "https://media.rawg.io/media/games/ba9/ba981ea851b2a85b78d63d9ec53c19e5.jpg",
+    "release_year": null,
+    "sources": [
+      "crossplaygames"
+    ],
+    "confidence": "high",
+    "crossplay_platforms": [
+      "PC",
+      "PS5"
+    ],
+    "in_extra": false,
+    "view_types": [
+      "Third-Person"
+    ]
   },
   {
     "title": "Verdun",
@@ -10407,7 +14602,94 @@
       "XBO",
       "XBSX"
     ],
-    "in_extra": false
+    "in_extra": false,
+    "view_types": [
+      "First-Person"
+    ]
+  },
+  {
+    "title": "Vigor",
+    "genres": [
+      "Shooter",
+      "Adventure",
+      "Action",
+      "Simulation"
+    ],
+    "tags": [
+      "ekshen",
+      "prikliuchenie",
+      "multiplayer",
+      "full-controller-support",
+      "atmospheric",
+      "co-op",
+      "shuter",
+      "ot-tretego-litsa",
+      "third-person",
+      "fps",
+      "shuter-ot-pervogo-litsa",
+      "online-co-op",
+      "survival",
+      "rannii-dostup",
+      "shuter-ot-tretego-litsa",
+      "third-person-shooter",
+      "early-access",
+      "pvp",
+      "igrok-protiv-igroka",
+      "post-apocalyptic",
+      "realizm",
+      "3d",
+      "realistic",
+      "combat",
+      "voennye-deistviia",
+      "military",
+      "online-pvp",
+      "atmosfernaia",
+      "boi-2",
+      "loot",
+      "lut",
+      "alternativnaia-istoriia",
+      "alternate-history",
+      "family-sharing",
+      "1980s",
+      "setevoi-kooperativ",
+      "arena-shooter",
+      "postapokalipsis",
+      "looter-shooter",
+      "3rd-person",
+      "luter-shuter",
+      "arena-shuter",
+      "norway",
+      "90s-style"
+    ],
+    "platforms": [
+      "PC",
+      "Xbox One",
+      "PlayStation 4",
+      "Nintendo Switch"
+    ],
+    "splitscreen": false,
+    "online_coop": true,
+    "players": null,
+    "rawg_id": 59261,
+    "rawg_slug": "vigor-game-preview",
+    "background_image": "https://media.rawg.io/media/games/bbe/bbec05fb0c57c24c92dbe09699d4968d.jpg",
+    "release_year": null,
+    "sources": [
+      "crossplaygames"
+    ],
+    "confidence": "high",
+    "crossplay_platforms": [
+      "PS4",
+      "PS5",
+      "Switch",
+      "XBO",
+      "XBSX"
+    ],
+    "in_extra": false,
+    "view_types": [
+      "First-Person",
+      "Third-Person"
+    ]
   },
   {
     "title": "War Thunder",
@@ -10483,7 +14765,10 @@
       "XBO",
       "XBSX"
     ],
-    "in_extra": false
+    "in_extra": false,
+    "view_types": [
+      "First-Person"
+    ]
   },
   {
     "title": "Warface",
@@ -10526,7 +14811,96 @@
       "XBO",
       "XBSX"
     ],
-    "in_extra": false
+    "in_extra": false,
+    "view_types": [
+      "First-Person"
+    ]
+  },
+  {
+    "title": "Warframe",
+    "genres": [
+      "Shooter",
+      "Massively Multiplayer",
+      "Action",
+      "RPG"
+    ],
+    "tags": [
+      "singleplayer",
+      "dlia-odnogo-igroka",
+      "ekshen",
+      "multiplayer",
+      "dlia-neskolkikh-igrokov",
+      "steam-trading-cards",
+      "rpg",
+      "co-op",
+      "rolevaia-igra",
+      "cooperative",
+      "shuter",
+      "ot-tretego-litsa",
+      "third-person",
+      "nauchnaia-fantastika",
+      "sci-fi",
+      "partial-controller-support",
+      "fps",
+      "shuter-ot-pervogo-litsa",
+      "online-co-op",
+      "free-to-play",
+      "sovmestnaia-igra-po-seti",
+      "besplatnaia-igra",
+      "shuter-ot-tretego-litsa",
+      "third-person-shooter",
+      "space",
+      "role-playing",
+      "slesher",
+      "kosmos-2",
+      "hack-and-slash",
+      "mmo-2",
+      "in-app-purchases",
+      "futuristic",
+      "parkur-2",
+      "budushchee",
+      "parkour",
+      "kiberpank",
+      "cyberpunk",
+      "pve",
+      "igra-protiv-ii",
+      "nindzia",
+      "ninja",
+      "looter-shooter"
+    ],
+    "platforms": [
+      "PC",
+      "PlayStation 5",
+      "Xbox One",
+      "PlayStation 4",
+      "Xbox Series S/X",
+      "Nintendo Switch",
+      "iOS"
+    ],
+    "splitscreen": false,
+    "online_coop": true,
+    "players": null,
+    "rawg_id": 766,
+    "rawg_slug": "warframe",
+    "background_image": "https://media.rawg.io/media/games/f87/f87457e8347484033cb34cde6101d08d.jpg",
+    "release_year": null,
+    "sources": [
+      "crossplaygames"
+    ],
+    "confidence": "high",
+    "crossplay_platforms": [
+      "PC",
+      "PS4",
+      "PS5",
+      "Switch",
+      "XBO",
+      "XBSX"
+    ],
+    "in_extra": false,
+    "view_types": [
+      "First-Person",
+      "Third-Person"
+    ]
   },
   {
     "title": "Wargroove",
@@ -10590,7 +14964,10 @@
       "XBO",
       "XBSX"
     ],
-    "in_extra": false
+    "in_extra": false,
+    "view_types": [
+      "Side-Scroller/2D"
+    ]
   },
   {
     "title": "Warhammer: Chaosbane",
@@ -10654,7 +15031,101 @@
       "XBO",
       "XBSX"
     ],
-    "in_extra": true
+    "in_extra": true,
+    "view_types": [
+      "Top-Down/Isometric"
+    ]
+  },
+  {
+    "title": "Warlander",
+    "genres": [
+      "Adventure",
+      "Action",
+      "RPG",
+      "Indie",
+      "Massively Multiplayer"
+    ],
+    "tags": [
+      "singleplayer",
+      "dlia-odnogo-igroka",
+      "ekshen",
+      "prikliuchenie",
+      "indi-2",
+      "multiplayer",
+      "full-controller-support",
+      "dlia-neskolkikh-igrokov",
+      "atmosfera",
+      "rpg",
+      "rolevaia-igra",
+      "otkrytyi-mir",
+      "ot-tretego-litsa",
+      "third-person",
+      "smeshnaia",
+      "fentezi",
+      "slozhnaia",
+      "fantasy",
+      "funny",
+      "miaso",
+      "nasilie",
+      "violent",
+      "action-rpg",
+      "rolevoi-ekshen",
+      "pvp",
+      "cross-platform-multiplayer",
+      "slesher",
+      "igrok-protiv-igroka",
+      "hack-and-slash",
+      "kastomizatsiia-personazha",
+      "mmo-2",
+      "war",
+      "in-app-purchases",
+      "character-customization",
+      "voina",
+      "realizm",
+      "tiomnoe-fentezi",
+      "3d",
+      "team-based",
+      "komandnaia",
+      "sorevnovatelnaia",
+      "srednevekove",
+      "medieval",
+      "magic",
+      "competitive",
+      "magiia",
+      "online-pvp",
+      "pokhozha-na-dark-souls",
+      "razrusheniia",
+      "moba",
+      "srazheniia-na-mechakh",
+      "takticheskaia-rolevaia-igra",
+      "class-based",
+      "razdelenie-na-klassy",
+      "swordplay",
+      "tactical-rpg"
+    ],
+    "platforms": [
+      "PC"
+    ],
+    "splitscreen": false,
+    "online_coop": true,
+    "players": null,
+    "rawg_id": 304239,
+    "rawg_slug": "warlander",
+    "background_image": "https://media.rawg.io/media/screenshots/ae1/ae164bc0c0f69e9f98cc5ae98f41214c.jpg",
+    "release_year": null,
+    "sources": [
+      "crossplaygames"
+    ],
+    "confidence": "high",
+    "crossplay_platforms": [
+      "PC",
+      "PS5",
+      "XBSX"
+    ],
+    "in_extra": false,
+    "view_types": [
+      "Third-Person"
+    ]
   },
   {
     "title": "Warriors Orochi 3 Ultimate",
@@ -10695,7 +15166,170 @@
       "PS4",
       "PS5"
     ],
-    "in_extra": false
+    "in_extra": false,
+    "view_types": []
+  },
+  {
+    "title": "Watch Dogs: Legion",
+    "genres": [
+      "Shooter",
+      "Adventure",
+      "Action"
+    ],
+    "tags": [
+      "singleplayer",
+      "dlia-odnogo-igroka",
+      "ekshen",
+      "prikliuchenie",
+      "multiplayer",
+      "dlia-neskolkikh-igrokov",
+      "rpg",
+      "co-op",
+      "rolevaia-igra",
+      "otkrytyi-mir",
+      "open-world",
+      "cooperative",
+      "shuter",
+      "partial-controller-support",
+      "online-co-op",
+      "miaso",
+      "gore",
+      "nasilie",
+      "violent",
+      "action-adventure",
+      "action-rpg",
+      "rolevoi-ekshen",
+      "pvp",
+      "nagota",
+      "nudity",
+      "igrok-protiv-igroka",
+      "prikliuchencheskii-ekshen",
+      "in-app-purchases",
+      "seksualnyi-kontent",
+      "fizika",
+      "physics",
+      "sexual-content",
+      "kiberpank",
+      "cyberpunk",
+      "online-pvp",
+      "city",
+      "console",
+      "friends",
+      "immersive-sim-2",
+      "setevoi-kooperativ",
+      "offline",
+      "hacking",
+      "khakerstvo",
+      "skill",
+      "immersivnyi-simuliator",
+      "future",
+      "unique",
+      "open-world-2",
+      "dogs"
+    ],
+    "platforms": [
+      "PC",
+      "PlayStation 5",
+      "Xbox One",
+      "PlayStation 4",
+      "Xbox Series S/X"
+    ],
+    "splitscreen": false,
+    "online_coop": true,
+    "players": null,
+    "rawg_id": 324992,
+    "rawg_slug": "watch-dogs-legion",
+    "background_image": "https://media.rawg.io/media/games/415/41563ce6cb061a210160687a4e5d39f6.jpg",
+    "release_year": null,
+    "sources": [
+      "crossplaygames"
+    ],
+    "confidence": "high",
+    "crossplay_platforms": [
+      "PC",
+      "PS4",
+      "PS5",
+      "XBO",
+      "XBSX"
+    ],
+    "in_extra": false,
+    "view_types": []
+  },
+  {
+    "title": "We Were Here Forever",
+    "genres": [
+      "Casual",
+      "Indie",
+      "Adventure",
+      "Puzzle"
+    ],
+    "tags": [
+      "prikliuchenie",
+      "steam-achievements",
+      "multiplayer",
+      "steam-cloud",
+      "atmospheric",
+      "dlia-neskolkikh-igrokov",
+      "glubokii-siuzhet",
+      "co-op",
+      "story-rich",
+      "cooperative",
+      "kazualnaia-igra",
+      "ot-pervogo-litsa",
+      "first-person",
+      "partial-controller-support",
+      "horror",
+      "golovolomka",
+      "online-co-op",
+      "fentezi",
+      "fantasy",
+      "exploration",
+      "action-adventure",
+      "mrachnaia",
+      "dark",
+      "prikliuchencheskii-ekshen",
+      "taina",
+      "mystery",
+      "3d",
+      "atmosfernaia",
+      "linear",
+      "detective",
+      "detektiv",
+      "issledovaniia",
+      "lineinaia",
+      "setevoi-kooperativ",
+      "sovmestnaia-kampaniia",
+      "co-op-campaign",
+      "escape-room-2",
+      "kvest"
+    ],
+    "platforms": [
+      "PC",
+      "Xbox One",
+      "PlayStation 4"
+    ],
+    "splitscreen": false,
+    "online_coop": true,
+    "players": null,
+    "rawg_id": 574766,
+    "rawg_slug": "we-were-here-forever",
+    "background_image": "https://media.rawg.io/media/games/b2d/b2d4e1f3fc468c104efb7c5a576b4206.jpg",
+    "release_year": null,
+    "sources": [
+      "crossplaygames"
+    ],
+    "confidence": "high",
+    "crossplay_platforms": [
+      "PC",
+      "PS4",
+      "PS5",
+      "XBO",
+      "XBSX"
+    ],
+    "in_extra": false,
+    "view_types": [
+      "First-Person"
+    ]
   },
   {
     "title": "Weapons of Mythology: New Age",
@@ -10732,7 +15366,8 @@
     "background_image": "https://media.rawg.io/media/screenshots/6d1/6d16d17ded5716aafac86811af38a3b7.jpg",
     "release_year": null,
     "sources": [
-      "wikipedia"
+      "wikipedia",
+      "crossplaygames"
     ],
     "confidence": "high",
     "crossplay_platforms": [
@@ -10740,7 +15375,10 @@
       "PS4",
       "PS5"
     ],
-    "in_extra": false
+    "in_extra": false,
+    "view_types": [
+      "Third-Person"
+    ]
   },
   {
     "title": "Werewolves Within",
@@ -10783,7 +15421,177 @@
       "PS4",
       "PS5"
     ],
-    "in_extra": false
+    "in_extra": false,
+    "view_types": [
+      "VR"
+    ]
+  },
+  {
+    "title": "Wild Hearts",
+    "genres": [
+      "Adventure",
+      "Action"
+    ],
+    "tags": [
+      "singleplayer",
+      "dlia-odnogo-igroka",
+      "ekshen",
+      "prikliuchenie",
+      "steam-achievements",
+      "multiplayer",
+      "full-controller-support",
+      "dlia-neskolkikh-igrokov",
+      "co-op",
+      "cooperative",
+      "ot-tretego-litsa",
+      "third-person",
+      "fentezi",
+      "fantasy",
+      "exploration",
+      "action-adventure",
+      "cross-platform-multiplayer",
+      "slesher",
+      "hack-and-slash",
+      "prikliuchencheskii-ekshen",
+      "tsvetastaia",
+      "3d",
+      "colorful",
+      "crafting",
+      "krafting",
+      "stroitelstvo",
+      "building",
+      "issledovaniia",
+      "pve",
+      "pokhozha-na-dark-souls",
+      "dragons",
+      "drakony",
+      "souls-like",
+      "nature",
+      "hunting",
+      "okhota",
+      "igrok-protiv-ii",
+      "priroda",
+      "creature-collector",
+      "poisk-sushchestv"
+    ],
+    "platforms": [
+      "PC",
+      "PlayStation 5",
+      "Xbox Series S/X"
+    ],
+    "splitscreen": false,
+    "online_coop": true,
+    "players": null,
+    "rawg_id": 857636,
+    "rawg_slug": "wild-hearts",
+    "background_image": "https://media.rawg.io/media/games/f2c/f2cb7350b37378e9e622d85bd175c294.jpg",
+    "release_year": null,
+    "sources": [
+      "crossplaygames"
+    ],
+    "confidence": "high",
+    "crossplay_platforms": [
+      "PC",
+      "PS5",
+      "XBSX"
+    ],
+    "in_extra": false,
+    "view_types": [
+      "Third-Person"
+    ]
+  },
+  {
+    "title": "Windjammers 2",
+    "genres": [
+      "Indie",
+      "Sports"
+    ],
+    "tags": [
+      "singleplayer",
+      "steam-achievements",
+      "indi-2",
+      "multiplayer",
+      "full-controller-support",
+      "online-multiplayer",
+      "split-screen",
+      "local-multiplayer",
+      "sportivnaia-igra"
+    ],
+    "platforms": [
+      "PC",
+      "PlayStation 5",
+      "Xbox One",
+      "PlayStation 4",
+      "Xbox Series S/X",
+      "Nintendo Switch"
+    ],
+    "splitscreen": true,
+    "online_coop": true,
+    "players": null,
+    "rawg_id": 302303,
+    "rawg_slug": "windjammers-2",
+    "background_image": "https://media.rawg.io/media/games/445/4454ca9ba9b2e251ab2fa63354558b8a.jpg",
+    "release_year": null,
+    "sources": [
+      "wikipedia",
+      "crossplaygames"
+    ],
+    "confidence": "high",
+    "crossplay_platforms": [
+      "PC",
+      "PS4",
+      "PS5",
+      "Switch",
+      "XBO",
+      "XBSX"
+    ],
+    "in_extra": false,
+    "view_types": []
+  },
+  {
+    "title": "Wo Long: Fallen Dynasty",
+    "genres": [
+      "Action"
+    ],
+    "tags": [
+      "singleplayer",
+      "gore",
+      "difficult",
+      "violent",
+      "hack-and-slash",
+      "dark-fantasy",
+      "jrpg",
+      "souls-like"
+    ],
+    "platforms": [
+      "PC",
+      "PlayStation 5",
+      "Xbox One",
+      "PlayStation 4",
+      "Xbox Series S/X"
+    ],
+    "splitscreen": false,
+    "online_coop": false,
+    "players": null,
+    "rawg_id": 801638,
+    "rawg_slug": "wo-long-fallen-dynasty",
+    "background_image": "https://media.rawg.io/media/games/1e1/1e1b965459d5cf69cf51e5d6fe7da959.jpg",
+    "release_year": 2023,
+    "sources": [
+      "crossplaygames"
+    ],
+    "confidence": "high",
+    "crossplay_platforms": [
+      "PC",
+      "PS4",
+      "PS5",
+      "XBO",
+      "XBSX"
+    ],
+    "in_extra": true,
+    "view_types": [
+      "Third-Person"
+    ]
   },
   {
     "title": "World of Tanks",
@@ -10861,7 +15669,8 @@
       "XBO",
       "XBSX"
     ],
-    "in_extra": false
+    "in_extra": false,
+    "view_types": []
   },
   {
     "title": "World of Warships: Legends",
@@ -10888,7 +15697,8 @@
     "background_image": "https://media.rawg.io/media/screenshots/8d5/8d5a29af32d359d57d196f56876c9639.jpg",
     "release_year": null,
     "sources": [
-      "wikipedia"
+      "wikipedia",
+      "crossplaygames"
     ],
     "confidence": "high",
     "crossplay_platforms": [
@@ -10897,7 +15707,8 @@
       "XBO",
       "XBSX"
     ],
-    "in_extra": false
+    "in_extra": false,
+    "view_types": []
   },
   {
     "title": "World War Z",
@@ -10939,7 +15750,8 @@
       "XBO",
       "XBSX"
     ],
-    "in_extra": false
+    "in_extra": false,
+    "view_types": []
   },
   {
     "title": "Worms Rumble",
@@ -11031,7 +15843,8 @@
       "XBO",
       "XBSX"
     ],
-    "in_extra": false
+    "in_extra": false,
+    "view_types": []
   },
   {
     "title": "Yu-Gi-Oh! Master Duel",
@@ -11106,6 +15919,9 @@
       "XBO",
       "XBSX"
     ],
-    "in_extra": false
+    "in_extra": false,
+    "view_types": [
+      "Side-Scroller/2D"
+    ]
   }
 ]

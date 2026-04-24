@@ -1,9 +1,15 @@
 import re
 import unicodedata
 
-_ROMAN = {
-    " ii": " 2", " iii": " 3", " iv": " 4", " v": " 5", " vi": " 6",
-    " vii": " 7", " viii": " 8", " ix": " 9", " x": " 10",
+# Map Roman numerals to digits only when they appear as a standalone token
+# (bounded on both sides). Without the word boundary, substrings like
+# "vanguard" or "ivory" get mangled.
+_ROMAN_RE = re.compile(
+    r"\b(ii|iii|iv|v|vi|vii|viii|ix|x)\b", re.IGNORECASE
+)
+_ROMAN_MAP = {
+    "ii": "2", "iii": "3", "iv": "4", "v": "5",
+    "vi": "6", "vii": "7", "viii": "8", "ix": "9", "x": "10",
 }
 
 _EDITION_SUFFIXES = re.compile(
@@ -17,7 +23,7 @@ _EDITION_SUFFIXES = re.compile(
 _PARENS_VIDEO_GAME = re.compile(r"\s*\(video game\)\s*", re.IGNORECASE)
 _PARENS_YEAR = re.compile(r"\s*\(\d{4}\)\s*")
 _TRADEMARKS = re.compile(r"[™®©]")
-_NON_ALNUM = re.compile(r"[^a-z0-9& :]+")
+_NON_ALNUM = re.compile(r"[^a-z0-9& ]+")
 _MULTI_SPACE = re.compile(r"\s+")
 
 
@@ -30,10 +36,7 @@ def canonical(title: str) -> str:
     s = _PARENS_VIDEO_GAME.sub(" ", s)
     s = _PARENS_YEAR.sub(" ", s)
     s = _EDITION_SUFFIXES.sub("", s)
-    padded = f" {s} "
-    for roman, digit in _ROMAN.items():
-        padded = padded.replace(roman, digit)
-    s = padded.strip()
+    s = _ROMAN_RE.sub(lambda m: _ROMAN_MAP[m.group(1).lower()], s)
     s = _NON_ALNUM.sub(" ", s)
     s = _MULTI_SPACE.sub(" ", s).strip()
     return s

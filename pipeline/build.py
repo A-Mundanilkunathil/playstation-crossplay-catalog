@@ -22,6 +22,36 @@ CROSSPLAY_RAWG_TAG = "cross-platform-multiplayer"
 MP_TAGS = {"online-pvp", "online-co-op", "online-multiplayer"}
 PS_RELEVANT = {"PS4", "PS5", "PC", "XBO", "XBSX", "Switch"}
 
+# Map RAWG tag slugs + GameScriptions genre tokens → camera/perspective labels.
+# Derivation looks at both sources so that Wikipedia-only games (no PS+
+# metadata) still get classified via RAWG.
+VIEW_TYPE_RULES = {
+    "First-Person": {"first-person", "fps"},
+    "Third-Person": {"third-person", "third-person-perspective"},
+    "Top-Down/Isometric": {"isometric", "top-down", "top-down/isometric"},
+    "Side-Scroller/2D": {"2d", "side-scroller", "side-view", "platformer"},
+    "Fixed Camera": {"fixed-camera"},
+    "VR": {"vr", "virtual-reality"},
+}
+
+
+def _derive_view_types(tags: list[str], psplus_genres: list[str]) -> list[str]:
+    signals = {t.lower().replace(" ", "-") for t in tags}
+    signals |= {t.lower().replace(" ", "-") for t in psplus_genres}
+    out: list[str] = []
+    for label, matches in VIEW_TYPE_RULES.items():
+        if signals & matches:
+            out.append(label)
+    # "Platformer" genre alone should not count as Side-Scroller (some
+    # platformers are 3D). Require an explicit 2D / side signal when
+    # matched only via "platformer".
+    if (
+        "Side-Scroller/2D" in out
+        and not (signals & {"2d", "side-scroller", "side-view"})
+    ):
+        out.remove("Side-Scroller/2D")
+    return out
+
 RAWG_PLATFORM_MAP = {
     "PlayStation 4": "PS4",
     "PlayStation 5": "PS5",
@@ -78,10 +108,20 @@ def _rawg_platform_set(rawg: dict) -> set[str]:
     return out
 
 
+def _slug_title_guess(slug: str) -> str:
+    """Cheap slug→title reversal; overridden by JSON-LD name on detail fetch."""
+    import re as _re
+
+    s = _re.sub(r"-\d+$", "", slug)
+    return " ".join(w.capitalize() for w in s.split("-"))
+
+
 def _build_master(
-    ps_games: list[dict], wiki_crossplay: list[dict]
+    ps_games: list[dict],
+    wiki_crossplay: list[dict],
+    cg_index: dict[str, str],
 ) -> dict[str, dict]:
-    """Merge PS+ Extra catalog and Wikipedia crossplay list by canonical title."""
+    """Merge PS+ Extra + Wikipedia + crossplaygames.com slugs by canonical title."""
     master: dict[str, dict] = {}
     for g in ps_games:
         key = canonical(g["title"])
@@ -104,6 +144,16 @@ def _build_master(
                 "in_extra": False,
                 "wiki_platforms": set(g["platforms"]),
             }
+    for key, slug in cg_index.items():
+        if key in master:
+            continue
+        master[key] = {
+            "title": _slug_title_guess(slug),
+            "release_year": None,
+            "psplus_genres": [],
+            "in_extra": False,
+            "wiki_platforms": None,
+        }
     return master
 
 
@@ -133,6 +183,11 @@ def _classify(
             if cg_plats:
                 sources.append("crossplaygames")
                 cp |= cg_plats
+                # If we stubbed a title from the slug, upgrade to the
+                # real name from JSON-LD.
+                cg_name = cg_result.get("name")
+                if cg_name and not entry.get("wiki_platforms") and not entry["in_extra"]:
+                    entry["title"] = cg_name
             elif (
                 cg_result.get("supported") is False
                 or cg_result.get("cross_gen_only")
@@ -188,7 +243,7 @@ def main() -> None:
         print("[!] RAWG_API_KEY not set — aborting; this pipeline needs RAWG.")
         return
 
-    master = _build_master(ps_games, wiki_crossplay)
+    master = _build_master(ps_games, wiki_crossplay, cg_index)
     print(f"[4/5] enriching {len(master)} unique titles via RAWG (cached)…")
 
     overrides = _load_metadata_overrides()
@@ -208,6 +263,10 @@ def main() -> None:
         auth = {"wikipedia", "rawg_tag", "crossplaygames"}
         confidence = "high" if set(sources) & auth else "medium"
 
+        view_types = _derive_view_types(
+            rawg.get("tags") or [], entry.get("psplus_genres") or []
+        )
+
         record = {
             "title": entry["title"],
             "genres": rawg["genres"] or entry["psplus_genres"],
@@ -224,9 +283,29 @@ def main() -> None:
             "confidence": confidence,
             "crossplay_platforms": sorted(cp),
             "in_extra": entry["in_extra"],
+            "view_types": view_types,
         }
         qualifying.append(_apply_overrides(record, overrides))
 
+    # Dedup by final canonical title — the JSON-LD name upgrade for slug-only
+    # games can produce two records that canonicalize the same once upgraded
+    # (e.g. Wikipedia "Mortal Kombat 11" + slug `mortal-kombat-11-2`).
+    merged: dict[str, dict] = {}
+    for r in qualifying:
+        k = canonical(r["title"])
+        if k not in merged:
+            merged[k] = r
+        else:
+            existing = merged[k]
+            existing["sources"] = sorted(set(existing["sources"]) | set(r["sources"]))
+            existing["crossplay_platforms"] = sorted(
+                set(existing["crossplay_platforms"]) | set(r["crossplay_platforms"])
+            )
+            if r["in_extra"]:
+                existing["in_extra"] = True
+            if r["confidence"] == "high":
+                existing["confidence"] = "high"
+    qualifying = list(merged.values())
     qualifying.sort(key=lambda r: r["title"].lower())
 
     print(f"[5/5] writing games.json with {len(qualifying)} qualifying games…")

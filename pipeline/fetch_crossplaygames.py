@@ -19,11 +19,14 @@ UA = (
     "AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36"
 )
 
-_SLUG_TRAIL = re.compile(r"-\d+$")
+# Only `-1` is a reliable dedup suffix (e.g. `final-fantasy-xiv-online-1`,
+# `minecraft-1`). `-2`, `-3`, etc. are usually part of the title
+# (`borderlands-3`, `risk-of-rain-2`, `dirt-5`).
+_SLUG_DEDUP_SUFFIX = re.compile(r"-1$")
 
 
 def _slug_title_key(slug: str) -> str:
-    trimmed = _SLUG_TRAIL.sub("", slug)
+    trimmed = _SLUG_DEDUP_SUFFIX.sub("", slug)
     return canonical(trimmed.replace("-", " "))
 
 
@@ -40,8 +43,8 @@ def load_slug_index(force: bool = False) -> dict[str, str]:
         ):
             slug = m.group(1)
             key = _slug_title_key(slug)
-            # Prefer slugs without trailing -N suffix when both exist.
-            if key not in out or not _SLUG_TRAIL.search(slug):
+            # Prefer slugs without the `-1` dedup suffix when both exist.
+            if key not in out or not _SLUG_DEDUP_SUFFIX.search(slug):
                 out[key] = slug
     CACHE_SITEMAP.parent.mkdir(parents=True, exist_ok=True)
     CACHE_SITEMAP.write_text(json.dumps(out))
@@ -63,12 +66,23 @@ def _fetch_detail(slug: str) -> str:
 
 def check(slug: str) -> dict:
     """
-    Returns {supported, platforms, cross_gen_only} parsed from the page's
-    JSON-LD + body text. `cross_gen_only` is True when the page text says
-    the game is only cross-gen (save transfer) and not online crossplay —
-    this catches false positives like Hogwarts Legacy.
+    Returns {name, supported, platforms, cross_gen_only} parsed from the
+    page's JSON-LD + body text. `cross_gen_only` is True when the page
+    text says the game is only cross-gen (save transfer) and not online
+    crossplay — this catches false positives like Hogwarts Legacy.
     """
     html = _fetch_detail(slug)
+
+    # Game's display name from the VideoGame JSON-LD block.
+    name = None
+    m = re.search(r'"@type":\s*"VideoGame"[^}]*?"name":\s*"([^"]+)"', html)
+    if m:
+        name = m.group(1)
+    if not name:
+        m = re.search(r"<title>([^<|]+?)\s*(?:\||$)", html)
+        if m:
+            name = m.group(1).strip()
+
     supported = None
     m = re.search(
         r'"name":\s*"Crossplay Supported"[^}]*?"value":\s*(true|false)', html
@@ -91,6 +105,7 @@ def check(slug: str) -> dict:
         or re.search(r"does\s+not\s+support\s+cross[- ]?play", html, re.I)
     )
     return {
+        "name": name,
         "supported": supported,
         "platforms": platforms,
         "cross_gen_only": cross_gen_only,

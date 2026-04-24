@@ -199,5 +199,6 @@ body.labels-on .labels { display: flex; }
 .badge.splitscr  { background: #4a3a1f; color: #e6d4a8; }
 .badge.genre     { background: #3a2d5a; color: #d4c9ff; }
 .badge.plat      { background: #1a3a4a; color: #a8d4e6; font-weight: 600; }
+.badge.view      { background: #3a1a3a; color: #e6a8d4; }
 
 #empty { text-align: center; padding: 3rem 1rem; }
