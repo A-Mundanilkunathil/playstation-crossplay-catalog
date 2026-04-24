@@ -39,18 +39,18 @@ jobs:
           RAWG_API_KEY: ${{ secrets.RAWG_API_KEY }}
         run: python -m pipeline.build
 
-      - name: Sync to web/
-        run: cp games.json web/games.json
+      - name: Sync to docs/
+        run: cp games.json docs/games.json
 
       - name: Commit refreshed catalog
         run: |
-          if git diff --quiet games.json web/games.json; then
+          if git diff --quiet games.json docs/games.json; then
             echo "No changes to commit."
             exit 0
           fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add games.json web/games.json
+          git add games.json docs/games.json
           COUNT=$(python -c "import json; print(len(json.load(open('games.json'))))")
           git commit -m "chore(catalog): refresh ($COUNT games)"
           git push

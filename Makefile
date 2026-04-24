@@ -9,11 +9,11 @@ install:
 
 refresh:
 	$(PYTHON) -m pipeline.build
-	cp games.json web/games.json
+	cp games.json docs/games.json
 
 serve:
-	@test -f web/games.json || (echo "web/games.json missing — run 'make refresh' first" && exit 1)
-	cd web && $(PYTHON) -m http.server $(PORT)
+	@test -f docs/games.json || (echo "docs/games.json missing — run 'make refresh' first" && exit 1)
+	cd docs && $(PYTHON) -m http.server $(PORT)
 
 clean:
-	rm -rf cache games.json web/games.json review.tsv
+	rm -rf cache games.json docs/games.json review.tsv
