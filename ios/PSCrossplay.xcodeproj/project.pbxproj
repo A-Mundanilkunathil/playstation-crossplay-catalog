@@ -1,0 +1,385 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 77;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		21E2C98BA1C904E2524D2F5E /* WorkflowDispatcher.swift in Sources */ = {isa = PBXBuildFile; fileRef = 483722960872B50A1DE23AF9 /* WorkflowDispatcher.swift */; };
+		2F0C3F329D91571E7EE329A1 /* Game.swift in Sources */ = {isa = PBXBuildFile; fileRef = 90A8A6018541872E1054F340 /* Game.swift */; };
+		38D61A080EE538BAC755379E /* PSCrossplayApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = C49D46B3B38D9BEC06260C62 /* PSCrossplayApp.swift */; };
+		4280D7E4E2041D37F9FC284D /* SectionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4557C2242C0523D32E1FDA55 /* SectionView.swift */; };
+		64D1929B0970C892AF8E88A7 /* seed-games.json in Resources */ = {isa = PBXBuildFile; fileRef = B33B109F4315C67A9E731AA3 /* seed-games.json */; };
+		758A08469E5E38656A1BDDF2 /* KeychainPAT.swift in Sources */ = {isa = PBXBuildFile; fileRef = 41E59D3EF3FCB932593AA350 /* KeychainPAT.swift */; };
+		7B6E7CD7DBCBC797CB483391 /* SettingsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30D9D3642074F2931A445ADD /* SettingsView.swift */; };
+		A8E89EFA7FFBA86861D3BB74 /* GameCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = D3DF65A5BD1B0E7A83AC984B /* GameCard.swift */; };
+		BA3596F237A4E1F2B09A43E3 /* RootView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2E8C9EB6550878EE4B927656 /* RootView.swift */; };
+		C0A7A09F8D53943604EE0A08 /* CatalogView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DC77E22EED30A685C5411B23 /* CatalogView.swift */; };
+		C6853C9CECFC9D7C0A84593D /* GameStore.swift in Sources */ = {isa = PBXBuildFile; fileRef = 15695E94F8709DD6C193537C /* GameStore.swift */; };
+		F353255A0C61CD5C369789C3 /* FilterBar.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E98E20A1ECA948BB9B3BF88 /* FilterBar.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		15695E94F8709DD6C193537C /* GameStore.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameStore.swift; sourceTree = "<group>"; };
+		2573A745F6EE8E61714F2EED /* PSCrossplay.app */ = {isa = PBXFileReference; includeInIndex = 0; lastKnownFileType = wrapper.application; path = PSCrossplay.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		2E8C9EB6550878EE4B927656 /* RootView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RootView.swift; sourceTree = "<group>"; };
+		30D9D3642074F2931A445ADD /* SettingsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsView.swift; sourceTree = "<group>"; };
+		41E59D3EF3FCB932593AA350 /* KeychainPAT.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KeychainPAT.swift; sourceTree = "<group>"; };
+		4557C2242C0523D32E1FDA55 /* SectionView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SectionView.swift; sourceTree = "<group>"; };
+		483722960872B50A1DE23AF9 /* WorkflowDispatcher.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WorkflowDispatcher.swift; sourceTree = "<group>"; };
+		5E98E20A1ECA948BB9B3BF88 /* FilterBar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FilterBar.swift; sourceTree = "<group>"; };
+		90A8A6018541872E1054F340 /* Game.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Game.swift; sourceTree = "<group>"; };
+		B33B109F4315C67A9E731AA3 /* seed-games.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = "seed-games.json"; sourceTree = "<group>"; };
+		C49D46B3B38D9BEC06260C62 /* PSCrossplayApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PSCrossplayApp.swift; sourceTree = "<group>"; };
+		D3DF65A5BD1B0E7A83AC984B /* GameCard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameCard.swift; sourceTree = "<group>"; };
+		DC77E22EED30A685C5411B23 /* CatalogView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CatalogView.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		1F9C8F4BDE2B15EFEF6D831D = {
+			isa = PBXGroup;
+			children = (
+				6AB1648C2F09738AB0912F3D /* PSCrossplay */,
+				C64E52EBDC635E0FA5F67C7B /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		5F3753C170358425E823D88A /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				B33B109F4315C67A9E731AA3 /* seed-games.json */,
+			);
+			path = Resources;
+			sourceTree = "<group>";
+		};
+		6AB1648C2F09738AB0912F3D /* PSCrossplay */ = {
+			isa = PBXGroup;
+			children = (
+				C49D46B3B38D9BEC06260C62 /* PSCrossplayApp.swift */,
+				8BFC640D18CD0C6DE15DEB16 /* Models */,
+				5F3753C170358425E823D88A /* Resources */,
+				E200961B45089A41B2A1176B /* Services */,
+				B41711A5EE90F7A4B65B40AF /* Views */,
+			);
+			path = PSCrossplay;
+			sourceTree = "<group>";
+		};
+		8BFC640D18CD0C6DE15DEB16 /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				90A8A6018541872E1054F340 /* Game.swift */,
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+		B41711A5EE90F7A4B65B40AF /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				DC77E22EED30A685C5411B23 /* CatalogView.swift */,
+				5E98E20A1ECA948BB9B3BF88 /* FilterBar.swift */,
+				D3DF65A5BD1B0E7A83AC984B /* GameCard.swift */,
+				2E8C9EB6550878EE4B927656 /* RootView.swift */,
+				4557C2242C0523D32E1FDA55 /* SectionView.swift */,
+				30D9D3642074F2931A445ADD /* SettingsView.swift */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		C64E52EBDC635E0FA5F67C7B /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				2573A745F6EE8E61714F2EED /* PSCrossplay.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		E200961B45089A41B2A1176B /* Services */ = {
+			isa = PBXGroup;
+			children = (
+				15695E94F8709DD6C193537C /* GameStore.swift */,
+				41E59D3EF3FCB932593AA350 /* KeychainPAT.swift */,
+				483722960872B50A1DE23AF9 /* WorkflowDispatcher.swift */,
+			);
+			path = Services;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		95E7602FFB0C33F9DACE6203 /* PSCrossplay */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 035F8E8DF17683CD0FE6309A /* Build configuration list for PBXNativeTarget "PSCrossplay" */;
+			buildPhases = (
+				989C7A960CEDF3985E8C5ABE /* Sources */,
+				0CC115427CD2CE8424A28A33 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = PSCrossplay;
+			packageProductDependencies = (
+			);
+			productName = PSCrossplay;
+			productReference = 2573A745F6EE8E61714F2EED /* PSCrossplay.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		47657033D4671A04CC1285EC /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = YES;
+				LastUpgradeCheck = 1430;
+				TargetAttributes = {
+				};
+			};
+			buildConfigurationList = DF2238020D945FC81F8B33CA /* Build configuration list for PBXProject "PSCrossplay" */;
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				Base,
+				en,
+			);
+			mainGroup = 1F9C8F4BDE2B15EFEF6D831D;
+			minimizedProjectReferenceProxies = 1;
+			preferredProjectObjectVersion = 77;
+			productRefGroup = C64E52EBDC635E0FA5F67C7B /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				95E7602FFB0C33F9DACE6203 /* PSCrossplay */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		0CC115427CD2CE8424A28A33 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				64D1929B0970C892AF8E88A7 /* seed-games.json in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		989C7A960CEDF3985E8C5ABE /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				C0A7A09F8D53943604EE0A08 /* CatalogView.swift in Sources */,
+				F353255A0C61CD5C369789C3 /* FilterBar.swift in Sources */,
+				2F0C3F329D91571E7EE329A1 /* Game.swift in Sources */,
+				A8E89EFA7FFBA86861D3BB74 /* GameCard.swift in Sources */,
+				C6853C9CECFC9D7C0A84593D /* GameStore.swift in Sources */,
+				758A08469E5E38656A1BDDF2 /* KeychainPAT.swift in Sources */,
+				38D61A080EE538BAC755379E /* PSCrossplayApp.swift in Sources */,
+				BA3596F237A4E1F2B09A43E3 /* RootView.swift in Sources */,
+				4280D7E4E2041D37F9FC284D /* SectionView.swift in Sources */,
+				7B6E7CD7DBCBC797CB483391 /* SettingsView.swift in Sources */,
+				21E2C98BA1C904E2524D2F5E /* WorkflowDispatcher.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		3BA00B6F61372F9E1C38807D /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				CURRENT_PROJECT_VERSION = 1;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_PREVIEWS = YES;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"$(inherited)",
+					"DEBUG=1",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
+				MARKETING_VERSION = 1.0;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				SWIFT_VERSION = 5.9;
+			};
+			name = Debug;
+		};
+		6EE796573E7C1B23F33D3282 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				CURRENT_PROJECT_VERSION = 1;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_PREVIEWS = YES;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
+				MARKETING_VERSION = 1.0;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				SWIFT_VERSION = 5.9;
+			};
+			name = Release;
+		};
+		9720D53E395DD4F85CC38514 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_CFBundleDisplayName = "PS Crossplay";
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
+				"INFOPLIST_KEY_UISupportedInterfaceOrientations~ipad" = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.pscrossplay.app;
+				SDKROOT = iphoneos;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		FC4304F96E701738F8FFCCB0 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_CFBundleDisplayName = "PS Crossplay";
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
+				"INFOPLIST_KEY_UISupportedInterfaceOrientations~ipad" = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.pscrossplay.app;
+				SDKROOT = iphoneos;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		035F8E8DF17683CD0FE6309A /* Build configuration list for PBXNativeTarget "PSCrossplay" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				FC4304F96E701738F8FFCCB0 /* Debug */,
+				9720D53E395DD4F85CC38514 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Debug;
+		};
+		DF2238020D945FC81F8B33CA /* Build configuration list for PBXProject "PSCrossplay" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				3BA00B6F61372F9E1C38807D /* Debug */,
+				6EE796573E7C1B23F33D3282 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Debug;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 47657033D4671A04CC1285EC /* Project object */;
+}

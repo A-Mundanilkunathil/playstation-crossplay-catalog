@@ -6,3 +6,9 @@ __pycache__/
 venv/
 review.tsv
 .DS_Store
+
+# Xcode per-user state (preferences, breakpoints, active scheme)
+# — generated on open, should not be shared.
+**/xcuserdata/
+*.xcuserdatad
+DerivedData/
