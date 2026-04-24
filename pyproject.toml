@@ -1,0 +1,17 @@
+[project]
+name = "ps-plus-crossplay"
+version = "0.1.0"
+description = "Pipeline + web UI for PS Plus Extra games with PS4/PS5 crossplay"
+requires-python = ">=3.10"
+dependencies = [
+  "requests>=2.31",
+  "beautifulsoup4>=4.12",
+  "pandas>=2.0",
+  "lxml>=4.9",
+  "rapidfuzz>=3.0",
+  "python-dotenv>=1.0",
+  "html5lib>=1.1",
+]
+
+[tool.setuptools]
+packages = ["pipeline"]

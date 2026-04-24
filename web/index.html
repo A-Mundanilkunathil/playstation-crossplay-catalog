@@ -1,0 +1,59 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>PS / PC Crossplay Catalog</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Crossplay catalog <span class="subtle">· PlayStation & PC</span></h1>
+    <div class="controls">
+      <input id="search" type="search" placeholder="Filter by title…" autocomplete="off">
+      <select id="genre"><option value="">All genres</option></select>
+      <label class="toggle">
+        <input id="toggle-labels" type="checkbox">
+        <span>Show labels</span>
+      </label>
+      <label class="toggle">
+        <input id="toggle-strict" type="checkbox">
+        <span>High confidence only</span>
+      </label>
+    </div>
+    <p id="count" class="subtle"></p>
+  </header>
+
+  <main>
+    <h2 class="group-heading">In PlayStation Plus Extra</h2>
+    <section class="combo" data-section="extra-ps4ps5" data-extra-only="true" data-required="PS4,PS5">
+      <h3>PS4 ↔ PS5 <span class="subtle count"></span></h3>
+      <div class="grid"></div>
+      <p class="empty subtle" hidden>No games match your filters.</p>
+    </section>
+    <section class="combo" data-section="extra-ps5pc" data-extra-only="true" data-required="PS5,PC">
+      <h3>PS5 ↔ PC <span class="subtle count"></span></h3>
+      <div class="grid"></div>
+      <p class="empty subtle" hidden>No games match your filters.</p>
+    </section>
+    <section class="combo" data-section="extra-ps4ps5pc" data-extra-only="true" data-required="PS4,PS5,PC">
+      <h3>PS4 ↔ PS5 ↔ PC <span class="subtle count"></span></h3>
+      <div class="grid"></div>
+      <p class="empty subtle" hidden>No games match your filters.</p>
+    </section>
+
+    <h2 class="group-heading">All games (free or paid)</h2>
+    <section class="combo" data-section="all-ps5pc" data-extra-only="false" data-required="PS5,PC">
+      <h3>PS5 ↔ PC <span class="subtle count"></span></h3>
+      <div class="grid"></div>
+      <p class="empty subtle" hidden>No games match your filters.</p>
+    </section>
+    <section class="combo" data-section="all-ps4ps5pc" data-extra-only="false" data-required="PS4,PS5,PC">
+      <h3>PS4 ↔ PS5 ↔ PC <span class="subtle count"></span></h3>
+      <div class="grid"></div>
+      <p class="empty subtle" hidden>No games match your filters.</p>
+    </section>
+  </main>
+  <script src="app.js"></script>
+</body>
+</html>
