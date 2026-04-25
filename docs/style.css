@@ -68,6 +68,44 @@ input[type="search"]:focus, select:focus {
 
 .toggle input { margin: 0; }
 
+.refresh {
+  background: var(--card);
+  border: 1px solid var(--border);
+  color: var(--text);
+  padding: 0.45rem 0.75rem;
+  border-radius: 6px;
+  font-size: 14px;
+  font-weight: 500;
+  cursor: pointer;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+  transition: border-color 120ms, transform 120ms;
+}
+.refresh:hover:not(:disabled) { border-color: var(--accent); }
+.refresh:active:not(:disabled) { transform: scale(0.97); }
+.refresh:disabled { opacity: 0.6; cursor: wait; }
+
+.refresh-icon {
+  display: inline-block;
+  font-size: 16px;
+  line-height: 1;
+}
+.refresh.spinning .refresh-icon {
+  animation: spin 0.9s linear infinite;
+}
+
+@keyframes spin {
+  from { transform: rotate(0deg); }
+  to   { transform: rotate(360deg); }
+}
+
+/* Respect iPhone safe areas when installed as a PWA */
+@supports (padding: max(0px)) {
+  header { padding-top: max(2rem, env(safe-area-inset-top)); }
+  main { padding-bottom: max(4rem, env(safe-area-inset-bottom)); }
+}
+
 #count { margin: 0.75rem 0 0; font-size: 13px; }
 
 main {

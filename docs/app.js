@@ -6,26 +6,47 @@ const $view = document.getElementById("view");
 const $toggleLabels = document.getElementById("toggle-labels");
 const $strict = document.getElementById("toggle-strict");
 const $count = document.getElementById("count");
+const $refresh = document.getElementById("refresh");
 
 async function init() {
-  try {
-    const resp = await fetch("games.json", { cache: "no-cache" });
-    state.games = await resp.json();
-  } catch (e) {
-    document.body.insertAdjacentHTML(
-      "beforeend",
-      `<p class="subtle" style="padding:2rem">Couldn't load games.json — run <code>make refresh</code> first.</p>`
-    );
-    return;
-  }
+  registerServiceWorker();
+  await loadGames();
   populateGenres();
   populateViews();
   render();
 }
 
+async function loadGames({ forceNetwork = false } = {}) {
+  try {
+    const resp = await fetch("games.json", {
+      cache: forceNetwork ? "no-store" : "no-cache",
+    });
+    if (!resp.ok) throw new Error(`HTTP ${resp.status}`);
+    state.games = await resp.json();
+  } catch (e) {
+    if (state.games.length === 0) {
+      document.body.insertAdjacentHTML(
+        "beforeend",
+        `<p class="subtle" style="padding:2rem">Couldn't load games.json — are you offline before the first fetch?</p>`
+      );
+    }
+  }
+}
+
+function registerServiceWorker() {
+  if (!("serviceWorker" in navigator)) return;
+  window.addEventListener("load", () => {
+    navigator.serviceWorker
+      .register("sw.js")
+      .catch(err => console.warn("SW registration failed:", err));
+  });
+}
+
 function populateGenres() {
   const all = new Set();
   for (const g of state.games) for (const x of g.genres || []) all.add(x);
+  // Keep first "All genres" option, replace the rest.
+  while ($genre.options.length > 1) $genre.remove(1);
   for (const name of [...all].sort()) {
     const opt = document.createElement("option");
     opt.value = name;
@@ -35,8 +56,6 @@ function populateGenres() {
 }
 
 function populateViews() {
-  // Fixed order that matches the user-facing taxonomy (FPS / TPS / Top-Down /
-  // Side-Scroller / Fixed Camera / VR), only showing options present in data.
   const ORDER = [
     "First-Person",
     "Third-Person",
@@ -47,6 +66,7 @@ function populateViews() {
   ];
   const present = new Set();
   for (const g of state.games) for (const v of g.view_types || []) present.add(v);
+  while ($view.options.length > 1) $view.remove(1);
   for (const name of ORDER) {
     if (!present.has(name)) continue;
     const opt = document.createElement("option");
@@ -171,6 +191,23 @@ $toggleLabels.addEventListener("change", e => {
 $strict.addEventListener("change", e => {
   state.strict = e.target.checked;
   render();
+});
+
+$refresh.addEventListener("click", async () => {
+  $refresh.classList.add("spinning");
+  $refresh.disabled = true;
+  try {
+    // Ask SW to refresh its runtime cache too, then fetch bypassing SW cache.
+    navigator.serviceWorker?.controller?.postMessage({ type: "refresh-games" });
+    await loadGames({ forceNetwork: true });
+    populateGenres();
+    populateViews();
+    render();
+    $refresh.title = `Last refreshed ${new Date().toLocaleTimeString()}`;
+  } finally {
+    $refresh.classList.remove("spinning");
+    $refresh.disabled = false;
+  }
 });
 
 init();
