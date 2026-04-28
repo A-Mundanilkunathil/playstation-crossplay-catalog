@@ -10711,7 +10711,8 @@
       "lokalnyi-kooperativ"
     ],
     "platforms": [
-      "PC"
+      "PC",
+      "PlayStation 4"
     ],
     "splitscreen": true,
     "online_coop": true,
