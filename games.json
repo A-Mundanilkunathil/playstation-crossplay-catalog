@@ -4386,6 +4386,87 @@
     ]
   },
   {
+    "title": "FC 26",
+    "genres": [
+      "Simulation",
+      "Sports"
+    ],
+    "tags": [
+      "singleplayer",
+      "dlia-odnogo-igroka",
+      "steam-achievements",
+      "multiplayer",
+      "full-controller-support",
+      "dlia-neskolkikh-igrokov",
+      "co-op",
+      "otkrytyi-mir",
+      "open-world",
+      "cooperative",
+      "simuliator",
+      "online-co-op",
+      "split-screen",
+      "lokalnyi-multipleer",
+      "local-co-op",
+      "kontroller",
+      "controller",
+      "local-multiplayer",
+      "pvp",
+      "cross-platform-multiplayer",
+      "dlia-vsei-semi",
+      "igrok-protiv-igroka",
+      "in-app-purchases",
+      "family-friendly",
+      "realizm",
+      "realistic",
+      "sorevnovatelnaia",
+      "competitive",
+      "online-pvp",
+      "kibersport",
+      "setevoi-kooperativ",
+      "sharedsplit-screen-co-op",
+      "modern",
+      "sovremennost",
+      "sharedsplit-screen-pvp",
+      "futbol-2",
+      "lokalnyi-kooperativ",
+      "esports",
+      "hdr-available",
+      "stereo-sound",
+      "adjustable-difficulty",
+      "subtitle-options",
+      "sport-2",
+      "keyboard-only-option",
+      "football-soccer-2",
+      "chat-speech-to-text"
+    ],
+    "platforms": [
+      "PC",
+      "PlayStation 5",
+      "Xbox One"
+    ],
+    "splitscreen": true,
+    "online_coop": true,
+    "players": null,
+    "rawg_id": 1007653,
+    "rawg_slug": "ea-sports-fc-26",
+    "background_image": "https://media.rawg.io/media/screenshots/70f/70fb740261ef152d0d3392a9a306c9ca.jpg",
+    "release_year": 2025,
+    "sources": [
+      "rawg_tag"
+    ],
+    "confidence": "high",
+    "crossplay_platforms": [
+      "PC",
+      "PS5",
+      "XBO"
+    ],
+    "in_extra": true,
+    "view_types": [
+      "Third-Person",
+      "Top-Down/Isometric"
+    ]
+  },
+  {
     "title": "FIFA 22",
     "genres": [
       "Simulation",
@@ -12887,7 +12968,7 @@
     "rawg_id": 225162,
     "rawg_slug": "sword-art-online-integral-factor",
     "background_image": "https://media.rawg.io/media/screenshots/464/46472b81ae5696fd8dde747bbf392003.jpg",
-    "release_year": 2024,
+    "release_year": null,
     "sources": [
       "wikipedia"
     ],
@@ -12899,10 +12980,8 @@
       "Switch",
       "XBSX"
     ],
-    "in_extra": true,
-    "view_types": [
-      "Third-Person"
-    ]
+    "in_extra": false,
+    "view_types": []
   },
   {
     "title": "Tannenberg",
@@ -13220,8 +13299,8 @@
       "resheniia-s-posledstviiami",
       "in-app-purchases",
       "character-customization",
-      "realizm",
       "choices-matter",
+      "realizm",
       "realistic",
       "crafting",
       "combat",
