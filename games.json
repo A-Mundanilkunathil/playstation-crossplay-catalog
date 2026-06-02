@@ -8240,7 +8240,7 @@
     "rawg_id": 971923,
     "rawg_slug": "nickelodeon-all-star-brawl-2",
     "background_image": "https://media.rawg.io/media/screenshots/cbf/cbf7fdfa6e9547c97409cc5354180bfa.jpg",
-    "release_year": null,
+    "release_year": 2023,
     "sources": [
       "wikipedia"
     ],
@@ -8253,7 +8253,7 @@
       "XBO",
       "XBSX"
     ],
-    "in_extra": false,
+    "in_extra": true,
     "view_types": [
       "Side-Scroller/2D"
     ]
