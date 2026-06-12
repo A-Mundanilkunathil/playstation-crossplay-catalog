@@ -2740,22 +2740,28 @@
       "RPG"
     ],
     "tags": [
-      "story",
-      "online",
-      "battle",
-      "memory",
-      "animation"
+      "singleplayer",
+      "steam-achievements",
+      "full-controller-support",
+      "steam-cloud",
+      "rpg",
+      "rolevaia-igra",
+      "steam-leaderboards",
+      "online-multiplayer",
+      "anime-2",
+      "anime",
+      "steam-trading-cards-2"
     ],
     "platforms": [
-      "PlayStation 4",
-      "PS Vita"
+      "PC",
+      "Nintendo Switch"
     ],
     "splitscreen": false,
     "online_coop": false,
     "players": null,
-    "rawg_id": 49304,
-    "rawg_slug": "digimon-story-cyber-sleuth-hackers-memory",
-    "background_image": "https://media.rawg.io/media/games/d8f/d8f2a9a7af2cfd5f422fda2d7dca0325.jpg",
+    "rawg_id": 383623,
+    "rawg_slug": "digimon-story-cyber-sleuth-complete-edition",
+    "background_image": "https://media.rawg.io/media/games/e59/e597f1f5c98805e1f2e76e2436257b48.jpg",
     "release_year": null,
     "sources": [
       "wikipedia",
