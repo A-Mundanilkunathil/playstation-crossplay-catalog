@@ -2740,22 +2740,28 @@
       "RPG"
     ],
     "tags": [
-      "story",
-      "online",
-      "battle",
-      "memory",
-      "animation"
+      "singleplayer",
+      "steam-achievements",
+      "full-controller-support",
+      "steam-cloud",
+      "rpg",
+      "rolevaia-igra",
+      "steam-leaderboards",
+      "online-multiplayer",
+      "anime-2",
+      "anime",
+      "steam-trading-cards-2"
     ],
     "platforms": [
-      "PlayStation 4",
-      "PS Vita"
+      "PC",
+      "Nintendo Switch"
     ],
     "splitscreen": false,
     "online_coop": false,
     "players": null,
-    "rawg_id": 49304,
-    "rawg_slug": "digimon-story-cyber-sleuth-hackers-memory",
-    "background_image": "https://media.rawg.io/media/games/d8f/d8f2a9a7af2cfd5f422fda2d7dca0325.jpg",
+    "rawg_id": 383623,
+    "rawg_slug": "digimon-story-cyber-sleuth-complete-edition",
+    "background_image": "https://media.rawg.io/media/games/e59/e597f1f5c98805e1f2e76e2436257b48.jpg",
     "release_year": null,
     "sources": [
       "wikipedia",
@@ -4383,87 +4389,6 @@
     "in_extra": true,
     "view_types": [
       "First-Person"
-    ]
-  },
-  {
-    "title": "FC 26",
-    "genres": [
-      "Simulation",
-      "Sports"
-    ],
-    "tags": [
-      "singleplayer",
-      "dlia-odnogo-igroka",
-      "steam-achievements",
-      "multiplayer",
-      "full-controller-support",
-      "dlia-neskolkikh-igrokov",
-      "co-op",
-      "otkrytyi-mir",
-      "open-world",
-      "cooperative",
-      "simuliator",
-      "online-co-op",
-      "split-screen",
-      "lokalnyi-multipleer",
-      "local-co-op",
-      "kontroller",
-      "controller",
-      "local-multiplayer",
-      "pvp",
-      "cross-platform-multiplayer",
-      "dlia-vsei-semi",
-      "igrok-protiv-igroka",
-      "in-app-purchases",
-      "family-friendly",
-      "realizm",
-      "realistic",
-      "sorevnovatelnaia",
-      "competitive",
-      "online-pvp",
-      "kibersport",
-      "setevoi-kooperativ",
-      "sharedsplit-screen-co-op",
-      "modern",
-      "sovremennost",
-      "sharedsplit-screen-pvp",
-      "futbol-2",
-      "lokalnyi-kooperativ",
-      "esports",
-      "hdr-available",
-      "stereo-sound",
-      "adjustable-difficulty",
-      "subtitle-options",
-      "sport-2",
-      "keyboard-only-option",
-      "football-soccer-2",
-      "chat-speech-to-text"
-    ],
-    "platforms": [
-      "PC",
-      "PlayStation 5",
-      "Xbox One"
-    ],
-    "splitscreen": true,
-    "online_coop": true,
-    "players": null,
-    "rawg_id": 1007653,
-    "rawg_slug": "ea-sports-fc-26",
-    "background_image": "https://media.rawg.io/media/screenshots/70f/70fb740261ef152d0d3392a9a306c9ca.jpg",
-    "release_year": 2025,
-    "sources": [
-      "rawg_tag"
-    ],
-    "confidence": "high",
-    "crossplay_platforms": [
-      "PC",
-      "PS5",
-      "XBO"
-    ],
-    "in_extra": true,
-    "view_types": [
-      "Third-Person",
-      "Top-Down/Isometric"
     ]
   },
   {
@@ -9158,8 +9083,8 @@
       "co-op",
       "rolevaia-igra",
       "cooperative",
-      "sci-fi",
       "nauchnaia-fantastika",
+      "sci-fi",
       "partial-controller-support",
       "online-co-op",
       "fentezi",
@@ -12092,9 +12017,9 @@
       "crash",
       "tactics",
       "portal",
+      "portals",
       "leaderboard",
-      "bat",
-      "portals"
+      "bat"
     ],
     "platforms": [
       "PC",
@@ -14728,8 +14653,8 @@
       "loot",
       "lut",
       "alternativnaia-istoriia",
-      "alternate-history",
       "family-sharing",
+      "alternate-history",
       "1980s",
       "setevoi-kooperativ",
       "arena-shooter",
