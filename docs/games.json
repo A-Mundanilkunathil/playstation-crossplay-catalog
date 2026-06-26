@@ -804,11 +804,10 @@
     "rawg_id": 397473,
     "rawg_slug": "back-4-blood",
     "background_image": "https://media.rawg.io/media/games/4fe/4feffcec6315c5f5a96442a8444431ca.jpg",
-    "release_year": 2021,
+    "release_year": null,
     "sources": [
       "wikipedia",
-      "crossplaygames",
-      "rawg_platforms"
+      "crossplaygames"
     ],
     "confidence": "high",
     "crossplay_platforms": [
@@ -818,7 +817,7 @@
       "XBO",
       "XBSX"
     ],
-    "in_extra": true,
+    "in_extra": false,
     "view_types": [
       "First-Person"
     ]
@@ -1035,90 +1034,6 @@
     ],
     "in_extra": false,
     "view_types": []
-  },
-  {
-    "title": "Blood Bowl 3",
-    "genres": [
-      "Strategy",
-      "Sports"
-    ],
-    "tags": [
-      "singleplayer",
-      "dlia-odnogo-igroka",
-      "ekshen",
-      "steam-achievements",
-      "multiplayer",
-      "steam-cloud",
-      "dlia-neskolkikh-igrokov",
-      "rpg",
-      "rolevaia-igra",
-      "strategiia",
-      "partial-controller-support",
-      "smeshnaia",
-      "fentezi",
-      "fantasy",
-      "funny",
-      "miaso",
-      "gore",
-      "nasilie",
-      "violent",
-      "split-screen",
-      "taktika",
-      "tactical",
-      "pvp",
-      "igrok-protiv-igroka",
-      "poshagovaia",
-      "in-app-purchases",
-      "turn-based",
-      "tiomnoe-fentezi",
-      "dark-fantasy",
-      "poshagovaia-strategiia",
-      "srednevekove",
-      "medieval",
-      "turn-based-strategy",
-      "sportivnaia-igra",
-      "menedzhment",
-      "online-pvp",
-      "steam-trading-cards-2",
-      "management",
-      "poshagovaia-taktika",
-      "turn-based-tactics",
-      "board-game",
-      "games-workshop",
-      "sharedsplit-screen-pvp",
-      "nastolnaia-s-polem"
-    ],
-    "platforms": [
-      "PC",
-      "PlayStation 5",
-      "Xbox One",
-      "PlayStation 4",
-      "Xbox Series S/X",
-      "Nintendo Switch"
-    ],
-    "splitscreen": true,
-    "online_coop": true,
-    "players": null,
-    "rawg_id": 548035,
-    "rawg_slug": "blood-bowl-3",
-    "background_image": "https://media.rawg.io/media/games/da7/da7a5a9e77e3dd6e2954f65cbf0824e8.jpg",
-    "release_year": 2023,
-    "sources": [
-      "rawg_platforms"
-    ],
-    "confidence": "medium",
-    "crossplay_platforms": [
-      "PC",
-      "PS4",
-      "PS5",
-      "Switch",
-      "XBO",
-      "XBSX"
-    ],
-    "in_extra": true,
-    "view_types": [
-      "Top-Down/Isometric"
-    ]
   },
   {
     "title": "Borderlands 3",
@@ -2455,7 +2370,7 @@
     ]
   },
   {
-    "title": "Deceive Inc",
+    "title": "Deceive Inc.",
     "genres": [
       "Indie",
       "Action"
@@ -2489,7 +2404,7 @@
     "rawg_id": 427462,
     "rawg_slug": "deceive-inc",
     "background_image": "https://media.rawg.io/media/games/3ee/3ee7288cdb49b9987b75d9a6f69855a7.jpg",
-    "release_year": 2023,
+    "release_year": null,
     "sources": [
       "crossplaygames"
     ],
@@ -2499,7 +2414,7 @@
       "PS5",
       "XBSX"
     ],
-    "in_extra": true,
+    "in_extra": false,
     "view_types": [
       "First-Person"
     ]
@@ -2587,11 +2502,10 @@
     "rawg_id": 32,
     "rawg_slug": "destiny-2",
     "background_image": "https://media.rawg.io/media/games/34b/34b1f1850a1c06fd971bc6ab3ac0ce0e.jpg",
-    "release_year": 2017,
+    "release_year": null,
     "sources": [
       "wikipedia",
-      "crossplaygames",
-      "rawg_platforms"
+      "crossplaygames"
     ],
     "confidence": "high",
     "crossplay_platforms": [
@@ -2601,7 +2515,7 @@
       "XBO",
       "XBSX"
     ],
-    "in_extra": true,
+    "in_extra": false,
     "view_types": [
       "First-Person"
     ]
@@ -3526,7 +3440,7 @@
     "rawg_id": 875,
     "rawg_slug": "eagle-flight",
     "background_image": "https://media.rawg.io/media/screenshots/ff7/ff7a0954fd69d9ae439b4c759ae8d60e.jpg",
-    "release_year": 2016,
+    "release_year": null,
     "sources": [
       "wikipedia",
       "crossplaygames"
@@ -3537,7 +3451,7 @@
       "PS4",
       "PS5"
     ],
-    "in_extra": true,
+    "in_extra": false,
     "view_types": [
       "VR"
     ]
@@ -3716,7 +3630,7 @@
     "rawg_id": 308098,
     "rawg_slug": "embr",
     "background_image": "https://media.rawg.io/media/screenshots/cff/cffcad5a37be70da700023800b1502bc.jpg",
-    "release_year": 2021,
+    "release_year": null,
     "sources": [
       "crossplaygames"
     ],
@@ -3728,10 +3642,8 @@
       "XBO",
       "XBSX"
     ],
-    "in_extra": true,
-    "view_types": [
-      "First-Person"
-    ]
+    "in_extra": false,
+    "view_types": []
   },
   {
     "title": "Enlisted",
@@ -4308,87 +4220,6 @@
     "in_extra": false,
     "view_types": [
       "Side-Scroller/2D"
-    ]
-  },
-  {
-    "title": "FBC: Firebreak",
-    "genres": [
-      "Shooter",
-      "Action"
-    ],
-    "tags": [
-      "ekshen",
-      "steam-achievements",
-      "multiplayer",
-      "full-controller-support",
-      "atmospheric",
-      "dlia-neskolkikh-igrokov",
-      "co-op",
-      "cooperative",
-      "shuter",
-      "ot-pervogo-litsa",
-      "first-person",
-      "nauchnaia-fantastika",
-      "sci-fi",
-      "horror",
-      "fps",
-      "shuter-ot-pervogo-litsa",
-      "smeshnaia",
-      "online-co-op",
-      "funny",
-      "exploration",
-      "action-adventure",
-      "cross-platform-multiplayer",
-      "zombies",
-      "zombi-2",
-      "prikliuchencheskii-ekshen",
-      "3d",
-      "atmosfernaia",
-      "chiornyi-iumor",
-      "siurrealistichnaia",
-      "surreal",
-      "issledovaniia",
-      "dark-humor",
-      "pve",
-      "lore-rich",
-      "prorabotannaia-vselennaia",
-      "family-sharing",
-      "supernatural",
-      "sverkhestestvennoe",
-      "class-based",
-      "razdelenie-na-klassy",
-      "igrok-protiv-ii",
-      "stereo-sound",
-      "custom-volume-controls",
-      "surround-sound-2",
-      "adjustable-difficulty",
-      "subtitle-options",
-      "adjustable-text-size"
-    ],
-    "platforms": [
-      "PC",
-      "PlayStation 5",
-      "Xbox Series S/X"
-    ],
-    "splitscreen": false,
-    "online_coop": true,
-    "players": null,
-    "rawg_id": 1001848,
-    "rawg_slug": "fbc-firebreak",
-    "background_image": "https://media.rawg.io/media/games/bd6/bd6b68a7dee43d07db95ed6cdef5cb37.jpg",
-    "release_year": 2025,
-    "sources": [
-      "rawg_tag"
-    ],
-    "confidence": "high",
-    "crossplay_platforms": [
-      "PC",
-      "PS5",
-      "XBSX"
-    ],
-    "in_extra": true,
-    "view_types": [
-      "First-Person"
     ]
   },
   {
@@ -5065,7 +4896,7 @@
     "rawg_id": 60862,
     "rawg_slug": "gloomhaven",
     "background_image": "https://media.rawg.io/media/screenshots/32c/32cfc18e11d9030b5945f8102d2e6488.jpg",
-    "release_year": 2021,
+    "release_year": null,
     "sources": [
       "crossplaygames"
     ],
@@ -5078,10 +4909,8 @@
       "XBO",
       "XBSX"
     ],
-    "in_extra": true,
-    "view_types": [
-      "Top-Down/Isometric"
-    ]
+    "in_extra": false,
+    "view_types": []
   },
   {
     "title": "God Eater 2 Rage Burst",
@@ -5245,10 +5074,9 @@
     "rawg_id": 964509,
     "rawg_slug": "granblue-fantasy-versus-rising",
     "background_image": "https://media.rawg.io/media/screenshots/615/6155ccaf29780cd1ff13e07d370d2aec.jpg",
-    "release_year": 2023,
+    "release_year": null,
     "sources": [
-      "wikipedia",
-      "rawg_platforms"
+      "wikipedia"
     ],
     "confidence": "high",
     "crossplay_platforms": [
@@ -5256,10 +5084,8 @@
       "PS4",
       "PS5"
     ],
-    "in_extra": true,
-    "view_types": [
-      "Side-Scroller/2D"
-    ]
+    "in_extra": false,
+    "view_types": []
   },
   {
     "title": "Grand Kingdom",
@@ -6334,11 +6160,10 @@
     "rawg_id": 59306,
     "rawg_slug": "insurgency-sandstorm",
     "background_image": "https://media.rawg.io/media/games/0a5/0a56d96dd280a5d4141a097629d902e3.jpg",
-    "release_year": 2018,
+    "release_year": null,
     "sources": [
       "wikipedia",
-      "crossplaygames",
-      "rawg_platforms"
+      "crossplaygames"
     ],
     "confidence": "high",
     "crossplay_platforms": [
@@ -6348,7 +6173,7 @@
       "XBO",
       "XBSX"
     ],
-    "in_extra": true,
+    "in_extra": false,
     "view_types": [
       "First-Person"
     ]
@@ -7371,77 +7196,6 @@
     ]
   },
   {
-    "title": "Monster Truck Championship",
-    "genres": [
-      "Racing",
-      "Simulation",
-      "Sports"
-    ],
-    "tags": [
-      "singleplayer",
-      "dlia-odnogo-igroka",
-      "ekshen",
-      "steam-achievements",
-      "multiplayer",
-      "full-controller-support",
-      "atmospheric",
-      "atmosfera",
-      "ot-tretego-litsa",
-      "third-person",
-      "simuliator",
-      "steam-leaderboards",
-      "kontroller",
-      "controller",
-      "pvp",
-      "realizm",
-      "realistic",
-      "fizika",
-      "physics",
-      "gonki",
-      "sorevnovatelnaia",
-      "rasslabliaiushchaia",
-      "competitive",
-      "sportivnaia-igra",
-      "online-pvp",
-      "relaxing",
-      "driving",
-      "vozhdenie",
-      "destruction",
-      "razrusheniia",
-      "america",
-      "amerika",
-      "automobile-sim"
-    ],
-    "platforms": [
-      "PC",
-      "PlayStation 5",
-      "Xbox One",
-      "PlayStation 4"
-    ],
-    "splitscreen": false,
-    "online_coop": true,
-    "players": null,
-    "rawg_id": 427750,
-    "rawg_slug": "monster-truck-championship",
-    "background_image": "https://media.rawg.io/media/games/656/656ce0c0d643a13221887786226c5af5.jpg",
-    "release_year": 2020,
-    "sources": [
-      "rawg_platforms"
-    ],
-    "confidence": "medium",
-    "crossplay_platforms": [
-      "PC",
-      "PS4",
-      "PS5",
-      "XBO"
-    ],
-    "in_extra": true,
-    "view_types": [
-      "First-Person",
-      "Third-Person"
-    ]
-  },
-  {
     "title": "Mortal Kombat 1",
     "genres": [
       "Action",
@@ -7506,7 +7260,7 @@
     "rawg_id": 960873,
     "rawg_slug": "mortal-kombat-1-2023",
     "background_image": "https://media.rawg.io/media/games/155/155087d7b9c1225cda0ab9e586b6374d.jpg",
-    "release_year": 2023,
+    "release_year": null,
     "sources": [
       "wikipedia"
     ],
@@ -7516,10 +7270,8 @@
       "PS5",
       "XBSX"
     ],
-    "in_extra": true,
-    "view_types": [
-      "Side-Scroller/2D"
-    ]
+    "in_extra": false,
+    "view_types": []
   },
   {
     "title": "Mortal Kombat 11",
@@ -8165,7 +7917,7 @@
     "rawg_id": 971923,
     "rawg_slug": "nickelodeon-all-star-brawl-2",
     "background_image": "https://media.rawg.io/media/screenshots/cbf/cbf7fdfa6e9547c97409cc5354180bfa.jpg",
-    "release_year": 2023,
+    "release_year": null,
     "sources": [
       "wikipedia"
     ],
@@ -8178,7 +7930,7 @@
       "XBO",
       "XBSX"
     ],
-    "in_extra": true,
+    "in_extra": false,
     "view_types": [
       "Side-Scroller/2D"
     ]
@@ -8650,11 +8402,10 @@
     "rawg_id": 517399,
     "rawg_slug": "overcooked-all-you-can-eat",
     "background_image": "https://media.rawg.io/media/screenshots/2a6/2a61b0ed0bf014f9f6fbbc8294d08f39.jpg",
-    "release_year": 2020,
+    "release_year": null,
     "sources": [
       "wikipedia",
-      "crossplaygames",
-      "rawg_tag"
+      "crossplaygames"
     ],
     "confidence": "high",
     "crossplay_platforms": [
@@ -8665,10 +8416,8 @@
       "XBO",
       "XBSX"
     ],
-    "in_extra": true,
-    "view_types": [
-      "Top-Down/Isometric"
-    ]
+    "in_extra": false,
+    "view_types": []
   },
   {
     "title": "Overwatch",
@@ -9346,88 +9095,6 @@
     ]
   },
   {
-    "title": "Poker Club",
-    "genres": [
-      "Casual",
-      "Strategy",
-      "Simulation",
-      "Sports",
-      "Indie"
-    ],
-    "tags": [
-      "singleplayer",
-      "dlia-odnogo-igroka",
-      "steam-achievements",
-      "indi-2",
-      "multiplayer",
-      "full-controller-support",
-      "atmospheric",
-      "dlia-neskolkikh-igrokov",
-      "atmosfera",
-      "strategiia",
-      "kazualnaia-igra",
-      "ot-pervogo-litsa",
-      "first-person",
-      "simuliator",
-      "pvp",
-      "cross-platform-multiplayer",
-      "igrok-protiv-igroka",
-      "kastomizatsiia-personazha",
-      "character-customization",
-      "realizm",
-      "3d",
-      "realistic",
-      "cinematic",
-      "sportivnaia-igra",
-      "online-pvp",
-      "kinematografichnaia",
-      "online",
-      "kartochnaia-igra",
-      "card-game",
-      "console",
-      "friends",
-      "nastolnaia-igra",
-      "offline",
-      "arena",
-      "room",
-      "tabletop",
-      "azartnaia",
-      "gambling",
-      "poker"
-    ],
-    "platforms": [
-      "PC",
-      "PlayStation 5",
-      "Xbox One",
-      "PlayStation 4",
-      "Xbox Series S/X",
-      "Nintendo Switch"
-    ],
-    "splitscreen": false,
-    "online_coop": true,
-    "players": null,
-    "rawg_id": 490413,
-    "rawg_slug": "poker-club",
-    "background_image": "https://media.rawg.io/media/screenshots/cd2/cd20354d3241b773ae1bdddd1781daf8.jpg",
-    "release_year": 2020,
-    "sources": [
-      "rawg_tag"
-    ],
-    "confidence": "high",
-    "crossplay_platforms": [
-      "PC",
-      "PS4",
-      "PS5",
-      "Switch",
-      "XBO",
-      "XBSX"
-    ],
-    "in_extra": true,
-    "view_types": [
-      "First-Person"
-    ]
-  },
-  {
     "title": "Power Rangers: Battle for the Grid",
     "genres": [
       "Action"
@@ -9458,7 +9125,7 @@
     "rawg_id": 288800,
     "rawg_slug": "power-rangers-battle-for-the-grid",
     "background_image": "https://media.rawg.io/media/games/7f5/7f5972ab99f48b84b770dea1edd2f5c5.jpg",
-    "release_year": 2019,
+    "release_year": null,
     "sources": [
       "wikipedia",
       "crossplaygames"
@@ -9472,10 +9139,8 @@
       "XBO",
       "XBSX"
     ],
-    "in_extra": true,
-    "view_types": [
-      "Side-Scroller/2D"
-    ]
+    "in_extra": false,
+    "view_types": []
   },
   {
     "title": "Pox Nora",
@@ -9878,7 +9543,7 @@
     "rawg_id": 367195,
     "rawg_slug": "readyset-heroes",
     "background_image": "https://media.rawg.io/media/screenshots/d27/d27ce67b941f95c4191d65c0f40d3415.jpg",
-    "release_year": 2019,
+    "release_year": null,
     "sources": [
       "wikipedia",
       "crossplaygames"
@@ -9889,10 +9554,8 @@
       "PS4",
       "PS5"
     ],
-    "in_extra": true,
-    "view_types": [
-      "Top-Down/Isometric"
-    ]
+    "in_extra": false,
+    "view_types": []
   },
   {
     "title": "Realm Royale",
@@ -10245,8 +9908,8 @@
   {
     "title": "Risk of Rain 2",
     "genres": [
-      "Shooter",
-      "Arcade",
+      "Platformer",
+      "Indie",
       "Action"
     ],
     "tags": [
@@ -10256,45 +9919,59 @@
       "steam-achievements",
       "indi-2",
       "multiplayer",
-      "full-controller-support",
-      "steam-cloud",
       "dlia-neskolkikh-igrokov",
+      "steam-trading-cards",
       "otlichnyi-saundtrek",
+      "great-soundtrack",
+      "rpg",
+      "co-op",
+      "rolevaia-igra",
       "cooperative",
-      "ot-tretego-litsa",
+      "2d",
       "nauchnaia-fantastika",
+      "sci-fi",
+      "partial-controller-support",
       "online-co-op",
       "slozhnaia",
-      "steam-leaderboards",
+      "difficult",
       "vyzhivanie",
+      "survival",
+      "platformer-2",
       "sovmestnaia-igra-po-seti",
-      "online-multiplayer",
+      "pikselnaia-grafika",
       "split-screen",
       "lokalnyi-multipleer",
       "local-co-op",
-      "rannii-dostup",
-      "shuter-ot-tretego-litsa",
-      "local-multiplayer",
-      "early-access",
-      "3d",
+      "pixel-graphics",
+      "reigrabelnost",
+      "controller-support",
+      "replay-value",
       "rogalik",
+      "side-scroller",
+      "roguelike",
       "uproshchionnyi-rogalik",
-      "lut",
-      "skroll-shuter"
+      "overlay",
+      "roguelite",
+      "zatiagivaiushchaia",
+      "odna-zhizn",
+      "perma-death"
     ],
     "platforms": [
       "PC",
-      "Xbox One",
       "PlayStation 4",
-      "Nintendo Switch"
+      "Xbox One",
+      "Nintendo Switch",
+      "macOS",
+      "Linux",
+      "PS Vita"
     ],
     "splitscreen": true,
     "online_coop": true,
     "players": null,
-    "rawg_id": 263590,
-    "rawg_slug": "risk-of-rain-2",
-    "background_image": "https://media.rawg.io/media/games/238/238e2b2b24c9838626700c69cacf1e3a.jpg",
-    "release_year": 2020,
+    "rawg_id": 2556,
+    "rawg_slug": "risk-of-rain",
+    "background_image": "https://media.rawg.io/media/games/f62/f62eb0901c7017776e0a5c6a94f979d5.jpg",
+    "release_year": null,
     "sources": [
       "crossplaygames"
     ],
@@ -10304,9 +9981,9 @@
       "PS4",
       "PS5"
     ],
-    "in_extra": true,
+    "in_extra": false,
     "view_types": [
-      "Third-Person"
+      "Side-Scroller/2D"
     ]
   },
   {
@@ -10807,152 +10484,29 @@
     "title": "Sackboy: A Big Adventure",
     "genres": [
       "Platformer",
-      "Adventure",
       "Action"
     ],
-    "tags": [
-      "singleplayer",
-      "dlia-odnogo-igroka",
-      "prikliuchenie",
-      "steam-achievements",
-      "multiplayer",
-      "full-controller-support",
-      "steam-cloud",
-      "dlia-neskolkikh-igrokov",
-      "co-op",
-      "cooperative",
-      "online-co-op",
-      "platformer-2",
-      "dlia-vsei-semi",
-      "family-friendly",
-      "exclusive",
-      "3d",
-      "3d-platformer-2",
-      "online",
-      "3d-platformer",
-      "console",
-      "epic",
-      "party",
-      "setevoi-kooperativ",
-      "offline",
-      "race",
-      "fun",
-      "work",
-      "solo",
-      "knight"
-    ],
+    "tags": [],
     "platforms": [
-      "PC",
-      "PlayStation 5",
-      "PlayStation 4"
+      "PlayStation 5"
     ],
     "splitscreen": false,
-    "online_coop": true,
+    "online_coop": false,
     "players": null,
-    "rawg_id": 499331,
-    "rawg_slug": "sackboy-a-big-adventure-2",
-    "background_image": "https://media.rawg.io/media/games/2ec/2ec8d2b5d990b9407e20dc81d271300d.jpg",
-    "release_year": 2020,
+    "rawg_id": 452641,
+    "rawg_slug": "sackboy-a-big-adventure",
+    "background_image": "https://media.rawg.io/media/games/d3f/d3f19e163c1d7d97bfa7c95d2cd8b9f3.jpg",
+    "release_year": null,
     "sources": [
-      "crossplaygames",
-      "rawg_platforms"
+      "crossplaygames"
     ],
     "confidence": "high",
     "crossplay_platforms": [
-      "PC",
       "PS4",
       "PS5"
     ],
-    "in_extra": true,
-    "view_types": [
-      "Top-Down/Isometric",
-      "Side-Scroller/2D"
-    ]
-  },
-  {
-    "title": "Salt and Sacrifice",
-    "genres": [
-      "Platformer",
-      "Action",
-      "RPG"
-    ],
-    "tags": [
-      "singleplayer",
-      "ekshen",
-      "prikliuchenie",
-      "steam-achievements",
-      "multiplayer",
-      "full-controller-support",
-      "steam-cloud",
-      "rpg",
-      "co-op",
-      "rolevaia-igra",
-      "cooperative",
-      "online-co-op",
-      "split-screen",
-      "action-adventure",
-      "action-rpg",
-      "rolevoi-ekshen",
-      "pvp",
-      "cross-platform-multiplayer",
-      "slesher",
-      "igrok-protiv-igroka",
-      "hack-and-slash",
-      "kastomizatsiia-personazha",
-      "prikliuchencheskii-ekshen",
-      "character-customization",
-      "vid-sboku",
-      "tiomnoe-fentezi",
-      "dark-fantasy",
-      "combat",
-      "side-scroller",
-      "multiple-endings",
-      "online-pvp",
-      "metroidvania",
-      "metroidvaniia",
-      "risovannaia-grafika",
-      "pve",
-      "boi-2",
-      "hand-drawn",
-      "pokhozha-na-dark-souls",
-      "souls-like",
-      "setevoi-kooperativ",
-      "remote-play-together",
-      "2d-platformer-3",
-      "2d-platformer-4",
-      "sharedsplit-screen-co-op",
-      "neskolko-kontsovok",
-      "sovmestnaia-kampaniia",
-      "co-op-campaign",
-      "sharedsplit-screen-pvp",
-      "igrok-protiv-ii"
-    ],
-    "platforms": [
-      "PC",
-      "PlayStation 5",
-      "PlayStation 4",
-      "macOS"
-    ],
-    "splitscreen": true,
-    "online_coop": true,
-    "players": null,
-    "rawg_id": 614966,
-    "rawg_slug": "salt-sacrifice",
-    "background_image": "https://media.rawg.io/media/games/f56/f561a3c018a085d2e41f01718fe05816.jpg",
-    "release_year": 2022,
-    "sources": [
-      "rawg_tag"
-    ],
-    "confidence": "high",
-    "crossplay_platforms": [
-      "PC",
-      "PS4",
-      "PS5"
-    ],
-    "in_extra": true,
-    "view_types": [
-      "Side-Scroller/2D"
-    ]
+    "in_extra": false,
+    "view_types": []
   },
   {
     "title": "Samurai Shodown V Special",
@@ -11201,7 +10755,7 @@
     "rawg_id": 61645,
     "rawg_slug": "secret-neighbor",
     "background_image": "https://media.rawg.io/media/games/ae1/ae1d93f1c29850a246cd6480a7b8ebdf.jpg",
-    "release_year": 2019,
+    "release_year": null,
     "sources": [
       "crossplaygames"
     ],
@@ -11213,10 +10767,8 @@
       "Switch",
       "XBO"
     ],
-    "in_extra": true,
-    "view_types": [
-      "First-Person"
-    ]
+    "in_extra": false,
+    "view_types": []
   },
   {
     "title": "Siegecraft Commander",
@@ -11350,7 +10902,7 @@
     "rawg_id": 29239,
     "rawg_slug": "skull-bones",
     "background_image": "https://media.rawg.io/media/games/097/097a3191f8d9bd75068e89f50f1b021c.jpg",
-    "release_year": 2024,
+    "release_year": null,
     "sources": [
       "crossplaygames"
     ],
@@ -11360,7 +10912,7 @@
       "PS5",
       "XBSX"
     ],
-    "in_extra": true,
+    "in_extra": false,
     "view_types": [
       "First-Person",
       "Third-Person"
@@ -13091,7 +12643,7 @@
     "view_types": []
   },
   {
-    "title": "The Crew Motorfest",
+    "title": "The Crew: Motorfest",
     "genres": [
       "Racing",
       "Arcade"
@@ -13139,10 +12691,9 @@
     "rawg_id": 917742,
     "rawg_slug": "the-crew-motorfest",
     "background_image": "https://media.rawg.io/media/games/01c/01c5ea9e52ba297b28f11938e5005758.jpg",
-    "release_year": 2023,
+    "release_year": null,
     "sources": [
-      "crossplaygames",
-      "rawg_platforms"
+      "crossplaygames"
     ],
     "confidence": "high",
     "crossplay_platforms": [
@@ -13152,11 +12703,8 @@
       "XBO",
       "XBSX"
     ],
-    "in_extra": true,
-    "view_types": [
-      "First-Person",
-      "Third-Person"
-    ]
+    "in_extra": false,
+    "view_types": []
   },
   {
     "title": "The Elder Scrolls Online",
@@ -13736,60 +13284,6 @@
     "view_types": []
   },
   {
-    "title": "Tom Clancy's Rainbow Six: Siege",
-    "genres": [
-      "Shooter",
-      "Action"
-    ],
-    "tags": [
-      "singleplayer",
-      "multiplayer",
-      "atmospheric",
-      "steam-trading-cards",
-      "co-op",
-      "first-person",
-      "partial-controller-support",
-      "fps",
-      "online-co-op",
-      "female-protagonist",
-      "tactical",
-      "realistic",
-      "physics",
-      "team-based",
-      "competitive",
-      "destruction"
-    ],
-    "platforms": [
-      "PC",
-      "PlayStation 5",
-      "Xbox One",
-      "PlayStation 4",
-      "Xbox Series S/X"
-    ],
-    "splitscreen": false,
-    "online_coop": true,
-    "players": null,
-    "rawg_id": 8488,
-    "rawg_slug": "tom-clancys-rainbow-six-siege-2",
-    "background_image": "https://media.rawg.io/media/games/b34/b3419c2706f8f8dbe40d08e23642ad06.jpg",
-    "release_year": 2015,
-    "sources": [
-      "rawg_platforms"
-    ],
-    "confidence": "medium",
-    "crossplay_platforms": [
-      "PC",
-      "PS4",
-      "PS5",
-      "XBO",
-      "XBSX"
-    ],
-    "in_extra": true,
-    "view_types": [
-      "First-Person"
-    ]
-  },
-  {
     "title": "Tom Clancy\\u2019s Rainbow Six Extraction",
     "genres": [
       "Shooter",
@@ -13993,7 +13487,7 @@
     "rawg_id": 10128,
     "rawg_slug": "toukiden-2",
     "background_image": "https://media.rawg.io/media/screenshots/134/134ea39817a9ab765cd17ec091c1ac24.jpg",
-    "release_year": 2017,
+    "release_year": null,
     "sources": [
       "wikipedia",
       "crossplaygames"
@@ -14003,10 +13497,8 @@
       "PS4",
       "PS5"
     ],
-    "in_extra": true,
-    "view_types": [
-      "Third-Person"
-    ]
+    "in_extra": false,
+    "view_types": []
   },
   {
     "title": "Toukiden: Kiwami",
@@ -14975,73 +14467,6 @@
     ]
   },
   {
-    "title": "Warhammer: Chaosbane",
-    "genres": [
-      "Adventure",
-      "Action",
-      "RPG"
-    ],
-    "tags": [
-      "singleplayer",
-      "ekshen",
-      "prikliuchenie",
-      "steam-achievements",
-      "multiplayer",
-      "full-controller-support",
-      "rpg",
-      "co-op",
-      "rolevaia-igra",
-      "cooperative",
-      "online-co-op",
-      "fentezi",
-      "nasilie",
-      "online-multiplayer",
-      "local-co-op",
-      "rolevoi-ekshen",
-      "local-multiplayer",
-      "role-playing",
-      "slesher",
-      "tsvetastaia",
-      "voina",
-      "tiomnoe-fentezi",
-      "istoriia",
-      "izometriia",
-      "dungeon-crawler",
-      "lut",
-      "games-workshop",
-      "warhammer-40k"
-    ],
-    "platforms": [
-      "PC",
-      "PlayStation 5",
-      "Xbox One",
-      "PlayStation 4",
-      "Xbox Series S/X"
-    ],
-    "splitscreen": true,
-    "online_coop": true,
-    "players": null,
-    "rawg_id": 257206,
-    "rawg_slug": "warhammer-chaosbane",
-    "background_image": "https://media.rawg.io/media/games/382/3825ef8a6143ac0622758d6e0f5ae46e.jpg",
-    "release_year": 2019,
-    "sources": [
-      "rawg_platforms"
-    ],
-    "confidence": "medium",
-    "crossplay_platforms": [
-      "PC",
-      "PS4",
-      "PS5",
-      "XBO",
-      "XBSX"
-    ],
-    "in_extra": true,
-    "view_types": [
-      "Top-Down/Isometric"
-    ]
-  },
-  {
     "title": "Warlander",
     "genres": [
       "Adventure",
@@ -15581,7 +15006,7 @@
     "rawg_id": 801638,
     "rawg_slug": "wo-long-fallen-dynasty",
     "background_image": "https://media.rawg.io/media/games/1e1/1e1b965459d5cf69cf51e5d6fe7da959.jpg",
-    "release_year": 2023,
+    "release_year": null,
     "sources": [
       "crossplaygames"
     ],
@@ -15593,10 +15018,8 @@
       "XBO",
       "XBSX"
     ],
-    "in_extra": true,
-    "view_types": [
-      "Third-Person"
-    ]
+    "in_extra": false,
+    "view_types": []
   },
   {
     "title": "World of Tanks",
