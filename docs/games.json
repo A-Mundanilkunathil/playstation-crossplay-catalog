@@ -556,8 +556,8 @@
       "dinozavry",
       "igrok-protiv-ii",
       "lan-co-op",
-      "lan-pvp",
-      "menedzhment-inventaria"
+      "menedzhment-inventaria",
+      "lan-pvp"
     ],
     "platforms": [
       "PC"
@@ -6261,8 +6261,8 @@
       "minigames",
       "love",
       "light",
-      "mining",
       "shakhty",
+      "mining",
       "treasure",
       "relationship",
       "learn",
@@ -10289,8 +10289,8 @@
       "igrok-protiv-igroka",
       "kastomizatsiia-personazha",
       "in-app-purchases",
-      "tsvetastaia",
       "character-customization",
+      "tsvetastaia",
       "3d",
       "colorful",
       "team-based",
