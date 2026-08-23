@@ -1,5 +1,35 @@
 [
   {
+    "title": "2XKO",
+    "genres": [
+      "Fighting"
+    ],
+    "tags": [],
+    "platforms": [
+      "PC",
+      "PlayStation 5",
+      "Xbox Series S/X"
+    ],
+    "splitscreen": false,
+    "online_coop": false,
+    "players": null,
+    "rawg_id": 1015740,
+    "rawg_slug": "2xko",
+    "background_image": null,
+    "release_year": null,
+    "sources": [
+      "wikipedia"
+    ],
+    "confidence": "high",
+    "crossplay_platforms": [
+      "PC",
+      "PS5",
+      "XBSX"
+    ],
+    "in_extra": false,
+    "view_types": []
+  },
+  {
     "title": "Aliens: Fireteam Elite",
     "genres": [
       "Shooter",
