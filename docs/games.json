@@ -14885,6 +14885,90 @@
     ]
   },
   {
+    "title": "Wildgate",
+    "genres": [
+      "Action"
+    ],
+    "tags": [
+      "ekshen",
+      "prikliuchenie",
+      "steam-achievements",
+      "multiplayer",
+      "full-controller-support",
+      "dlia-neskolkikh-igrokov",
+      "rpg",
+      "co-op",
+      "rolevaia-igra",
+      "cooperative",
+      "shuter",
+      "ot-pervogo-litsa",
+      "first-person",
+      "nauchnaia-fantastika",
+      "sci-fi",
+      "fps",
+      "shuter-ot-pervogo-litsa",
+      "online-co-op",
+      "pvp",
+      "cross-platform-multiplayer",
+      "space",
+      "igrok-protiv-igroka",
+      "kosmos-2",
+      "in-app-purchases",
+      "team-based",
+      "komandnaia",
+      "online-pvp",
+      "pve",
+      "family-sharing",
+      "setevoi-kooperativ",
+      "korolevskaia-bitva",
+      "kosmicheskii-simuliator",
+      "pirates",
+      "piraty",
+      "space-sim",
+      "battle-royale-2",
+      "igrok-protiv-ii",
+      "looter-shooter",
+      "hdr-available",
+      "luter-shuter",
+      "stereo-sound",
+      "custom-volume-controls",
+      "surround-sound-2",
+      "playable-without-timed-input",
+      "color-alternatives",
+      "subtitle-options",
+      "adjustable-text-size",
+      "extraction-shooter-2",
+      "shuter-s-evakuatsiei",
+      "spaceships",
+      "kosmicheskie-korabli",
+      "chat-text-to-speech",
+      "chat-speech-to-text"
+    ],
+    "platforms": [
+      "PC"
+    ],
+    "splitscreen": false,
+    "online_coop": true,
+    "players": null,
+    "rawg_id": 1007314,
+    "rawg_slug": "wildgate",
+    "background_image": "https://media.rawg.io/media/screenshots/1da/1dab4ce3bd75225ca21c466134a7d4cc.jpg",
+    "release_year": null,
+    "sources": [
+      "wikipedia"
+    ],
+    "confidence": "high",
+    "crossplay_platforms": [
+      "PC",
+      "PS5",
+      "XBSX"
+    ],
+    "in_extra": false,
+    "view_types": [
+      "First-Person"
+    ]
+  },
+  {
     "title": "Windjammers 2",
     "genres": [
       "Indie",
