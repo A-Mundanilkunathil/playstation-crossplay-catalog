@@ -6816,6 +6816,34 @@
     ]
   },
   {
+    "title": "Marvel T\u014dkon: Fighting Souls",
+    "genres": [
+      "Fighting"
+    ],
+    "tags": [],
+    "platforms": [
+      "PC",
+      "PlayStation 5"
+    ],
+    "splitscreen": false,
+    "online_coop": false,
+    "players": null,
+    "rawg_id": 1010532,
+    "rawg_slug": "marvel-tokon-fighting-souls",
+    "background_image": "https://media.rawg.io/media/screenshots/4ba/4ba7897954c31431c9b38cf18b9e9fdf.jpeg",
+    "release_year": null,
+    "sources": [
+      "wikipedia"
+    ],
+    "confidence": "high",
+    "crossplay_platforms": [
+      "PC",
+      "PS5"
+    ],
+    "in_extra": false,
+    "view_types": []
+  },
+  {
     "title": "Matchpoint: Tennis Championships",
     "genres": [
       "Simulation",
@@ -14141,6 +14169,77 @@
       "First-Person",
       "Third-Person"
     ]
+  },
+  {
+    "title": "Virtua Fighter 5 R.E.V.O. World Stage",
+    "genres": [
+      "Action"
+    ],
+    "tags": [
+      "singleplayer",
+      "dlia-odnogo-igroka",
+      "ekshen",
+      "steam-achievements",
+      "multiplayer",
+      "full-controller-support",
+      "steam-cloud",
+      "atmospheric",
+      "dlia-neskolkikh-igrokov",
+      "otlichnyi-saundtrek",
+      "great-soundtrack",
+      "otkrytyi-mir",
+      "open-world",
+      "klassika",
+      "classic",
+      "lokalnyi-multipleer",
+      "retro-2",
+      "local-multiplayer",
+      "arkada",
+      "retro",
+      "pvp",
+      "anime-2",
+      "anime",
+      "igrok-protiv-igroka",
+      "kastomizatsiia-personazha",
+      "character-customization",
+      "steam-trading-cards-2",
+      "atmosfernaia",
+      "faiting",
+      "jrpg",
+      "iaponskaia-rolevaia-igra",
+      "family-sharing",
+      "nindzia",
+      "ninja",
+      "srazheniia-na-mechakh",
+      "swordplay",
+      "boevye-iskusstva",
+      "martial-arts",
+      "3d-fighter-2",
+      "3d-faiting",
+      "resling",
+      "wrestling"
+    ],
+    "platforms": [
+      "PC"
+    ],
+    "splitscreen": true,
+    "online_coop": true,
+    "players": null,
+    "rawg_id": 996798,
+    "rawg_slug": "virtua-fighter-5-revo",
+    "background_image": "https://media.rawg.io/media/screenshots/11e/11ea408c43a505b311f8731303de8090.jpg",
+    "release_year": null,
+    "sources": [
+      "wikipedia"
+    ],
+    "confidence": "high",
+    "crossplay_platforms": [
+      "PC",
+      "PS5",
+      "XBSX"
+    ],
+    "in_extra": false,
+    "view_types": []
   },
   {
     "title": "War Thunder",
